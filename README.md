@@ -1,6 +1,6 @@
-# Concordia Triglotta - Librī symbolīcī Ecclēsiae Lutherānae
+# Concordia - Librī symbolicī Ecclēsiae Lutherānae
 
-The Concordia Triglotta Latin text, with added macrons and audio recordings in the Classical pronunciation.
+The Latin text of the 1921 edition of the Concordia Triglotta, with added macrons and audio recordings in the Classical pronunciation.
 
 # Setup
 
