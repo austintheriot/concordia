@@ -29,8 +29,6 @@ ad quam omnia dogmata exigenda, et quae inciderunt certamina, pie declaranda et 
 
 I. DE PECCATO ORIGINIS.
 
----
-
 STATUS CONTROVERSIAE.
 
 1] An peccatum originale sit proprie et absque omni discrimine ipsa hominis corrupti natura, substantia et
