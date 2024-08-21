@@ -78,7 +78,7 @@ Nam sīcut anima ratiōnālis et carō ūnus est homō, ita Deus et homō ūnus 
 
 Quī passus est prō nostrā salūte, dēscendit ad īnferōs, tertiā diē resurrēxit ā mortuīs, 
 
-Ascendit ad coelōs, sedet ad dexteram Deī Patris omnipotentis, 
+Ascendit ad caelōs, sedet ad dexteram Deī Patris omnipotentis, 
 
 Inde ventūrus est jūdicāre vīvōs et mortuōs. 
 
