@@ -251,7 +251,6 @@ AFFIRMATIVA.
 
 Sincera doctrina cum norma Verbi Dei congruens.
 
-
 2] I. Credimus, docemus et confitemur, discrimen legis et evangelii ut clarissimum quoddam lumen singulari diligentia in ecclesia Dei retinendum esse, ut Verbum Dei, iuxta admonitionem divi Pauli, recte secari queat.
 
 3] II. Credimus, docemus et confitemur, legem esse proprie doctrinam divinitus revelatam, quae doceat, quid iustum Deoque gratum sit, quae etiam, quidquid peccatum est et voluntati divinae adversatur, redarguat.
@@ -369,190 +368,310 @@ I. Papisticam transsubstantiationem, cum 22] videlicet in papatu docetur, panem 
 28] VII. Panem et vinum tantum esse figuras, similitudines et typos corporis et sanguinis Christi, longissimo intervallo a nobis absentis.
 
 29] VIII. Panem et vinum tantummodo signa, memoriae conservandae gratia, instituta esse, quae sigillorum et pignorum rationem habeant, quibus nobis confirmetur, quod fides, cum in coelum illa ascendit et evehitur, ibi tam vere corporis et sanguinis Christi particeps fiat, quam vere nos in Sacra Coena panem manducamus et vinum bibimus.
+
 30] IX. Fidem nostram de salute certam reddi et confirmari in Coena Domini nonnisi signis illis externis, pane et vino, nequaquam autem vere praesentibus vero corpore et sanguine Christi.
+
 31] X. In Sacra Coena duntaxat virtutem, operationem et meritum absentis corporis et sanguinis Christi dispensari.
+
 32] XI. Christi corpus ita coelo inclusum esse, ut nullo prorsus modo simul eodem tempore pluribus aut omnibus locis in terris prae sens esse possit, ubi Coena Domini celebratur.
+
 33] XII. Christum substantialem corporis et sanguinis sui praesentiam neque promittere neque exhibere potuisse, quandoquidem id proprietas humanae ipsius naturae assumptae nequaquam ferre aut admittere possit.
+
 34] XIII. Deum ne quidem universa sua omnipotentia (horrendum dictu et auditu) efficere posse, ut corpus Christi uno eodemque tempore in pluribus, quam uno tantum loco, substantialiter praesens sit.
+
 35] XIV. Non omnipotens illud verbum testamenti Christi, sed fidem praesentiae corporis et sanguinis Christi in Sacra Coena causam esse.
 
 36] XV. Fideles corpus et sanguinem Christi non in pane et vino Coenae Dominicae quaerere, sed oculos in coelum attollere et ibi corpus Christi quaerere debere.
+
 37] XVI. Infideles et impoenitentes Christianos in Coena Domini non verum corpus et sanguinem Christi, sed panem tantum et vinum sumere.
+
 38] XVII. Dignitatem convivarum in hac coelesti Coena non ex sola vera in Christum fide, sed etiam ex praeparatione hominum externa pendere.
+
 39] XVIII. Eos etiam, qui veram et vivam in Christum fidem habent eamque retinent, nihilominus hoc sacramentum ad iudicium sumere posse, propterea quod in externa sua conversatione adhuc imperfecti sint.
+
 40] XIX. Externa visibilia elementa panis et vini in sacramento adoranda esse.
+
 41] XX. Praeter haec iusto Dei iudicio relinquimus omnes curiosas, sannis virulentis tinctas et blasphemas quaestiones, quae honeste, pie et sine gravi offensione recitari nequeunt, aliosque sermones, quando de supernaturali et coelesti mysterio huius sacramenti crasse, carnaliter, Capernaitice et plane abominandis modis, blaspheme et maximo cum ecclesiae offendiculo sacramentarii loquuntur.
+
 42] XXI. Prorsus etiam reiicimus atque damnamus Capernaiticam manducationem corporis Christi, quam nobis Sacramentarii contra suae conscientiae testimonium, post tot nostras protestationes, malitiose affingunt, ut doctrinam nostram apud auditores suos in odium adducant, quasi videlicet doceamus, corpus Christi dentibus laniari et instar alterius cuiusdam cibi in corpore humano digeri. Credimus autem et asserimus, secundum clara verba testamenti Christi, veram, sed supernaturalem manducationem corporis Christi, quemadmodum etiam vere, supernaturaliter tamen, sanguinem Christi bibi docemus. Haec autem humanis sensibus aut ratione nemo comprehendere potest, quare in hoc negotio, sicut et in aliis fidei articulis, intellectum nostrum in obedientiam Christi captivate oportet. Hoc enim mysterium in solo Dei Verbo revelatur et sola fide comprehenditur.
-——————————
+
 VIII. DE PERSONA CHRISTI.
-—————
-1] Ex controversia superiore de Coena Domini inter sinceros theologos Augustanae Confessionis et
-Calvinistas, qui alios etiam quosdam theologos perturbarunt, dissensio orta est de persona Christi, de duabus in Christo naturis et de ipsarum proprietatibus.
+
+1] Ex controversia superiore de Coena Domini inter sinceros theologos Augustanae Confessionis et Calvinistas, qui alios etiam quosdam theologos perturbarunt, dissensio orta est de persona Christi, de duabus in Christo naturis et de ipsarum proprietatibus.
+
 STATUS CONTROVERSIAE.
-2] Principalis huius dissidii quaestio fuit, an divina et humana natura et utriusque proprietares propter
-unionem personalem realiter, hoc est, vere et re ipsa, in persona Christi invicem communicent, et quousque illa communicatio extendatur.
+
+2] Principalis huius dissidii quaestio fuit, an divina et humana natura et utriusque proprietares propter unionem personalem realiter, hoc est, vere et re ipsa, in persona Christi invicem communicent, et quousque illa communicatio extendatur.
+
 3] Sacramentarii affirmarunt, divinam et humanam naturas in Christo eo modo personaliter unitas esse, ut neutra alteri quidquam realiter, hoc est, vere et re ipsa, quod cuiusque naturae proprium sit, communicet, sed nomina tantum nuda communicari. Unio (inquiunt illi) facit tantum nomina communia, ut videlicet Deus dicatur homo, et homo Deus appelletur, ita tamen, ut Deus nihil cum humanitare commune habeat, et vicissim humanitas nihil cum divinitate, quoad ipsius maiestatem et proprietates, realiter, hoc est, revera et re ipsa, commune habeat. Contrariam vero huic dogmati sententiam D. Lutherus, et qui cum ipso faciunt, adversus Sacramentarios propugnarunt.
+
 AFFIRMATIVA.
+
 Sincera doctrina ecclesiae Dei de persona Christi.
+
 4] Ad explicandam hanc controversiam et iuxta analogiam fidei nostrae Christianae decidendam, fidem, doctrinam et confessionem nostram piam perspicue profitemur, videlicet:
+
 5] I. Quod divina et humana natura in Christo personaliter unitae sint, ita prorsus, ut non sint duo Christi, unus Filius Dei, alter Filius hominis, sed ut unus et idem sit Dei et hominis Filius, Luc. 1, 35; Rom. 9, 5.
+
 6] II. Credimus, docemus et confitemur, divinam et humanam naturas non in unam substantiam commixtas, nec unam in alteram mutatam esse, sed utramque naturam retinere suas proprietares essentiales, ut quae alterius naturae proprietares fieri nequeant.
+
 7] III. Proprietates divinae naturae sunt: esse omnipotentem, aeternam, infinitam et secundum naturae naturalisque suae essentiae proprietatem, per se, ubique praesentem esse, omnia novisse etc. Haec omnia neque sunt, neque unquam fiunt humanae naturae proprietates.
 
 8] IV. Humanae autem naturae proprierates sunt: corpoream esse creaturam, constare carne et sanguine, esse finitam et circumscriptam, pati, mori, ascendere, descendere, de loco ad locum moveri, esurire, sitire, algere, aestu affligi et si quae sunt similia. Haec neque sunt, neque unquam fiunt proprietates divinae naturae.
-9] V. Cum vero divina et humana naturae personaliter, hoc est, ad constituendum unum υ φισταμενον, sint unitae, credimus, docemus et confitemur, unionem illam hypostaticam non esse talem copulationem aut combinationem, cuius ratione neutra natura cum altera personaliter, hoc est, propter unionem personalem, quidquam commune habeat, qualis combinatio fit, cum duo asseres conglutinantur, ubi neuter alteri quidquam confert aut aliquid ab altero accipit. Quin potius hic summa communio est, quam Deus cum assumpto homine vere habet, et ex personali unione et summa ac ineffabili communione, quae inde consequitur, totum illud promanat, quidquid humani de Deo et quidquid divini de homine Christo dicitur et creditur. Et hanc unionem atque communionem naturarum antiquissimi ecclesiae doctores similitudine ferri candentis, itemque unione corporis et animae in homine declararunt.
-10] VI. Hinc etiam credimus, docemus atque confitemur, quod Deus sit homo et homo sit Deus, id quod nequaquam ita se haberet, si divina et humana natura prorsus inter se nihil revera et re ipsa communicarent. 11] Quomodo enim homo, Mariae Filius, Deus aut Filius Dei altissimi vere appellari posset aut esset, si
-ipsius humanitas cum Filio Dei non esset personaliter units, atque ita tealiter, hoc est, vere et re ipsa, nihil prorsus, excepto solo nudo nomine, cum ipso commune haberet?
-12] VII. Eam ob causam credimus, docemus et confitemur, quod virgo Maria non nudum aut merum hominem duntaxat, sed verum Dei Filium conceperit et genuerit: unde recte mater Dei et appellatur et revera est.
-13] VIII. Inde porro credimus, docemus et confitemur, quod non nudus homo tantum pro nobis passus, mortuus et sepultus sit, ad inferos descenderit, a mortuis resurrexerit, ad coelos ascenderit et ad maiestatem et omnipotentem Dei virtutem evectus fuerit, sed talis homo, cuius humana natura cum Filio Dei tam arctam ineffabilemque unionem et communicationem habet, ut cum eo una sit facta persona.
-14] IX. Quapropter vere Filius Dei pro nobis est passus, sed secundum proprietatem humanae naturae, quam in unitatem divinae suae personae assumpsit sibique eam propriam fecit, ut videlicet pati et pontifex noster summus reconciliationis nostrae cum Deo causa esse posset. Sic enim scriptum est 1 Cor. 2, 8: Dominum gloriae crucifixerunt; et Act. 20, 28: Sanguine Dei redempti sumus.
-15] X. Ex eodem etiam fundamento credimus, docemus et confitemur, Filium hominis ad dexteram omnipotentis maiestatis et virtutis Dei realiter, hoc est, vere et re ipsa, secundum humanam suam naturam esse exaltatum, cum homo ille in Deum assumptus fuerit, quam primum in utero matris a Spiritu Sancto est conceptus, eiusque humanitas iam tum cum Filio Dei altissimi personaliter fuerit unita.
-16] XI. Eamque maiestatem ratione unionis personalis semper Christus habuit, sed in statu suae humiliationis sese exinanivit, qua de causa revera aetate, sapientia et gratia apud Deum atque homines profecit. Quare maiestatem illam non semper, sed quoties ipsi visum fuit, exeruit [exseruit], donec formam servi, non autem naturam humanam, post resurrectionem plene et prorsus deponeret et in plenariam usurpationem, manifestationem et declarationem divinae maiestatis collocaretur et hoc modo in gloriam suam ingrederetur [Phil. 2, 6 sqq.]. Itaque iam non tantum ut Deus, verum etiam ut homo omnia novit, omnia potest, omnibus creaturis praesens est et omnia, quae in coelis, in terris et sub terra sunt, sub pedibus suis et in manu sua habet. Haec ita se habere Christus ipse testatur, inquiens Matth. 28, 18; Ioh. 13, 3: Mihi data est omnis potestas in coelo et in terra. Et Paulus ait Eph. 4, 10: Ascendit super omnes coelos, ut omnia impleat. Hanc suam potestatem ubique praesens exercere potest, neque quidquam illi aut impossibile est aut ignotum.
-17] XII. Inde adeo, et quidem facillime, corpus suum verum et sanguinem suum in Sacra Coena praesens distribuere potest. Id vero non fit secundum modum et proprietatem humanae naturae, sed secundum modum et proprietatem dexterae Dei, ut Lutherus secundum analogiam fidei nostrae Christianae in catechesi comprehensae loqui solet. Et haec Christi in Sacra Coena praesentia neque physica aut terrena est, neque Capernaitica, interim tamen verissima et quidem substantiaIis est. Sic enim verba testamenti Christi sonant: Hoc est, est, est corpus meum. etc.
-18] Hac nostra fide, doctrina et confessione persona Christi non solvitur, quod olim Nestorius fecit. Is enim veram communicationem idiomatum seu proprietatum utriusque naturae in Christo negavit et hac ratione Christi personam solvit, quam rem D. Lutherus in libello suo De Conciliis perspicue declaravit. Neque hac pia nostra doctrina duae in Christo naturae earumque proprietates confunduntur, aut in unam essentiam commiscentur (in
 
-quo errore Eutyches fuit), neque humana natura in persona Christi negatur aut aboletur, neque altera natura in alteram mutatur; sed Christus verus Deus et homo in una indivisa persona est permanetque in omnem aeternitatem. Hoc post illud Trinitatis summum est mysterium, ut apostolus testatur 1 Tim. 3, 16, in quo solo tota nostra consolatio, vita et salus posita est.
+9] V. Cum vero divina et humana naturae personaliter, hoc est, ad constituendum unum υ φισταμενον, sint unitae, credimus, docemus et confitemur, unionem illam hypostaticam non esse talem copulationem aut combinationem, cuius ratione neutra natura cum altera personaliter, hoc est, propter unionem personalem, quidquam commune habeat, qualis combinatio fit, cum duo asseres conglutinantur, ubi neuter alteri quidquam confert aut aliquid ab altero accipit. Quin potius hic summa communio est, quam Deus cum assumpto homine vere habet, et ex personali unione et summa ac ineffabili communione, quae inde consequitur, totum illud promanat, quidquid humani de Deo et quidquid divini de homine Christo dicitur et creditur. Et hanc unionem atque communionem naturarum antiquissimi ecclesiae doctores similitudine ferri candentis, itemque unione corporis et animae in homine declararunt.
+
+10] VI. Hinc etiam credimus, docemus atque confitemur, quod Deus sit homo et homo sit Deus, id quod nequaquam ita se haberet, si divina et humana natura prorsus inter se nihil revera et re ipsa communicarent. 11] Quomodo enim homo, Mariae Filius, Deus aut Filius Dei altissimi vere appellari posset aut esset, si ipsius humanitas cum Filio Dei non esset personaliter units, atque ita tealiter, hoc est, vere et re ipsa, nihil prorsus, excepto solo nudo nomine, cum ipso commune haberet?
+
+12] VII. Eam ob causam credimus, docemus et confitemur, quod virgo Maria non nudum aut merum hominem duntaxat, sed verum Dei Filium conceperit et genuerit: unde recte mater Dei et appellatur et revera est.
+
+13] VIII. Inde porro credimus, docemus et confitemur, quod non nudus homo tantum pro nobis passus, mortuus et sepultus sit, ad inferos descenderit, a mortuis resurrexerit, ad coelos ascenderit et ad maiestatem et omnipotentem Dei virtutem evectus fuerit, sed talis homo, cuius humana natura cum Filio Dei tam arctam ineffabilemque unionem et communicationem habet, ut cum eo una sit facta persona.
+
+14] IX. Quapropter vere Filius Dei pro nobis est passus, sed secundum proprietatem humanae naturae, quam in unitatem divinae suae personae assumpsit sibique eam propriam fecit, ut videlicet pati et pontifex noster summus reconciliationis nostrae cum Deo causa esse posset. Sic enim scriptum est 1 Cor. 2, 8: Dominum gloriae crucifixerunt; et Act. 20, 28: Sanguine Dei redempti sumus.
+
+15] X. Ex eodem etiam fundamento credimus, docemus et confitemur, Filium hominis ad dexteram omnipotentis maiestatis et virtutis Dei realiter, hoc est, vere et re ipsa, secundum humanam suam naturam esse exaltatum, cum homo ille in Deum assumptus fuerit, quam primum in utero matris a Spiritu Sancto est conceptus, eiusque humanitas iam tum cum Filio Dei altissimi personaliter fuerit unita.
+
+16] XI. Eamque maiestatem ratione unionis personalis semper Christus habuit, sed in statu suae humiliationis sese exinanivit, qua de causa revera aetate, sapientia et gratia apud Deum atque homines profecit. Quare maiestatem illam non semper, sed quoties ipsi visum fuit, exeruit [exseruit], donec formam servi, non autem naturam humanam, post resurrectionem plene et prorsus deponeret et in plenariam usurpationem, manifestationem et declarationem divinae maiestatis collocaretur et hoc modo in gloriam suam ingrederetur [Phil. 2, 6 sqq.]. Itaque iam non tantum ut Deus, verum etiam ut homo omnia novit, omnia potest, omnibus creaturis praesens est et omnia, quae in coelis, in terris et sub terra sunt, sub pedibus suis et in manu sua habet. Haec ita se habere Christus ipse testatur, inquiens Matth. 28, 18; Ioh. 13, 3: Mihi data est omnis potestas in coelo et in terra. Et Paulus ait Eph. 4, 10: Ascendit super omnes coelos, ut omnia impleat. Hanc suam potestatem ubique praesens exercere potest, neque quidquam illi aut impossibile est aut ignotum.
+
+17] XII. Inde adeo, et quidem facillime, corpus suum verum et sanguinem suum in Sacra Coena praesens distribuere potest. Id vero non fit secundum modum et proprietatem humanae naturae, sed secundum modum et proprietatem dexterae Dei, ut Lutherus secundum analogiam fidei nostrae Christianae in catechesi comprehensae loqui solet. Et haec Christi in Sacra Coena praesentia neque physica aut terrena est, neque Capernaitica, interim tamen verissima et quidem substantiaIis est. Sic enim verba testamenti Christi sonant: Hoc est, est, est corpus meum. etc.
+
+18] Hac nostra fide, doctrina et confessione persona Christi non solvitur, quod olim Nestorius fecit. Is enim veram communicationem idiomatum seu proprietatum utriusque naturae in Christo negavit et hac ratione Christi personam solvit, quam rem D. Lutherus in libello suo De Conciliis perspicue declaravit. Neque hac pia nostra doctrina duae in Christo naturae earumque proprietates confunduntur, aut in unam essentiam commiscentur (in quo errore Eutyches fuit), neque humana natura in persona Christi negatur aut aboletur, neque altera natura in alteram mutatur; sed Christus verus Deus et homo in una indivisa persona est permanetque in omnem aeternitatem. Hoc post illud Trinitatis summum est mysterium, ut apostolus testatur 1 Tim. 3, 16, in quo solo tota nostra consolatio, vita et salus posita est.
+
 NEGATIVA.
+
 Contrariae et falsae doctrinae de persona Christi reiectio.
-19] Repudiamus igitur atque damnamus omnes erroneos, quos iam recitabimus, articulos, eo quod Verbo
-Dei et sincerae fidei nostrae Christianae repugnent, cum videlicet sequentes errores docentur:
-20] I. Quod Deus et homo in Christo non constituant unam personam, sed quod alius sit Dei Filius et alius
-hominis Filius, ut Nestorius deliravit.
-21] II. Quod divina et humana naturae in unam essentiam commixtae sint, et humana natura in Deitatem
-mutata sit, ut Eutyches furenter dixit.
+
+19] Repudiamus igitur atque damnamus omnes erroneos, quos iam recitabimus, articulos, eo quod Verbo Dei et sincerae fidei nostrae Christianae repugnent, cum videlicet sequentes errores docentur:
+
+20] I. Quod Deus et homo in Christo non constituant unam personam, sed quod alius sit Dei Filius et alius hominis Filius, ut Nestorius deliravit.
+
+21] II. Quod divina et humana naturae in unam essentiam commixtae sint, et humana natura in Deitatem mutata sit, ut Eutyches furenter dixit.
+
 22] III. Quod Christus non sit verus, naturalis et aeternus Deus, ut Arius blasphemavit.
-23] IV. Quod Christus non veram humanam naturam anima rationali et corpore constantem habuerit, ut
-Marcion finxit.
+
+23] IV. Quod Christus non veram humanam naturam anima rationali et corpore constantem habuerit, ut Marcion finxit.
+
 24] V. Quod unto personalis faciat tantum communia nomina et communes titulos.
+
 25] VI. Quod phrasis tantum et modus quidam loquendi sit, cum dicitur: Deus est homo et homo est Deus;
+
 siquidem Divinitas nihil cum humanitate et humanitas nihil cum Deitate realtier, hoc est, vere et re ipsa, commune habeat.
+
 26] VII. Quod tantum sit verbalis sine re ipsa idiomatum communicatio, cum dicitur, Filium Dei pro peccatis mundi mortuum esse, Filium hominis omnipotentem factum esse.
+
 27] VIII. Quod humana in Christo natura eo modo, quo est Divinitas, facta sit essentia quaedam infinita, et ex hac essentiali, communicata, in humanam naturam effusa et a Deo separata virtute et proprietate eo modo quo divina natura ubique praesens sit.
+
 28] IX. Quod humana natura divinae ratione substantiae atque essentiae suae vel proprietatum divinarum essentialium exaequata sit.
+
 29] X. Quod humana natura in Christo in omnia loca coeli et terrae localiter expansa sit, quod ne quidem divinae naturae est tribuendum.
+
 30] XI. Quod Christo impossibile sit propter humanae naturae proprietatem, ut simul in pluribus quam in uno loco, nedum ubique suo cum corpore esse possit.
+
 31] XII. Quod sola humanitas pro nobis passa sit nosque redemerit, et quod Filius Dei in passione nullam prorsus cum humanitate (re ipsa) communicationem habuerit, perinde ac si id negotium nihil ad ipsum pertinuisset.
+
 32] XIII. Quod Filius Dei tantummodo divinitate sua nobis in terris, in Verbo, sacramentis, in omnibus denique aerumnis. nostris praesens sit, et quod haec praesentia prorsus ad humanitatem nihil pertineat. Christo enim, postquam nos passione et morte sua redemerit, secundum humanitatem snare nihil amplius nobiscum in terris esse negotii.
+
 33] XIV. Quod Filius Dei, qui humanam naturam assumpsit, iam post depositam servi formam non omnia opera omnipotentiae suae in et cum humanitate sua et per eam efficiat, sed tantum aliqua, et quidem in eo tantum loco, ubi humana natura est localiter.
+
 XV. Quod secundum humanitatem omnipotentiae 34] aliarumque proprietatum divinae naturae prorsus non sit capax. Idque asserere audent contra expressum testimonium Christi, Matth. 28, 18: Mihi data est omnis potestas in coelo et in terra. Et contradicunt Paulo, qui ait Col. 2, 9: In ipso inhabitat tota divinitatis plenitudo corporaliter .
+
 35] XVI. Quod Christo secundum humanitatem data quidem sit maxima potestas in coelo et in terra, videlicet maior et amplior, quam omnes angeli et creaturae acceperint, sed tamen ita, ut cum omnipotentia Dei nullam habeat communicationem, neque omnipotentia illi data sit. Itaque mediam quandam potentiam inter omnipotentiam Dei et inter aliarum creaturarum potentiam fingunt, datam Christo secundum humanam eius naturam per exaltationem, quae minor quidem sit quam Dei omnipotentia, maior tamen omnium aliarum creaturarum potestate.
 
 36] XVII. Quod Christo secundum spiritum suum humanum certi limites positi sint, quantum videlicet ipsum scire oporteat, et quod non plus sciat, quam ipsi conveniat, et ad exsecutionem sui officii, iudicis nimirum, necessario requiratur.
+
 37] XVIII. Quod Christus ne hodie quidem perfectam habeat cognitionem Dei et omnium ipsius operum, cum tamen de Christo scriptum sit Col. 2, 3, in ipso omnes thesauros sapientiae et scientiae absconditos esse.
+
 38] XIX. Quod Christo secundum humanitatis suae spiritum impossibile sit scire, quid ab aeterno fuerit, quid iam nunc ubique fiat et quid in omnem aeternitatem sit futurum.
+
 39] XX. Reiicimus etiam damnamusque, quod dictum Christi Matth. 28, 19: Mihi data est omnis potestas in coelo et in terra, horribili et blasphema interpretatione a quibusdam depravatur in hanc sententiam: quod Christo secundum divinam suam naturam in resurrectione et ascensione ad coelos iterum restituta fuerit omnis potestas in coelo et in terra, perinde quasi, dum in statu humiliationis erat, eam potestatem etiam secundum divinitatem deposuisset et exuisset. Hac enim doctrina non modo verba testamenti Christi falsa explicatione pervertuntur, verum etiam dudum damnatae Arianae haeresi via de novo sternitur, ut tandem aeterna Christi divinitas negetur, et Christus totus, quantus quantus est, una cum salute nostra amittatur, nisi huic impiae doctrinae ex solidis Verbi Dei et fidei nostrae catholicae fundamentis constanter contradicatur.
-——————————
+
 IX. DE DESCENSU CHRISTI AD INFEROS.
-—————
+
 STATUS CONTROVERSIAE.
+
 1] Disceptam fuit super hoc articulo inter quosdam theologos, qui Augustanam Confessionem profitentur:
+
 quando et quomodo Dominus noster Iesus Christus, ut testatur fides nostra catholica, ad inferos descenderit, an id ante vel post mortem eius factum sit. Praeterea quaesitum fuit, num anima tantum, an divinitate sola, an vero anima et corpore descenderit, idque an spiritualiter an vero corporaliter sit factum. Disputatum etiam est, num hic articulus ad passionem an vero ad gloriosam victoriam et triumphum Christi sit referendus.
+
 2] Cum autem hic fidei nostrae articulus, sicut et praecedens, neque sensibus neque ratione nostra comprehendi queat, sola autem fide acceptandus sit, unanimi consensu consulimus, de hac re non esse disputandum, sed quam simplicissime hunc articulum credendum 3] et docendum esse. Atque in hoc negotio sequamur piam D. Lutheri doctrinam, qui hunc articulum in concione Torgae habita (anno etc. XXXIIL) pie admodum explicuit, omnes inutiles et curiosas quaestiones praecidit atque ad piam fidei simplicitatem omnes Christianos adhortatus est.
+
 4] Satis enim nobis esse debet, si sciamus, Christum ad inferos descendisse, infernum omnibus credentibus destruxisse, nosque per ipsum e potestate mortis et Satanae, ab aeterna damnatione atque adeo e faucibus inferni ereptos. Quo autem modo haec effecta fuerint, non curiose scrutemur, sed huius rei cognitionem alteri saeculo reservemus, ubi non modo hoc mysterium, sed et alia multa in hac vita simpliciter a nobis credita revelabuntur, quae captum caecae nostrae rationis excedunt.
-——————————
+
 X. DE CEREMONIIS ECCLESIASTICIS,
-quae vulgo adiaphora seu res mediae et indifferentes vocantur. —————
+
+quae vulgo adiaphora seu res mediae et indifferentes vocantur.
+
 1] Orta est etiam inter theologos Augustanae Confessionis controversia de ceremoniis seu ritibus ecclesiasticis, qui in Verbo Dei neque praecepti sunt neque prohibiti, sed ordinis tantum et decori gratia in ecclesiam sunt introducti.
+
 STATUS CONTROVERSIAE.
+
 2] Quaesitum fuit, num persecutionis tempore et in casu confessionis (etiamsi adversarii nobiscum in
+
 doctrina consentire nolint) nihilominus salve conscientia aliquae iam abtogatae ceremoniae, quae per se indifferentes et a Deo neque mandatae neque prohibitae sint, postulantibus id et urgentibus adversariis iterum in usum revocari possint, et an hoc modo cum pontificiis in eiusmodi ceremoniis et adiaphoris conformari recte queatuus. Una pars hoc fieri posse affirmavit, altera vero negavit.
+
 AFFIRMATIVA.
+
 Sincera doctrina et confessio de hoc articulo.
 
 3] I. Ad hanc controversiam dirimendam unanimi consensu credimus, docemus et confitemur, quod ceremoniae sive ritus ecclesiastici (qui Verbo Dei neque praecepti sunt neque prohibiti, sed tantum decori et ordinis causa instituti) non sint per se cultus divinus aut aliqua saltem pars cultus divini. Scriptum est enim Matth. 15, 9: Frustra colunt me, docentes doctrinas, mandata hominum.
+
 4] II. Credimus, docemus et confitemur, ecclesiae Dei ubivis terrarum et quocunque tempore licere, pro re nata ceremonias tales mutare iuxta eam rationem, quae ecclesiae Dei utilissima et ad aedificationem eiusdem maxime accommodate iudicatur.
+
 5] III. Ea tamen in re omnem levitatem fugiendam et offendicula cavenda, imprimis vero infirmorum in fide rationem habendam et iis parcendum esse censemus, 1 Cor. 8, 9; Rom. 14, 13.
+
 6] IV. Credimus, docemus et confitemur, quod temporibus persecutionum, quando perspicua et constans confessio a nobis exigitur, hostibus evangelii in rebus adiaphoris non sit cedendum. Sic enim apostolus inquit Gal. 5, 1: Qua libertate Christus nos libera. vit, in ea state et nolite iterum iugo servitutis subiici. Et alibi, 2 Cor. 6, 14: Nolite iugum ducere cum infidelibus etc. Quae enim est societas luci ad tenebras etc.? Item Gal. 2, 5: Quibus neque ad horam cessimus subiectione, ut veritas evangelii permaneret apud vos. In tali enim rerum statu non agitur iam amplius de adiaphoris, sed de veritate evangelii et de libertate Christiana sarta tectaque conservanda, et quomodo cavendum sit, ne manifeste idololatria confirmetur et infirmi in fide offendantur. In huiusmodi rebus nostrum certe non est aliquid adversariis largiri, sed officium nostrum requirit, ut piam et ingenuam confessionem edamus, et ea patienter feramus, quae Dominus nobis ferenda imposuerit et hostibus Verbi Dei in nos permiserit.
+
 7] V. Credimus, docemus et confitemur, quod ecclesia alia aliam damnare non debeat, propterea quod haec vel illa plus minusve externarum ceremoniarum, quas Dominus non instituit, observer, si modo in doctrina eiusque articulis omnibus et in vero sacramentorum usu sit inter eas consensus. Hoc enim vetus et verum dictum est: Dissonantia ieiunii non dissolvit consonantiam fidei.
+
 NEGATIVA.
+
 Falsae doctrinae de hoc articulo reiectio.
+
 8] Repudiamus atque damnamus haec falsa et Verbo Dei contraria dogmata:
+
 9] I. Quod humanae traditiones et constitutiones in ecclesiasticis rebus per se pro cultu Dei aut certe pro parte divini cultus sint habendae.
+
 10] II. Quando eiusmodi ceremoniae et constitutiones ecclesiae Dei coactione quadam tamquam necessariae obtruduntur, et quidem contra libertatem Christianam, quam ecclesia Christi in rebus eiusmodi externis habet.
+
 11] III. Cum asseritur, quod tempore persecutionis, quando clara confessio requiritur, hostibus evangelii in observatione eiusmodi rerum adiaphorarum gratificari et cum ipsis pacisci et consentire liceat, quae res cum detrimento veritatis coelestis coniuncta est.
+
 12] IV. Cum externae ceremoniae, quae indifferentes sunt, ea opinione abrogantur, quasi ecclesiae Dei liberum non sit pro re nata, ut iudicaverit ad aedificationem utile esse, hanc vel illam ceremoniam ratione libertatis Christianae usurpare.
-——————————
+
 XI. DE AETERNA PRAEDESTINATIONE ET ELECTIONE DEI.
-—————
-1] De hoc articulo non quidem publice mota est controversia inter Augustanae Confessionis theologos; sed
-tamen, cum hic articulus magnam piis mentibus consolationem afferat, si recte et dextre explicetur, visum est, eundem in hoc scripto declarare, ne forte temporis progressu disputationes aliquae cum offendiculo coniunctae de hac re exoriantur.
+
+1] De hoc articulo non quidem publice mota est controversia inter Augustanae Confessionis theologos; sed tamen, cum hic articulus magnam piis mentibus consolationem afferat, si recte et dextre explicetur, visum est, eundem in hoc scripto declarare, ne forte temporis progressu disputationes aliquae cum offendiculo coniunctae de hac re exoriantur.
+
 AFFIRMATIVA. Sincera doctrina de hoc articulo.
+
 2] I. Primum omnium est, quod accurate observari oportet, discrimen esse inter praescientiam et praedestinationem sive aeternam electionem Dei.
+
 3] II. Praescientia enim Dei nihil aliud est, quam quod Deus omnia noverit, antequam fiant, sicut scriptum est Dan. 2, 28: Est Deus in coelo, revelans mysteria, qui indicavit tibi, rex Nabuchodonosor, quae ventura sunt in novissimis temporibus.
+
 4] III. Haec Dei praescientia simul ad bonos et malos pertinet, sed interim non est causa mali, neque est causa peccati, quae hominem ad scelus impellat. Peccatum enim ex diabolo et ex hominis prava et mala
 
 voluntate oritur. Neque haec Dei praescientia causa est, quod homines pereant; hoc enim sibi ipsis imputare debent. Sed praescientia Dei disponit malum et metas illi constituit, quousque progredi et quamdiu durare debeat, idque eo dirigit, ut, licet per se malum sit, nihilominus electis Dei ad salutem cedat.
+
 5] IV. Praedestinatio vero seu aeterna Dei electio tantum ad bonos et dilectos filios Dei pertinet, et haec est causa ipsorum salutis. Etenim eorum salutem procurat et ea, quae ad ipsam pertinent, disponit. Super hanc Dei praedestinationem salus nostra ita fundata est, ut inferorum portae eam eventere nequeant, Ioh. 10, 28; Matth. 16, 18.
+
 6] V. Haec Dei praedestinatio non in arcano Dei consilio est scrutanda, sed in Verbo Dei, in quo revelatur, quaerenda est.
+
 7] VI. Verbum autem Dei deducit nos ad Christum; is est libet ille vitae, in quo omnes inscripti et electi sunt, qui salutem aeternam consequuntur. Sic enim scriptum est Eph. 1, 4: Elegit nos in Christo ante mundi constitutionem.
+
 8] VII. Christus vero omnes peccatores ad se vocat et promittit illis levationem. Et serio vult, ut omnes homines ad se veniant et sibi consuli et subveniri sinant. His sese Redemptorem in Verbo offert et vult, ut Verbum audiatur, et ut aures non obturentur nec Verbum negligatur et contemnatur. Et promittit se largiturum virtutem et operationem Spiritus Sancti et auxilium divinum, ut in fide constantes permaneamus et vitam aeternam consequamur.
+
 9] VIII. De nostra igitur electione ad vitam aeternam neque ex rationis nostrae iudicio neque ex lege Dei iudicandum est, ne vel dissolutae et Epicureae vitae nos tradamus, vel in desperationem incidamus. Qui enim rationis suae iudicium in hoc negotio sequuntur, in horum cordibus hac perniciosae cogitationes (quibus aegerrime resistere possunt) excitantur: Si (inquiunt) Deus me ad aeternam salutem elegit, non potero damnari, quidquid etiam designavero. Contra vero, si non sum electus ad vitam aeternam, nihil plane mihi profuerit, quantumcunque boni fecero; omnes enim conatus mei irriti erunt.
+
 10] IX. Vera igitur sententia de praedestinatione ex evangelio Christi discenda est. In eo enim perspicue docetur, quod Deus omnes sub incredulitatem concluserit, ut omnium misereatur, et quod nolit quemquam petite, sed potius, ut omnes convertantur et in Christum credant, Rom. 11, 32. Ezech. 18, 23; 33, 11. 1 Ioh. 2, 2. [2 Petr. 3, 9.]
+
 11] X. Qui igitur voluntatem Dei revelatam inquirunt eoque ordine progrediuntur, quem divus Paulus in epistola ad Romanos secutus est (qui hominem prius deducit ad poenitentiam, ad agnitionem peccatorum, ad fidem in Christum, ad obedientiam mandatorum Dei, quam de aeternae praedestinationis mysterio loquatur): iis doctrina de praedestinatione Dei salutaris est et maximam consolationem affert.
+
 12] XI. Quod vero scriptum est [Matth. 22, 14]: Multos quidem vocatos, paucos vero electos esse, non ita accipiendum est, quasi Deus nolit, ut omnes salventur, sed damnationis impiorum causa est, quod Verbum Dei aut prorsus non audiant, sed contumaciter contemnant, aures obturent et cor indurent et hoc modo Spiritui Sancto viam ordinariam praecludant, ut opus suum in eis efficere nequeat, aut certe quod Verbum auditum flocci pendant atque abiiciant. Quod igitur pereunt, neque Deus neque ipsius electio, sed malitia eorum in culpa est. 2 Petr. 2, 1 sqq. Luc. 11, 49. 52. Heb. 12, 25 sqq.
+
 13] XII. Huc usque homo pins in meditatione articuli de aeterna Dei electione tuto progredi potest, quatenus videlicet ea in Verbo Dei est revelata. Verbum Dei enim nobis Christum, librum vitae, proponit, is nobis per evangelii praedicationem aperitur et evolvitur, sicut scriptum est Rom. 8, 30: Quos elegit, hos vocavit. In Christo igitur electio aeterna Dei Patris est quaerenda. Is in aeterno suo consilio decrevit, quod praeter eos, qui Filium eius, Iesum Christum, agnoscunt et in eum vere credunt, neminem salvum facere velit. Reliquae cogitationes ex animis piorum penitus excutiendae sunt, quia non a Deo, sed ex afflatu Satanae proficiscuntur, quibus humani generis hostis hoc agit, ut dulcissimam illam consolationem vel enervet, vel penitus e medio tollat, quam ex saluberrima hac doctrina haurire possumus: qua videlicet certi reddimur, quod mera gratia sine ullo nostro merito in Christo ad vitam aeternam electi simus, et quod nemo ex ipsius manibus rapere nos possit. Et hanc clementissimam electionem non nudis verbis, sed interposito iureiurando Dominus contestando confirmavit et venerabilibus sacramentis nobis obsignavit, quorum in summis tentationibus meminisse et ex iis consolationem petere debemus, ut ignita diaboli tela exstinguamus.
+
 14] XIII. Interim tamen summo studio in eo elaboremus, ut ad normam voluntatis divinae vitam nostram instituamus et vocationem nostram (ut divus Petrus loquitur) firmam faciamus, 2 Petr. 1, 10, neque a Dei revelato Verbo latum unguem recedamus; illud enim nunquam nos fallet.
 
 15] XIV. Hac brevi explicatione aeternae electionis divinae hones suns Deo plene et in solidum tribuitur, quod videlicet secundum voluntatis suae propositum mera misericordia sine ullo nostro merito salvos nos faciat. Neque tamen hac doctrina vel gravioribus illis animi perturbationibus et pusillanimitati vel Epicurismo [Epicureismo] ansa praebetur.
-NEGATIVA.
-Falsae doctrinae de hoc articulo reiectio.
-16] Credimus igitur et sentimus, quando doctrina de electione Dei ad vitam aeternam eo modo proponitur, ut perturbatae piae mentes ex ea consolationem nullam capere queant, sed potius per eam in animi angustias aut desperationem coniiciantur, aut impoenitentes in dissoluta sua vita confirmentur, quod articulus hic non ad normam Verbi et voluntatis Dei, sed iuxta humanae rationis iudicium, et quidem impulsu Satanae, male et perperam tractetur. Quaecunque enim scripta sunt (inquit apostolus), ad nostram doctrinam scripta sunt, ut per patientiam et consolationem Scripturarum spero habeamus, Rom. 15, 4. Reiicimus itaque omnes, quos iam enumerabimus, errores:
-17] I. Quod Deus nolit, ut omnes homines poenitentiam agant et evangelio credant.
-18] II. Quando Deus nos ad se vocat, quod non serio hoc velit, ut omnes homines ad ipsum veniant.
-19] III. Quod nolit Deus, ut omnes salventur, sed quod quidam, non ratione peccatorum suorum, verum solo
-Dei consilio, proposito et voluntate ad exitium destinati sint, ut prorsus salutem consequi non possint.
-20] IV. Quod non sola Dei misericordia et sanctissimum Christi meritum, sed etiam in nobis ipsis aliqua
-causa sit electionis divinae, cuius causae ratione Deus nos ad vitam aeternam elegerit.
-21] Haec dogmata omnia falsa sunt, horrenda et blasphema, iisque piis mentibus omnis prorsus consolatio
-eripitur, quam ex evangelio et sacramentorum usu capere deberent, et idcirco in ecclesia Dei nequaquam sunt ferenda.
-22] Haec brevis est et simplicissima articulorum controversorum explicatio, de quibus inter theologos Augustanae Confessionis aliquamdiu disceptatum et discrepantibus inter se sententiis disputatum est. Et ex hac declaratione homo pius quantumvis simplex secundum analogiam Verbi Dei et Catechismi simplicem doctrinam deprehendere potest, quid verum sit, quid falsum. Non enim tantummodo sincera doctrina diserte est recitata, verum etiam contraria et falsa doctrina repudiata est et reiecta, et controversiae illae, offendiculorum plenae, solide sunt decisae atque diiudicatae.
-23] Faxit Deus omnipotens, Pater Domini nostri Iesu Christi, ut per gratiam Spiritus Sancti omnes in ipso consentientes et concordes simus atque in consensu pio, qui ipsi probetur, constanter perseveremus! Amen.
-——————————
-XII. DE ALIIS HAERESlBUS ET SECTIS, quae nunquam Augustanam Confessionem sunt amplexae. —————
-1] Ne tacita cogitatione haereses illae et sectae nobis tribuantur, propterea quod earum in commemorata declaratione expressam mentionem non fecimus, visum est articulos earum ad calcem (ut dicitur) huius scripti nude recitare, in quibus nostri temporis haeretici a veritate dissentiunt et sincerae nostrae religioni et confessioni contrarium docent.
-Errores Anabaptistarum.
-Anabaptistae in multas sectas sunt divini, 2] quarum aliae plures, aliae pauciores errores defendunt.
-Generatim tamen omnes talem doctrinam profitentur, quae neque in ecclesia neque in politia neque in oeconomia tolerari potest.
-Articuli Anabaptistici, qui in Ecclesia Ferri Non Possunt.
-3] I. Quod Christus carnem et sanguinem suum non e Maria virgine assumpserit, sed e coelo attulerit.
-4] II. Quod Christus non sit verus Deus, sed tantummodo ceteris sanctis sit superior, quia plura Spiritus Sancti dona acceperit quam alius quispiam homo sanctus.
-5] III. Quod iustitia nostra coram Deo non in solo Christi merito, sed in renovatione atque adeo in nostra propria probitate, in qua ambulemus, consistat. Ea vero Anabaptistarum iustitia magna ex parte electicia et humanitus excogitata quadam sanctimonia constat et revera nil aliud est quam novus quidam monachatus.
-6] IV. Quod infantes non baptizati coram Deo non sint peccatores, sed iusti et innocentes et in illa sua innocentia, cum usum rationis nondum habeant, sine Baptismo (quo videlicet ipsorum opinione non egeant)
 
-salutem consequantur. Et hoc modo reiiciunt totam de peccato originali doctrinam, reliqua etiam, quae ex ea dependent.
+NEGATIVA.
+
+Falsae doctrinae de hoc articulo reiectio.
+
+16] Credimus igitur et sentimus, quando doctrina de electione Dei ad vitam aeternam eo modo proponitur, ut perturbatae piae mentes ex ea consolationem nullam capere queant, sed potius per eam in animi angustias aut desperationem coniiciantur, aut impoenitentes in dissoluta sua vita confirmentur, quod articulus hic non ad normam Verbi et voluntatis Dei, sed iuxta humanae rationis iudicium, et quidem impulsu Satanae, male et perperam tractetur. Quaecunque enim scripta sunt (inquit apostolus), ad nostram doctrinam scripta sunt, ut per patientiam et consolationem Scripturarum spero habeamus, Rom. 15, 4. Reiicimus itaque omnes, quos iam enumerabimus, errores:
+
+17] I. Quod Deus nolit, ut omnes homines poenitentiam agant et evangelio credant.
+
+18] II. Quando Deus nos ad se vocat, quod non serio hoc velit, ut omnes homines ad ipsum veniant.
+
+19] III. Quod nolit Deus, ut omnes salventur, sed quod quidam, non ratione peccatorum suorum, verum solo Dei consilio, proposito et voluntate ad exitium destinati sint, ut prorsus salutem consequi non possint.
+
+20] IV. Quod non sola Dei misericordia et sanctissimum Christi meritum, sed etiam in nobis ipsis aliqua causa sit electionis divinae, cuius causae ratione Deus nos ad vitam aeternam elegerit.
+
+21] Haec dogmata omnia falsa sunt, horrenda et blasphema, iisque piis mentibus omnis prorsus consolatio eripitur, quam ex evangelio et sacramentorum usu capere deberent, et idcirco in ecclesia Dei nequaquam sunt ferenda.
+
+22] Haec brevis est et simplicissima articulorum controversorum explicatio, de quibus inter theologos Augustanae Confessionis aliquamdiu disceptatum et discrepantibus inter se sententiis disputatum est. Et ex hac declaratione homo pius quantumvis simplex secundum analogiam Verbi Dei et Catechismi simplicem doctrinam deprehendere potest, quid verum sit, quid falsum. Non enim tantummodo sincera doctrina diserte est recitata, verum etiam contraria et falsa doctrina repudiata est et reiecta, et controversiae illae, offendiculorum plenae, solide sunt decisae atque diiudicatae.
+
+23] Faxit Deus omnipotens, Pater Domini nostri Iesu Christi, ut per gratiam Spiritus Sancti omnes in ipso consentientes et concordes simus atque in consensu pio, qui ipsi probetur, constanter perseveremus! Amen.
+
+XII. DE ALIIS HAERESlBUS ET SECTIS, quae nunquam Augustanam Confessionem sunt amplexae. —————
+
+1] Ne tacita cogitatione haereses illae et sectae nobis tribuantur, propterea quod earum in commemorata declaratione expressam mentionem non fecimus, visum est articulos earum ad calcem (ut dicitur) huius scripti nude recitare, in quibus nostri temporis haeretici a veritate dissentiunt et sincerae nostrae religioni et confessioni contrarium docent.
+
+Errores Anabaptistarum.
+
+Anabaptistae in multas sectas sunt divini, 2] quarum aliae plures, aliae pauciores errores defendunt.
+
+Generatim tamen omnes talem doctrinam profitentur, quae neque in ecclesia neque in politia neque in oeconomia tolerari potest.
+
+Articuli Anabaptistici, qui in Ecclesia Ferri Non Possunt.
+
+3] I. Quod Christus carnem et sanguinem suum non e Maria virgine assumpserit, sed e coelo attulerit.
+
+4] II. Quod Christus non sit verus Deus, sed tantummodo ceteris sanctis sit superior, quia plura Spiritus Sancti dona acceperit quam alius quispiam homo sanctus.
+
+5] III. Quod iustitia nostra coram Deo non in solo Christi merito, sed in renovatione atque adeo in nostra propria probitate, in qua ambulemus, consistat. Ea vero Anabaptistarum iustitia magna ex parte electicia et humanitus excogitata quadam sanctimonia constat et revera nil aliud est quam novus quidam monachatus.
+
+6] IV. Quod infantes non baptizati coram Deo non sint peccatores, sed iusti et innocentes et in illa sua innocentia, cum usum rationis nondum habeant, sine Baptismo (quo videlicet ipsorum opinione non egeant) salutem consequantur. Et hoc modo reiiciunt totam de peccato originali doctrinam, reliqua etiam, quae ex ea dependent.
+
 7] V. Quod infantes baptizandi non sint, donec usum rationis consequantur et fidem suam ipsi profiteri possint.
+
 8] VI. Quod Christianorum liberi eam ob causam, quia parentibus Christianis et fidelibus orti sunt (etiam praeter et ante susceptum Baptismum), revera sancti et in filiorum Dei numero sint habendi. Qua de causa etiam neque paedobaptismum magni faciunt, neque id operam dant, ut infantes baptizentur, quod cum expressis verbis promissionis divinae pugnat; ea enim tantum ad eos pertinet, qui foedus Dei observant, illudque non contemnunt, Gen. 17, 7 sqq.
+
 9] VII. Quod ea non sit vera et Christiana ecclesia, in qua aliqui adhuc peccatores reperiuntur.
+
 10] VIII. Quod conciones non sint audiendae ullae in iis templis, in quibus aliquando missae pontificiae sunt celebratae.
+
 11] IX. Quod homo pins nihil prorsus commercii habere debeat cum ecclesiae ministris, qui evangelion Christi iuxta Augustanae Confessionis sententiam docent et Anabaptistarum conciones ac errores reprehendunt, et quod eiusmodi ecclesiae ministris neque servire, neque operam locate liceat, sed quod iidem, ut perversores Verbi divini, vitandi et fugiendi sint.
+
 Articuli Anabaptistici, qui in Politia sunt Intolerabiles.
+
 12] I. Quod magistratus officium non sit sub novo testamento genus vitae, quod Deo placent.
+
 13] II. Quod homo Christianus salva et illaesa conscientia officio magistratus fungi non possit.
-14] III. Quod homo Christianus illaesa conscientia officium magistratus, rebus ita ferentibus, adversus
-improbos administrare et exsequi, et subditi potestatem illam, quam magistratus a Deo accepit, ad defensionem implorare non possint.
+
+14] III. Quod homo Christianus illaesa conscientia officium magistratus, rebus ita ferentibus, adversus improbos administrare et exsequi, et subditi potestatem illam, quam magistratus a Deo accepit, ad defensionem implorare non possint.
+
 15] IV. Quod homo Christianus sana conscientia iusiurandum praestare et iuramento interposito obedientiam et fidem suo principi aut magistratui promittere nequeat.
+
 16] V. Quod magistratus sub novo testamento bona conscientia homines facinorosos capitali supplicio afficere non possit.
+
 Articuli Anabaptistici, qui in Oeconomia Ferri Non Possunt.
+
 17] I. Quod homo pins non possit conscientia salva proprium tenere et possidere, sed quod is, quidquid omnino facultatum habeat, id totum in commune conferre debeat.
+
 18] II. Quod homo Christianus illaesa conscientia neque cauponariam neque mercaturam exercere aut arma conficere possit.
+
 19] III. Quod coniugibus propter diversam religionem divortium facere et cum alia persona, quae in religione non dissentiat, matrimonium contrahere liceat.
+
 Errores Schwencofeldianorum.
-20] I. Quod omnes illi, qui Christum secundum carnem creaturam esse dicunt, non habeant veram regnantis
-coelestis Regis agnitionem.
-21] II. Quod caro Christi per exaltationem eo modo omnes proprietates divinas acceperit, ut Christus,
-quatenus homo est, potentia, virtute, malestate, gloria Patri et τωωω̃ω ̃̃ λογωω per omnia, in gradu et statu essentiae omnino aequalis sit, ita ut iam utriusque in Christo naturae una sit essentia, eaedem proprietates, eadem voluntas eademque gloria, et quod cato Christi ad sacrosanctae Trinitatis essentiam pertineat.
+
+20] I. Quod omnes illi, qui Christum secundum carnem creaturam esse dicunt, non habeant veram regnantis coelestis Regis agnitionem.
+
+21] II. Quod caro Christi per exaltationem eo modo omnes proprietates divinas acceperit, ut Christus, quatenus homo est, potentia, virtute, malestate, gloria Patri et τωωω̃ω ̃̃ λογωω per omnia, in gradu et statu essentiae omnino aequalis sit, ita ut iam utriusque in Christo naturae una sit essentia, eaedem proprietates, eadem voluntas eademque gloria, et quod cato Christi ad sacrosanctae Trinitatis essentiam pertineat.
+
 22] III. Quod ministerium Verbi, praedicatum et auditu perceptum Verbum, non sit instrumentum illud, per quod Deus Spiritus Sanctus homines doceat, salutaremque Christi agnitionem largiatur et conversionem, veram poenitentiam, fidem et novam obedientiam in ipsis efficiat.
+
 23] IV. Quod aqua Baptismi non sit medium, per quod Dominus adoptionem .in filiis Dei obsignet et regenerationem efficiat.
+
 24] V. Quod panis et vinum in Sacra Coena non sint organa, per quae et cum quibus Christus corpus et sanguinem suum distribuat,
+
 25] VI. Quod homo pins, vere per Spiritum Dei regeneratus, legem Dei in hac vita perrecte servare et implere valeat.
+
 26] VII. Quod non sit vera ecclesia Christi, in qua non vigeat publica excommunicatio et solennis aliquis excommunicationis modus seu, ut vulgo dicitur, processus ordinarius.
 
 27] VIII. Quod is ecclesiae minister alios homines cum fructu docere, aut vera sacramenta dispensare non possit, qui ipse non sit vere renovatus, renatus et vere iustus.
+
 Error Novorum Arianorum.
-28] Quod Christus non sit verus, substantialis, naturalis Deus, eiusdem cum Patre et Spiritu Sancto
-essentiae, sed divina tantum malestate ita cum Patre ornatus, ut Patre sit inferior.
+
+28] Quod Christus non sit verus, substantialis, naturalis Deus, eiusdem cum Patre et Spiritu Sancto essentiae, sed divina tantum malestate ita cum Patre ornatus, ut Patre sit inferior.
+
 Error Antitrinitariorum.
+
 29] Haec prorsus nova est haeresis, quae antehac ecclesiis Christi ignota fuit, eorum videlicet, qui opinantur,
+
 docent et profitentur, non esse unicam tantum divinam et aeternam Patris, Filii et Spiritus Sancti essentiam, sed quemadmodum Pater, Filius et Spiritus Sanctus tres sunt distinctae personae, ita unamquamque personam habere distinctam et a reliquis personis Divinitatis separatam essentiam. Et horum alii sentiunt, quod singulae personae in singulis essentiis aequali sint potestate, sapientia, maiestate et gloria, sicut alias tres numero differentes homines, ratione essentiae suae, sunt a se invicem disiuncti et separati. Alii sentiunt, tres illas personas et essentias ita inaequales esse ratione essentiae et proprietatum, ut solus Deus Pater verus sit Deus.
+
 30] Hos atque his similes errores omnes, et eos etiam, qui ab his dependent et ex his consequuntur, reiicimus atque damnamus, utpote qui falsi sint atque haeretici, et qui Verbo Dei, tribus approbatis Symbolis, Augustanae Confessioni, eiusdem Apologiae, Smalcaldicis Articulis et Catechismis Lutheri repugnent, quos etiam errores omnes pii, summi atque infimi, cavere et vitare debent, nisi aeternae suae salutis iacturam facere velint.
+
 31] Quod autem haec sit omnium nostrum fides, doctrina et confessio (de qua in novissimo illo die Iudici Domino nostro Iesu Christo rationem reddere parati sumus), et quod contra hanc doctrinam nihil vel occulte vel aperte dicere aut scribere, sed per gratiam Dei in ea constanter perseverare velimus, in eius rei fidem re bene meditata in vero Dei timore et invocatione nominis eius, hanc Epitomen propriis manibus subscripsimus.
+
