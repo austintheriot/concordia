@@ -1,10 +1,12 @@
-Enchiridion
+# Enchiridion
 
 Catechismus Minor
 
 D. Martini Lutheri
 
-pro Parochis et Concionatoribus Praefatio D. Martini Lutheri.
+pro Parochis et Concionatoribus
+
+## Praefatio D. Martini Lutheri.
 
 Martinus Lutherus omnibus fidelibus, piis Parochis et Concionatoribus gratiam, misericordiam et pacem in Christo Iesu, Domino nostro, pr. [praemittit].
 
@@ -32,17 +34,13 @@ Martinus Lutherus omnibus fidelibus, piis Parochis et Concionatoribus gratiam, m
 
 21] Postremo: Quoniam papae tyrannis imminuta et labefactata iam est, multos passim invenias, qui ad sacramentum nunquam accedunt, sed contemnunt plane ceu rem inutilem et non necessariam. Illi quoque impellendi et urgendi sunt, hac tamen ratione: nolo ego quemquam neque ad fidem neque ad sacramenta cogi, et male faciunt illi, qui leges, certa tempora aut certa loca ad tales res praescribunt. 22] Sic tamen docere illi, qui in officio Verbi sunt, debent, ut sine nostris legibus ultro sua voluntate coacti auditores ad nos veniant et nos ministros Verbi cogant quasi ad porrigendum sacramentum. Id quod tum fiet, si sic doceas periculum esse, ne ii contemnant sacramentum, neque digni sint, qui in Christianorum numero censeantur, qui non in anno quater ut minimum sacramentum sumant, quemadmodum neque illi in Christianorum numero censendi sunt, qui evangelio vel non credunt, vel illud non audiunt. Neque enim Christus, quum institueret sacramentum, dixit: “Hoc omittite vel contemnite”, sed: Hoc facite, quotiescunque biberitis etc. [1 Cor. 11, 25.] Hoc certe vult, ut faciamus; non vult, ut aut prorsus intermittamus aut contemnamus; sic enim ait: Hoc facite.
 
-23] Quodsi quis sacramentum contemnit, certum id est argumentum, quod neque is peccatum neque carnem neque Satanam neque mundum neque mortem neque pericula neque infernum habeat, hoc est, quod prorsus nihil horum credat, quamquam totus immersus sit peccatis et in Satanae regno gravissime teneatur captivus; contra, non gratia, non vita, non paradiso, non coelo, non Christo, non Deo neque ullo alio bono opus habeat. Nam si crederet se peccatis obrutum longissime a gratia abesse, sine dubio hoc sacramentum non contemneret, in quo contra peccata remedium et tanta omnium bonorum copia nobis exhibetur. Neque etiam huic ullis legibus
-
-opus esset, quibus ad sacramentum sumendum cogeretur; ipse sua sponte accurreret, coactus peccatorum mole, et te potius cogeret ad porrigendum sibi sacramentum.
+23] Quodsi quis sacramentum contemnit, certum id est argumentum, quod neque is peccatum neque carnem neque Satanam neque mundum neque mortem neque pericula neque infernum habeat, hoc est, quod prorsus nihil horum credat, quamquam totus immersus sit peccatis et in Satanae regno gravissime teneatur captivus; contra, non gratia, non vita, non paradiso, non coelo, non Christo, non Deo neque ullo alio bono opus habeat. Nam si crederet se peccatis obrutum longissime a gratia abesse, sine dubio hoc sacramentum non contemneret, in quo contra peccata remedium et tanta omnium bonorum copia nobis exhibetur. Neque etiam huic ullis legibus opus esset, quibus ad sacramentum sumendum cogeretur; ipse sua sponte accurreret, coactus peccatorum mole, et te potius cogeret ad porrigendum sibi sacramentum.
 
 24] Non igitur hic legibus agendum eat, id quod papa fecit. Hoc fac, ut oratione, quantum potes, huius sacramenti commoda et incommoda, pericula et bona, item necessitatem cum summa utilitate coniunctam exaggeres: tum fiet, ut ultro accurrant et ipsi se cogant. Quodsi his nihil moveantur aliqui, sine eos suo vivere more, hoc tantum eis dices, quod in Satanae sint regno, qui nihil neque sua necessitate neque Dei benignitate et gratia, quam eis in sacramento exhibet, moveantur. 25] Qui vero hoc modo suos auditores non urgent et legibus eos potius volunt cogere, illi occasionem contemnendi sacramenti illis praebent. Cum enim ministri Verbi adeo sint oscitantes, non est mirum, si auditores quoque sint negligentiores. 26] Hoc igitur probe considerent parochi et ministri Verbi, longe iam aliud suum esse officium, quam olim in papatu fuerit. Iam enim est ministerium salutis et gratiae, fit igitur quo que difficilius et laboriosius. Et cum gravissima pericula et tentationes in ministerio sint perferendae, tamen neque laborum praemium neque gratias in mundo meretur. 27] Verum nihil nos illa mundi ingratitudo cum summa impietati coniuncta moveat. Christus ipse nobis satis ampla praemia proposuit, si modo fideliter in eius vinea laboraverimus. Id autem ut commodius possimus, faxit Pater omnis gratiae, cui sit laus et gloria in saecula per Christum Iesum, Dominum nostrum! Amen.
 
-——————————
+### I. DECEM PRAECEPTA.
 
-I. DECEM PRAECEPTA.
-
-quomodo paterfamilias ea suae familiae simplicissime tradere debeat. —————
+quomodo paterfamilias ea suae familiae simplicissime tradere debeat.
 
 1] I. Praeceptum.
 
