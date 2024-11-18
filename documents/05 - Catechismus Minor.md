@@ -38,11 +38,11 @@ prō Parochīs et Concionātōribus
 
 24\] Nōn igitur **hīc** lēgibus agendum eat, id quod **pāpa** fēcit. **Hoc** fac, ut ōrātiōne, quantum **potes**, huius sacrāmentī **commoda** et **incommoda**, perīcula et **bona**, item necessitātem cum **summā** ūtilitāte coniūnctam exaggerēs: tum fīet, ut ultrō accurrant et ipsī sē cōgant. Quodsī hīs nihil moveantur aliquī, **sine** eōs suō **vīvere** **mōre**, **hoc** tantum eīs **dīcēs**, quod in Satānae sint rēgnō, quī nihil neque **suā** necessitāte neque Deī benignitāte et **grātiā**, quam eīs in sacrāmentō exhibet, moveantur. 25] Quī vērō **hoc** **modo** suōs audītōrēs nōn urgent et lēgibus eōs potius volunt **cōgere**, illī occāsiōnem contemnendī sacrāmentī illīs praebent. Cum enim ministrī Verbī adeō sint ōscitantēs, nōn est mīrum, sī audītōrēs **quoque** sint negligentiōrēs. 26] **Hoc** igitur **probē** cōnsīderent parochī et ministrī Verbī, **longē** iam aliud suum **esse** officium, quam ōlim in papātū fuerit. Iam enim est ministerium **salūtis** et grātiae, fit igitur quō que difficilius et labōriōsius. Et cum **gravissima** perīcula et tentātiōnēs in ministeriō sint perferendae, tamen neque labōrum praemium neque grātiās in mundō merētur. 27] Vērum nihil nōs **illa** mundī ingrātitūdō cum **summā** impietātī **coniūncta** moveat. Chrīstus ipse nōbīs **satis** **ampla** praemia prōposuit, sī **modo** fidēliter in eius **vīneā** **labōrāverīmus**. Id autem ut commodius possīmus, faxit Pater **omnis** grātiae, cui sit laus et **glōria** in saecula per Chrīstum **Iēsum**, Dominum nostrum! Āmēn.
 
-## Ī. DECEM **PRAECEPTA**.
+## I. DECEM **PRAECEPTA**.
 
 quōmodo paterfamiliās **eā** suae familiae **simplicissimē** **trādere** dēbeat.
 
-### 1\] Ī. Praeceptum.
+### 1\] I. Praeceptum.
 
 Nōn habēbis deōs aliēnōs.
 
@@ -52,7 +52,7 @@ Respōnsiō.
 
 Dēbēmus Deum suprā omnia timēre, **dīligere** et illī **cōnfīdere**.
 
-### 3\] IĪ. Praeceptum.
+### 3\] II. Praeceptum.
 
 Nōn assūmēs **nōmen** Dominī Deī tuī in vānum; nōn enim habēbit īnsontem Dominus eum, quī assūmpserit **nōmen** eius in vānum.
 
@@ -62,7 +62,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et **dīligere**, nē per **nōmen** eius imprecēmur, iūrēmus, incantēmus, mentiāmur aut dolīs fallāmus, sed in omnī necessitāte illud invocēmus, adōrēmus et cum grātiārum āctiōne laudēmus.
 
-### 5\] IĪĪ. Praeceptum.
+### 5\] II.. Praeceptum.
 
 Mementō, ut diem Sabbatī sānctificēs.
 
@@ -92,7 +92,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et **dīligere**, nē vītae proximī nostrī incommodēmus aut **aegrē** faciāmus, sed īlium adiuvēmus et prōmoveāmus in omnibus vītae et corporis necessitātibus et perīculīs.
 
-### 11\] VĪ. Praeceptum.
+### 11\] VI. Praeceptum.
 
 Nōn moechāberis.
 
@@ -102,7 +102,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et **dīligere**, ut **castē** et **pudīcē** vīvāmus in verbīs ac operibus, et ūnusquisque suam coniugem amet ac honōret.
 
-### 13\] VĪĪ. Praeceptum.
+### 13\] VI.. Praeceptum.
 
 Nōn fūrtum faciēs.
 
@@ -112,7 +112,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et **dīligere**, nē proximō pecūniam aut **bona** auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius **conditiō** melior reddātur.
 
-### 15\] VIĪĪ. Praeceptum.
+### 15\] VII.. Praeceptum.
 
 Nōn **loqueris** contrā proximum tuum falsum testimōnium.
 
@@ -154,7 +154,7 @@ Respōnsiō.
 
 Deus minātur poenam omnibus, quī **ista** **praecepta** trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī **praecepta** facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum **dīligere** et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
 
-## IĪ. SYMBOLUM APOSTOLICUM,
+## II. SYMBOLUM APOSTOLICUM,
 
 quōmodo paterfamiliās id suae familiae **simplicissimē** **trādere** dēbeat.
 
@@ -194,7 +194,7 @@ Respōnsiō.
 
 Crēdō mē propriīs ratiōnis meae vīribus **Iēsu** Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in **Iēsu** Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
 
-## IIĪ. ŌRĀTIŌ **DOMINICA**,
+## III. ŌRĀTIŌ **DOMINICA**,
 
 quōmodo paterfamiliās eam suae familiae **simplicissimē** **trādere** dēbeat.
 
@@ -206,7 +206,7 @@ Respōnsiō.
 
 Deus amanter nōs hāc **praefātiuncula** invītat, ut **vērē** crēdāmus eum nostrum vērum Patrem nōsque eius vērōs fīliōs **esse**, ut eum cōnfīdentius plēnī **fīdūciā** invocēmus, quemadmodum vidēmus līberōs **certa** **fīdūcia** aliquid ā **parentibus** **suīs** **petere**.
 
-### 3\] Ī. Petītiō.
+### 3\] I. Petītiō.
 
 Sānctificētur **nōmen** tuum.
 
@@ -222,7 +222,7 @@ Respōnsiō.
 
 Cum Verbum Deī **pūrē** ac **sincērē** docētur, et nōs secundum illud, ut fīliōs Deī decet, **piē** vīvimus. Quod ut fīat, **dōna** nōbīs, mī Pater, quī **es** in coelīs! Quī vērō aliter docet vel vīvit, quam Verbum Deī docet, ille **nōmen** Deī inter nōs prōfānat. Nē autem hoē **accidat**, tū prohibē, mī Pater **coelestis**!
 
-### 6\] IĪ. Petītiō.
+### 6\] II. Petītiō.
 
 Adveniat rēgnum tuum.
 
@@ -238,7 +238,7 @@ Respōnsiō.
 
 Cum Pater **coelestis** dat nōbīs suum Sānctum Spīritum, quī efficit **grātiā** **suā**, ut sānctō eius Verbō crēdāmus ac **piē** vīvāmus, cum in **hōc** tempore, tum posteā in aeternum.
 
-### 9\] IĪĪ. Petītiō.
+### 9\] II.. Petītiō.
 
 Fīat voluntās **tua**, sīcut in coelō, sīc et in **terrā**.
 
@@ -280,7 +280,7 @@ Respōnsiō.
 
 Petimus hāc precātiōne, nē Pater **coelestis** velit respicere et exāmināre **peccāta** **nostra** et propter **istā** nostram Ōrātiōnem repudiāre; quandōquidem nūllīs rēbus, quās petimus, dignī sumus, nec quidquam merērī possumus; sed ut velit nōbīs **suā** **grātiā** et bonitāte dōnāre omnia, quia quotīdiē multifāriam peccāmus et nihil **nisi** poenās merēmur. Vicissim autem ex **corde** condōnābimus, quidquid in nōs peccāverint aliī, et prō maleficiō libenter reddēmus beneficium.
 
-### 17\] VĪ. Petītiō.
+### 17\] VI. Petītiō.
 
 Et nē nōs indūcās in tentātiōnem.
 
@@ -290,7 +290,7 @@ Respōnsiō.
 
 Deus quidem nēminem tentat, sed tamen petimus hāc petītiōne, ut ipse nōs cūstōdiat et cōnserver, nē Satanās, mundus et **carō** **nostra** nōbīs impōnant et nōs ā **rēctā** **fide** sēdūcant et in superstitiōnem, diffīdentiam, dēspērātiōnem atque **alia** gravia **scelera** et flāgitia coniiciant, et ut **maximē** eiusmodī tentātiōnibus sollicitēmur, nē succumbāmus, sed ut tandem vincāmus ac triumphēmus.
 
-### 19\] VĪĪ. Petītiō.
+### 19\] VI.. Petītiō.
 
 Sed **līberā** nōs ā **mālō**.
 
@@ -306,7 +306,7 @@ Quae est huius vōculae \[vocābulī\] significātiō?
 
 Āmēn significat **idem** quod **certē**, ut scīlicet ego sim certus, eiusmodī petītiōnēs Patrī nostrō coelestī **esse** acceptās atque ab eō exaudītās, quia ipse nōbīs mandāvit, ut ad hunc modum ōrārēmus \[ōrēmus\], prōmīsitque sē nōs exaudītūrum **esse**. Āmēn, Āmēn, id est, **vērē**, **certē**, haec **ita** fīent.
 
-## IV. SACRĀMENTUM BAPTISMĪ,
+## IV. SACRĀMENTUM BAPTISMI.
 
 quōmodo dē eō paterfamiliās suam familiam **simplicissimē** docēre dēbeat.
 
@@ -422,7 +422,7 @@ Patrīs, Fīliī et **Spīritus** Sānctī. Āmēn. **Vāde** in pāce!
 
 29\] Quī vērō cōnscientiās habent afflīctās, tentātās, moestās, eōs minister plūribus sententiīs Scrīptūrae facientibus ad fideī incrēmentum cōnsōlābitur. Haec, quam commemorāvimus, tantum est **puerīlis** et **commūnis** **fōrma** cōnfessiōnis prō simpliciōribus et rudiōribus.
 
-## VĪ. SACRĀMENTUM **ALTĀRIS**,
+## VI. SACRĀMENTUM **ALTĀRIS**,
 
 quōmodo paterfamiliās **simplicissimē** suam familiam dē eō docēre dēbeat.
 
@@ -462,7 +462,7 @@ Ieiūnāre et corpus suum praeparāre est quidem **bona** et **externa** **disci
 
 Quī vērō hīs verbīs nōn crēdit aut dē illīs dubitat, ille est indignus ac imparātus, quia **hoc** verbum, "Prō vōbīs", postulat omnīnō cor, quod Deō crēdat.
 
-## Appendix Ī.
+## Appendix I.
 
 QUŌ **PACTŌ** PATRĒSFAMILIĀS
 
@@ -520,7 +520,7 @@ Cōnfitēminī Dominō, quoniam bonus, quoniam in aeternum **misericordiā** eiu
 
 **Grātiās** agimus tibi, Domine Deus Pater, per **Iēsum** Chrīstum, Dominum nostrum, prō ūniversīs beneficiīs tuīs, quī **vīvis** et rēgnās in saecula saeculōrum. Āmēn.
 
-## Appendix IĪ.
+## Appendix II.
 
 ### 1\] **TABULĀ** **OECONOMICĀ**,
 
