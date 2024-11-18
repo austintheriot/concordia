@@ -1,589 +1,589 @@
-# Enchiridion
+# Enchīridion
 
-Catechismus Minor
+Catēchismus Minor
 
-D. Martini Lutheri
+D. Martīnī Luthērī
 
-pro Parochis et Concionatoribus
+prō Parochīs et Concionātōribus
 
-## Praefatio D. Martini Lutheri.
+## Praefātiō D. Martinī Luthērī.
 
-Martinus Lutherus omnibus fidelibus, piis Parochis et Concionatoribus gratiam, misericordiam et pacem in Christo Iesu, Domino nostro, pr. \[praemittit\].
+Martīnus Luthērus omnibus fidēlibus, piīs Parochīs et Concionātōribus grātiam, misericordiam et pācem in Chrīstō **Iēsu**, Dominō nostrō, pr. \[praemittit\].
 
-1\] Miserabilis illa facies, quam proxime cum visitatorem agerem, vidi, me ad edendum hunc Catechismum, simplicissime et brevissime 2] tractatum, coegit. Deum immortalem! quantum calamitatem ibi vidi! Vulgus, praesertim autem illud, quod in agris vivit, item plerique parochi, adeo nullam Christianae doctrinae cognitionem habent, ut dicere 3] etiam pudeat. Et tamen omnes sancto illo Christi nomine appellantur et nobiscum communibus utuntur sacramentis, cum Orationem Dominicam, Symbolum Apostolicum et Decalogum non modo non intelligant, sed ne verba quidem referre possint. Quid multis moror? nihil omnino a bestiis differunt. Iam autem, cum evangelium passim doceatur, illi vel maxime Christianorum libertate fruuntur.
+1\] **Miserābilis** **illa** faciēs, quam **proximē** cum vīsitātōrem agerem, vīdī, mē ad **edendum** hunc Catēchismum, **simplicissimē** et **brevissimē** 2] tractātum, coēgit. Deum immortālem! quantum calamitātem ibi vīdī! Vulgus, praesertim autem illud, quod in agrīs vīvit, item plērīque parochī, adeō nūllam Chrīstiānae doctrīnae cognitiōnem habent, ut **dīcere** 3] etiam pudeat. Et tamen omnēs sānctō illō Chrīstī nōmine appellantur et nōbīscum commūnibus ūtuntur sacrāmentīs, cum Ōrātiōnem Dominicam, Symbolum Apostolicum et Decalogum nōn **modo** nōn intelligant, sed nē verba quidem **referre** possint. Quid multīs **moror**? nihil omnīnō ā bēstiīs differunt. Iam autem, cum ēvangelium passim doceātur, illī vel **maximē** Chrīstiānōrum lībertāte fruuntur.
 
-4\] Quid hic Christo respondebitis, episcopi, quibus illa cura est divinitus demandata? Vos enim estis, quibus vel solis illa Christianae religionis calamitas debetur. Vos permisistis ita turpiter errare homines, vestra ea est culpa, qui nihil minus unquam fecistis quam hoc, quod vestri officii erat facere. 5] Nolo hic quidquam mali vobis imprecari. Ea autem an non est summa impietas cum maxima impudentia coniuncta, quod unicam tantum speciem sacramenti ac vestras traditiones urgetis: hoc prorsus contemnitis et negligitis, an illi, qui vestrae fidei et curae commendati sunt, Orationem Dominicam, Symbolum Apostolicum aut Decalogum teneant necne. Vae, vae vobis!
+4\] Quid **hic** Chrīstō respondēbitis, epīscopī, quibus **illa** **cūra** **est** dīvīnitus **dēmandāta**? Vōs enim **estis**, quibus vel **sōlis** **illa** Chrīstiānae religiōnis **calamitās** dēbētur. Vōs permīsistis **ita** turpiter errāre hominēs, **vestra** **ea** **est** **culpa**, quī nihil minus unquam fēcistis quam **hoc**, quod vestrī officiī erat facere. 5] Nōlō **hic** quidquam **malī** vōbīs imprecārī. **Ea** autem an nōn **est** **summa** impietās cum **maxima** **impudentia** **coniūncta**, quod ūnicam tantum speciem sacrāmentī ac vestrās trāditiōnēs urgētis: **hoc** prōrsus contemnitis et negligitis, an illī, quī vestrae fideī et cūrae commendātī sunt, Ōrātiōnem Dominicam, Symbolum Apostolicum aut Decalogum teneant necne. Vae, vae vōbīs!
 
-6\] Per Deum igitur omnes vos parochos et concionatores rogo atque obtestor, ut serio vestrum faciatis officium, et ut divinitus vobis commendatae plebis agatis curam, quod tum rectissime feceritis, si una nobiscum hunc Catechismum vulgo, praesertim autem iunioribus, inculcetis. Quodsi qui ex vobis adeo sunt indocti, ut omnino nullam harum rerum cognitionem habeant, illos non pudeat suis auditoribus praelegere de verbo ad verbum a nobis praescriptam hanc formam, in hunc modum:
+6\] Per Deum igitur omnēs vōs parochōs et concionātōrēs rogō atque obtestor, ut sēriō vestrum faciātis officium, et ut dīvīnitus vōbīs commendātae **plēbis** agātis cūram, quod tum **rēctissimē** **fēcerītis**, sī **ūna** nōbīscum hunc Catēchismum vulgō, praesertim autem iūniōribus, inculcētis. Quodsī quī ex vōbīs adeō sunt indoctī, ut omnīnō nūllam hārum rērum cognitiōnem habeant, illōs nōn pudeat **suīs** audītōribus **praelegere** dē verbō ad verbum ā nōbīs praescrīptam hanc fōrmam, in hunc modum:
 
-7\] Primo omnium hoc cavebunt concionatores, ne subinde alio atque alio modo vel Decalogum vel Dominicam Orationem vel Symbolum Apostolicum vel etiam sacramenta proponant, sed ut perpetuo eadem utantur forma in his proponendis et explicandis vulgo. Ideo autem hoc do consilium, quod sciam non posse feliciter doceri simpliciores homines et qui natu minores sunt, quam una atque eadem forma saepius proposita ac repetita. Quodsi iam isto, iam alio modo eadem proponas, facile perturbantur simpliciores animi, et fiet, ut pereat omnis opera, quam in docendo ponis.
+7\] Prīmō omnium **hoc** cavēbunt concionātōrēs, nē subinde aliō atque aliō **modō** vel Decalogum vel Dominicam Ōrātiōnem vel Symbolum Apostolicum vel etiam sacrāmenta prōpōnant, sed ut perpetuō **eadem** ūtantur **fōrma** in hīs prōpōnendīs et explicandīs vulgō. Ideō autem **hoc** dō cōnsilium, quod sciam nōn posse fēlīciter docērī simpliciōrēs hominēs et quī nātū minōrēs sunt, quam **ūna** atque **eadem** **fōrma** saepius **prōposita** ac **repetīta**. Quodsī iam istō, iam aliō **modō** **eadem** prōpōnās, facile perturbantur simpliciōrēs animī, et fīet, ut pereat **omnis** **opera**, quam in docendō pōnis.
 
-8\] Atque hoc viderunt sancti patres, qui voluerunt Decalogi, Symboli et Dominicae Orationis unam eandemque certis verbis descriptam formam in ecclesia esse. Illorum diligentiam nos imitari convenit, et danda opera est, ut simplicioribus et iunioribus sic illa proponamus, ut ne una quidem syllaba immutetur, quotiescunque tandem Catechismum doceas, et ut perpetuo sui similis sit tractatio.
+8\] Atque **hoc** vīdērunt sānctī patrēs, quī voluērunt Decalogī, Symbolī et Dominicae Ōrātiōnis ūnam eandemque certīs verbīs dēscrīptam fōrmam in **ecclēsiā** **esse**. Illōrum dīligentiam nōs imitārī **convenit**, et **danda** **opera** **est**, ut simpliciōribus et iūniōribus sīc **illa** prōpōnāmus, ut nē **ūna** quidem **syllaba** immūtētur, quotiēscunque tandem Catēchismum doceās, et ut perpetuō **suī** **similis** sit tractātiō.
 
-9\] Quamcunque igitur tibi delegeris praedicandi Catechismi formam, eam perpetuo retinebis neque unquam ab ea discedes. Alia autem ratio est, si in turba doctorum hominum evangelium doceas; ibi enim eruditionis tuae specimen edere potes, neque prohibeo, si apud illos tractationem varies et subinde alium atque alium vultum dicendo fingas. Apud simpliciores autem perpetuo eadem 10] certis verbis descripta forma uteris. Et debet is primus esse labor, ut Decalogum, Symbolum, item Orationem Dominicam de verbo ad verbum nude et simplicissime doceas, ut eadem saepius audita ipsi quoque auditores referre discant.
+9\] Quamcunque igitur tibi **dēlēgerīs** praedicandī Catēchismī fōrmam, eam perpetuō retinēbis neque unquam ab **eā** discēdēs. **Alia** autem ratiō **est**, sī in **turbā** doctōrum hominum ēvangelium doceās; ibi enim ērudītiōnis tuae specimen **edere** **potes**, neque prohibeō, sī apud illōs tractātiōnem variēs et subinde alium atque alium vultum dīcendō fingās. Apud simpliciōrēs autem perpetuō **eādem** 10] certīs verbīs **dēscrīptā** **fōrma** **uterīs**. Et dēbet **is** prīmus **esse** **labor**, ut Decalogum, Symbolum, item Ōrātiōnem Dominicam dē verbō ad verbum **nūdē** et **simplicissimē** doceās, ut **eadem** saepius **audīta** ipsī **quoque** audītōrēs **referre** discant.
 
-11\] Quodsi qui adeo religionem contemnunt, ut discere haec nolint, illi monendi sunt, quod Christum negent, et quod nihil minus sint quam Christiani. Atque illi neque admittendi sunt ad sacramentum altaris neque ad catechistarum officium, qui pueris baptizandis adsunt, et si Christianae libertatis iure uti velint, ubi eis est commodum, non est illud eis concedendum, sed potius ad papam atque eos, quos vocant officiales, et ad ipsum quoque Satanam sunt ablegandi. Parentum autem 12] et patrumfamilias officium erit negare talibus hominibus victum, et pulchre quoque fecerint, si efferatis illis hominibus indicent, eam principis esse sententiam, ut in exilium aliquo delegentur et eiiciantur e patria.
+11\] Quodsī quī adeō religiōnem contemnunt, ut **discere** haec nōlint, illī monendī sunt, quod Chrīstum negent, et quod nihil minus sint quam Chrīstiānī. Atque illī neque admittendī sunt ad sacrāmentum **altāris** neque ad catēchistārum officium, quī puerīs baptīzandīs adsunt, et sī Chrīstiānae lībertātis iūre **ūtī** velint, ubi eīs **est** commodum, nōn **est** illud eīs concēdendum, sed potius ad pāpam atque eōs, quōs vocant officiālēs, et ad ipsum **quoque** Satānam sunt ablēgandī. **Parentum** autem 12] et patrumfamiliās officium erit negāre tālibus hominibus **vīctum**, et **pulchrē** **quoque** fēcerint, sī **efferātīs** illīs hominibus **indicent**, eam prīncipis **esse** sententiam, ut in **exilium** aliquō dēlēgentur et ēiiciantur ē **patriā**.
 
-13\] Quamquam enim sic sentiam, ad fidem neminem vel posse vel debere cogi, hoc tamen omnino faciendum est, ut teneat vulgus, quid ius, quid item contra ius illorum sit, cum quibus vivit et suum quaeritat victum. Hoc enim requiritur, ut quisque suae civitatis iura, quibus ceu privilegio quodam uti volet, norit et observet, sive credat vere, sive perditus aliquis sit nebulo.
+13\] Quamquam enim sīc sentiam, ad fidem nēminem vel posse vel dēbēre cōgī, **hoc** tamen omnīnō faciendum **est**, ut teneat vulgus, quid iūs, quid item contrā iūs illōrum sit, cum quibus vīvit et suum quaeritat **vīctum**. **Hoc** enim requīritur, ut quisque suae cīvitātis **iūra**, quibus ceu prīvilēgiō quōdam **utī** volet, nōrit et observet, sīve crēdat **vērē**, sīve perditus aliquis sit nebulō.
 
-14\] Secundum: Cum simpliciores illi iam Catechismi verba bene annumerare didicerint, tradenda post quoque est eis explicatio, ut ea etiam intelligant. Potes autem vel hac nostra forma, quam hic praescriptam vides, vel alia 15] quadam uti. Sicut autem, ut ante monui, Catechismus nudus iisdem semper verbis vulgo proponendus est, ita in expositione Catechismi cuperem perpetuo eandem tractationem sequendam, ne quidem immutata unica syllaba. 16] Sumes autem ad eam rem satis temporis; neque enim necesse est omnia simul proposuisse, sed sunt faciendi ordines, et in tractando alterum alteri rite convenit subiicere, Ut si iam exacte tenuerint, quidnam primum praeceptum postulet, tum ad secundum est pergendum, ut sic omnia doceantur certo ordine; alias enim fiet, ut nimia copia obrutae et perturbatae mentes nihil prorsus retineant.
+14\] Secundum: Cum simpliciōrēs illī iam Catēchismī verba **bene** annumerāre didicerint, **trādenda** post **quoque** **est** eīs explicātiō, ut **ea** etiam intelligant. **Potes** autem vel hāc **nostra** **fōrma**, quam **hīc** praescrīptam vidēs, vel **alia** 15] quādam **ūtī**. Sīcut autem, ut ante monuī, Catēchismus nūdus iīsdem semper verbīs vulgō prōpōnendus **est**, **ita** in expositiōne Catēchismī cuperem perpetuō eandem tractātiōnem sequendam, nē quidem **immūtāta** **ūnica** **syllaba**. 16] Sūmēs autem ad eam rem **satis** temporis; neque enim necesse **est** omnia simul prōposuisse, sed sunt faciendī ōrdinēs, et in tractandō alterum alterī rīte **convenit** subiicere, Ut sī iam **exāctē** tenuerint, quidnam prīmum praeceptum postulet, tum ad secundum **est** pergendum, ut sīc omnia doceantur certō ōrdine; aliās enim fīet, ut **nimiā** **cōpiā** obrutae et perturbātae mentēs nihil prōrsus retineant.
 
-17\] Tertio: Postquam hanc brevem Catechismi expositionem absolvisti, tum illam longiorem tractationem ingredieris, ut plenius omnia auditores intelligant. Ibi singula praecepta, singulas Symboli et Orationis Dominicae partes suis illustrabis coloribus, varia enumerabis opera, varios fructus et commoda, quae inde enascuntur, item pericula et damna quoque, in quae coniicimur, si minus ea praestemus. Invenies autem ista passim piorum hominum scriptis copiose explicata. Porro 18] maxime urgebis illa praecepta, in quae potissimum committere tui loci homines vides. Et ut eius rei exempla subiiciam, septimum praeceptum potissimum urgebis apud mercatores et apud illos, qui manuarias exercent operas. Commode quoque hoc praeceptum apud agricolas, servos et servas urgetur; illi enim pessima fide cum hominibus agunt et variis modis committuntur furta. Sic quartum praeceptum apud imperitum vulgus et minores natu potissimum urgere convenit, ut sint quieti, bona fide omnia agant, pareant magistratibus et parentibus, publicam pacem non perturbent. Sunt autem haec sacrarum literarum historiis illustranda, ubi Deus vel graves poenas a transgressoribus huius praecepti exegit, vel illorum, qui servarint, omnia coepta mirabiliter fortunavit.
+17\] Tertiō: Postquam hanc brevem Catēchismī expositiōnem absolvistī, tum illam longiōrem tractātiōnem ingrediēris, ut plēnius omnia audītōrēs intelligant. Ibi **singula** **praecepta**, singulās Symbolī et Ōrātiōnis Dominicae partēs **suīs** illūstrābis colōribus, **varia** ēnumerābis **opera**, variōs **frūctūs** et **commoda**, quae inde ēnāscuntur, item perīcula et **damna** **quoque**, in quae coniicimur, sī minus **eā** praestēmus. Inveniēs autem **ista** passim piōrum hominum scrīptīs **cōpiōsē** **explicāta**. Porrō 18] **maximē** urgēbis **illa** **praecepta**, in quae potissimum **committere** tuī locī hominēs vidēs. Et ut eius reī **exempla** subiiciam, septimum praeceptum potissimum urgēbis apud mercātōrēs et apud illōs, quī manuāriās exercent operās. **Commodē** **quoque** **hoc** praeceptum apud agricolās, servōs et servās urgētur; illī enim **pessimā** **fide** cum hominibus agunt et variīs modīs committuntur fūrta. Sīc quārtum praeceptum apud imperītum vulgus et minōrēs nātū potissimum urgēre **convenit**, ut sint quiētī, **bona** **fide** omnia agant, pāreant magistrātibus et **parentibus**, pūblicam pācem nōn perturbent. Sunt autem haec sacrārum līterārum historiīs **illūstranda**, ubi Deus vel gravēs poenās ā trānsgressōribus huius praeceptī exēgit, vel illōrum, quī servārint, omnia **coepta** mīrābiliter fortūnāvit.
 
-19\] Hoc quoque imprimis eo loco ages, ut commoneas sui officii magistratum et parentes, ut summa diligentia publica munera obeant et suos liberos ad literarum studia adhibeant. Sic autem commonendi sunt, ut sentiant se debere illa ex divino mandato, quae si minus faciant, gravissime a se esse peccatum. Quid enim illi faciunt aliud, quam ut simul et divinam et humanam administrationem tollant, non aliter atque infensissimi 20] tum Dei tum hominum hostes? Atque hic ceu in tabula spectandum propones, quam gravia damna rebus publicis dent illi, qui suos liberos non adhibent ad literas, ut in parochos, in ministros Verbi, item ad alia officia, quorum haec vita non sine magna calamitate carere potest, aliquando deligi possint. Hoc quoque addes, Deum gravissimas poenas pro illo peccato a parentibus expetiturum. Et sane haud scio, an sit alius locus, qui aeque merebatur tractari atque hic. Neque enim dici potest, quantum hac in parte a magistratibus et parentibus nostro saeculo peccetur. Non autem dubium est, quin id a Satana fiat eo consilio, ut in maximam calamitatem Germaniam coniiciat.
+19\] **Hoc** **quoque** **imprīmīs** eō locō agēs, ut commoneās **suī** officiī magistrātum et **parentēs**, ut **summā** **dīligentiā** **pūblica** **mūnera** obeant et suōs līberōs ad līterārum studia adhibeant. Sīc autem commonendī sunt, ut sentiant sē dēbēre **illa** ex dīvīnō mandātō, quae sī minus faciant, **gravissimē** ā sē **esse** peccātum. Quid enim illī faciunt aliud, quam ut simul et dīvīnam et hūmānam administrātiōnem tollant, nōn aliter atque īnfēnsissimī 20] tum Deī tum hominum hostēs? Atque **hic** ceu in **tabulā** spectandum prōpōnēs, quam gravia **damna** rēbus pūblicīs dent illī, quī suōs līberōs nōn adhibent ad līterās, ut in parochōs, in ministrōs Verbī, item ad **alia** officia, quōrum haec **vīta** nōn **sine** **magnā** calamitāte **carēre** potest, aliquandō dēligī possint. **Hoc** **quoque** addēs, Deum gravissimās poenās prō illō peccātō ā **parentibus** expetītūrum. Et **sānē** haud sciō, an sit **alius** locus, quī **aequē** merēbātur tractārī atque **hīc**. Neque enim dīcī potest, quantum hāc in **parte** ā magistrātibus et **parentibus** nostrō saeculō peccētur. Nōn autem dubium **est**, quīn id ā Satānā fīat eō cōnsiliō, ut in maximam calamitātem Germāniam coniiciat.
 
-21\] Postremo: Quoniam papae tyrannis imminuta et labefactata iam est, multos passim invenias, qui ad sacramentum nunquam accedunt, sed contemnunt plane ceu rem inutilem et non necessariam. Illi quoque impellendi et urgendi sunt, hac tamen ratione: nolo ego quemquam neque ad fidem neque ad sacramenta cogi, et male faciunt illi, qui leges, certa tempora aut certa loca ad tales res praescribunt. 22] Sic tamen docere illi, qui in officio Verbi sunt, debent, ut sine nostris legibus ultro sua voluntate coacti auditores ad nos veniant et nos ministros Verbi cogant quasi ad porrigendum sacramentum. Id quod tum fiet, si sic doceas periculum esse, ne ii contemnant sacramentum, neque digni sint, qui in Christianorum numero censeantur, qui non in anno quater ut minimum sacramentum sumant, quemadmodum neque illi in Christianorum numero censendi sunt, qui evangelio vel non credunt, vel illud non audiunt. Neque enim Christus, quum institueret sacramentum, dixit: “Hoc omittite vel contemnite”, sed: Hoc facite, quotiescunque biberitis etc. \[1 Cor. 11, 25.] Hoc certe vult, ut faciamus; non vult, ut aut prorsus intermittamus aut contemnamus; sic enim ait: Hoc facite.
+21\] Postrēmō: Quoniam **pāpae** **tyrannis** **imminūta** et **labefactāta** iam **est**, multōs passim inveniās, quī ad sacrāmentum nunquam accēdunt, sed contemnunt **plānē** ceu rem inūtilem et nōn necessāriam. Illī **quoque** impellendī et urgendī sunt, hāc tamen ratiōne: nōlō ego quemquam neque ad fidem neque ad sacrāmenta cōgī, et **male** faciunt illī, quī **lēgēs**, **certa** tempora aut **certa** **loca** ad tālēs rēs praescrībunt. 22] Sīc tamen docēre illī, quī in officiō Verbī sunt, dēbent, ut **sine** nostrīs lēgibus ultrō **suā** voluntāte coāctī audītōrēs ad nōs veniant et nōs ministrōs Verbī cōgant quasi ad porrigendum sacrāmentum. Id quod tum fīet, sī sīc doceās perīculum **esse**, nē iī contemnant sacrāmentum, neque dignī sint, quī in Chrīstiānōrum numerō cēnseantur, quī nōn in annō quater ut minimum sacrāmentum sūmant, quemadmodum neque illī in Chrīstiānōrum numerō cēnsendī sunt, quī ēvangeliō vel nōn crēdunt, vel illud nōn audiunt. Neque enim Chrīstus, quum īnstitueret sacrāmentum, dīxit: “**Hoc** omittite vel contemnite”, sed: **Hoc** facite, quotiēscunque **biberitis** etc. \[1 Cor. 11, 25.] **Hoc** **certē** vult, ut faciāmus; nōn vult, ut aut prōrsus intermittāmus aut contemnāmus; sīc enim ait: **Hoc** facite.
 
-23\] Quodsi quis sacramentum contemnit, certum id est argumentum, quod neque is peccatum neque carnem neque Satanam neque mundum neque mortem neque pericula neque infernum habeat, hoc est, quod prorsus nihil horum credat, quamquam totus immersus sit peccatis et in Satanae regno gravissime teneatur captivus; contra, non gratia, non vita, non paradiso, non coelo, non Christo, non Deo neque ullo alio bono opus habeat. Nam si crederet se peccatis obrutum longissime a gratia abesse, sine dubio hoc sacramentum non contemneret, in quo contra peccata remedium et tanta omnium bonorum copia nobis exhibetur. Neque etiam huic ullis legibus opus esset, quibus ad sacramentum sumendum cogeretur; ipse sua sponte accurreret, coactus peccatorum mole, et te potius cogeret ad porrigendum sibi sacramentum.
+23\] Quodsī **quis** sacrāmentum contemnit, certum id **est** argūmentum, quod neque **is** peccātum neque carnem neque Satānam neque mundum neque mortem neque perīcula neque īnfernum habeat, **hoc** **est**, quod prōrsus nihil hōrum crēdat, quamquam **tōtus** immersus sit **peccātīs** et in Satānae rēgnō **gravissimē** teneātur captīvus; contrā, nōn **grātia**, nōn **vīta**, nōn paradīsō, nōn coelō, nōn Chrīstō, nōn Deō neque ūllō aliō bonō opus habeat. Nam sī crēderet sē **peccātīs** obrutum **longissimē** ā **grātiā** abesse, **sine** dubiō **hoc** sacrāmentum nōn contemneret, in quō contrā **peccāta** remedium et **tanta** omnium bonōrum **cōpia** nōbīs exhibētur. Neque etiam huic ūllīs lēgibus opus **esset**, quibus ad sacrāmentum sūmendum cōgerētur; ipse **suā** sponte accurreret, **coāctus** peccātōrum **mōle**, et tē potius cōgeret ad porrigendum sibi sacrāmentum.
 
-24\] Non igitur hic legibus agendum eat, id quod papa fecit. Hoc fac, ut oratione, quantum potes, huius sacramenti commoda et incommoda, pericula et bona, item necessitatem cum summa utilitate coniunctam exaggeres: tum fiet, ut ultro accurrant et ipsi se cogant. Quodsi his nihil moveantur aliqui, sine eos suo vivere more, hoc tantum eis dices, quod in Satanae sint regno, qui nihil neque sua necessitate neque Dei benignitate et gratia, quam eis in sacramento exhibet, moveantur. 25] Qui vero hoc modo suos auditores non urgent et legibus eos potius volunt cogere, illi occasionem contemnendi sacramenti illis praebent. Cum enim ministri Verbi adeo sint oscitantes, non est mirum, si auditores quoque sint negligentiores. 26] Hoc igitur probe considerent parochi et ministri Verbi, longe iam aliud suum esse officium, quam olim in papatu fuerit. Iam enim est ministerium salutis et gratiae, fit igitur quo que difficilius et laboriosius. Et cum gravissima pericula et tentationes in ministerio sint perferendae, tamen neque laborum praemium neque gratias in mundo meretur. 27] Verum nihil nos illa mundi ingratitudo cum summa impietati coniuncta moveat. Christus ipse nobis satis ampla praemia proposuit, si modo fideliter in eius vinea laboraverimus. Id autem ut commodius possimus, faxit Pater omnis gratiae, cui sit laus et gloria in saecula per Christum Iesum, Dominum nostrum! Amen.
+24\] Nōn igitur **hīc** lēgibus agendum eat, id quod **pāpa** fēcit. **Hoc** fac, ut ōrātiōne, quantum **potes**, huius sacrāmentī **commoda** et **incommoda**, perīcula et **bona**, item necessitātem cum **summā** ūtilitāte coniūnctam exaggerēs: tum fīet, ut ultrō accurrant et ipsī sē cōgant. Quodsī hīs nihil moveantur aliquī, **sine** eōs suō **vīvere** **mōre**, **hoc** tantum eīs **dīcēs**, quod in Satānae sint rēgnō, quī nihil neque **suā** necessitāte neque Deī benignitāte et **grātiā**, quam eīs in sacrāmentō exhibet, moveantur. 25] Quī vērō **hoc** **modo** suōs audītōrēs nōn urgent et lēgibus eōs potius volunt **cōgere**, illī occāsiōnem contemnendī sacrāmentī illīs praebent. Cum enim ministrī Verbī adeō sint ōscitantēs, nōn **est** mīrum, sī audītōrēs **quoque** sint negligentiōrēs. 26] **Hoc** igitur **probē** cōnsīderent parochī et ministrī Verbī, **longē** iam aliud suum **esse** officium, quam ōlim in papātū fuerit. Iam enim **est** ministerium **salūtis** et grātiae, fit igitur quō que difficilius et labōriōsius. Et cum **gravissima** perīcula et tentātiōnēs in ministeriō sint perferendae, tamen neque labōrum praemium neque grātiās in mundō merētur. 27] Vērum nihil nōs **illa** mundī ingrātitūdō cum **summā** impietātī **coniūncta** moveat. Chrīstus ipse nōbīs **satis** **ampla** praemia prōposuit, sī **modo** fidēliter in eius **vīneā** **labōrāverīmus**. Id autem ut commodius possīmus, faxit Pater **omnis** grātiae, cui sit laus et **glōria** in saecula per Chrīstum **Iēsum**, Dominum nostrum! Āmēn.
 
-## I. DECEM PRAECEPTA.
+## Ī. DECEM **PRAECEPTA**.
 
-quomodo paterfamilias ea suae familiae simplicissime tradere debeat.
+quōmodo paterfamiliās **eā** suae familiae **simplicissimē** **trādere** dēbeat.
 
-### 1\] I. Praeceptum.
+### 1\] Ī. Praeceptum.
 
-Non habebis deos alienos.
+Nōn habēbis deōs aliēnōs.
 
-2\] Quae est huius praecepti sententia?
+2\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum supra omnia timere, diligere et illi confidere.
+Dēbēmus Deum suprā omnia timēre, **dīligere** et illī **cōnfīdere**.
 
-### 3\] II. Praeceptum.
+### 3\] IĪ. Praeceptum.
 
-Non assumes nomen Domini Dei tui in vanum; non enim habebit insontem Dominus eum, qui assumpserit nomen eius in vanum.
+Nōn assūmēs **nōmen** Dominī Deī tuī in vānum; nōn enim habēbit īnsontem Dominus eum, quī assūmpserit **nōmen** eius in vānum.
 
-4\] Quae est huius praccepti sententia?
+4\] Quae **est** huius pracceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne per nomen eius imprecemur, iuremus, incantemus, mentiamur aut dolis fallamus, sed in omni necessitate illud invocemus, adoremus et cum gratiarum actione laudemus.
+Dēbēmus Deum timēre et **dīligere**, nē per **nōmen** eius imprecēmur, iūrēmus, incantēmus, mentiāmur aut dolīs fallāmus, sed in omnī necessitāte illud invocēmus, adōrēmus et cum grātiārum āctiōne laudēmus.
 
-### 5\] III. Praeceptum.
+### 5\] IĪĪ. Praeceptum.
 
-Memento, ut diem Sabbati sanctifices.
+Mementō, ut diem Sabbatī sānctificēs.
 
-6\] Quae est huius praecepti sententia!
+6\] Quae **est** huius praeceptī **sententia**!
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne divinos sermones et eius Verbum contemnamus, sed ut sanctum reputemus, libenter audiamus et discamus.
+Dēbēmus Deum timēre et **dīligere**, nē dīvīnōs sermōnēs et eius Verbum contemnāmus, sed ut sānctum reputēmus, libenter audiāmus et discāmus.
 
 ### 7\] IV. Praeceptum.
 
-Honora patrem et matrem, ut bene sit tibi et sis longaevus super terram.
+**Honōrā** patrem et mātrem, ut **bene** sit tibi et sīs longaevus super terram.
 
-8\] Quae est huius praecepti sententia?
+8\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne parentes et dominos nostros contemnamus neque ad iram commoveamus, sed honore afficiamus, illis serviamus, morem geramus, amore eos prosequamur et magni faciamus.
+Dēbēmus Deum timēre et **dīligere**, nē **parentēs** et dominōs nostrōs contemnāmus neque ad īram commoveāmus, sed **honōre** afficiāmus, illīs serviāmus, mōrem gerāmus, amōre eōs prōsequāmur et magnī faciāmus.
 
 ### 9\] V. Praeceptum.
 
-Non occides.
+Nōn **occīdēs**.
 
-10\] Quae est huius praecepti sententia?
+10\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne vitae proximi nostri incommodemus aut aegre faciamus, sed ilium adiuvemus et promoveamus in omnibus vitae et corporis necessitatibus et periculis.
+Dēbēmus Deum timēre et **dīligere**, nē vītae proximī nostrī incommodēmus aut **aegrē** faciāmus, sed īlium adiuvēmus et prōmoveāmus in omnibus vītae et corporis necessitātibus et perīculīs.
 
-### 11\] VI. Praeceptum.
+### 11\] VĪ. Praeceptum.
 
-Non moechaberis.
+Nōn moechāberis.
 
-12\] Quae est huius praecepti sententia?
+12\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ut caste et pudice vivamus in verbis ac operibus, et unusquisque suam coniugem amet ac honoret.
+Dēbēmus Deum timēre et **dīligere**, ut **castē** et **pudīcē** vīvāmus in verbīs ac operibus, et ūnusquisque suam coniugem amet ac honōret.
 
-### 13\] VII. Praeceptum.
+### 13\] VĪĪ. Praeceptum.
 
-Non furtum facies.
+Nōn fūrtum faciēs.
 
-14\] Quae est huius praecepti sententia?
+14\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne proximo pecuniam aut bona auferamus, neque falsis mercibus aut impostum ad nos pertrahamus, sed demus operam, ut illius opes conserventur, et eius conditio melior reddatur.
+Dēbēmus Deum timēre et **dīligere**, nē proximō pecūniam aut **bona** auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius **conditiō** melior reddātur.
 
-### 15\] VIII. Praeceptum.
+### 15\] VIĪĪ. Praeceptum.
 
-Non loqueris contra proximum tuum falsum testimonium.
+Nōn **loqueris** contrā proximum tuum falsum testimōnium.
 
-16\] Quae est huius praecepti sententia?
+16\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne proximum falsis mendaciis involvamus, prodatuus, traducamus aut infamia aliqua afficiatuus, sed illum excusemus, bene de eo sentiamus et loquamur et omnia in meliorem partem accipiamus et interpretemur.
+Dēbēmus Deum timēre et **dīligere**, nē proximum falsīs mendāciīs involvāmus, prodatuus, trādūcāmus aut **īnfāmia** **aliquā** afficiatuus, sed illum excūsēmus, **bene** dē eō sentiāmus et loquāmur et omnia in meliōrem partem accipiāmus et interpretēmur.
 
 ### 17\] IX. Praeceptum.
 
-Non concupisces domum proximi tui.
+Nōn concupīscēs domum proximī tuī.
 
-18\] Quae est huius praecepti sententia?
+18\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne hereditatem vel domum proximi dolo malo captemus et sub specie iuris et recti nostris facultatibus adiungamus, sed potius eum iuvemus, ut suas fortunas retineat integras.
+Dēbēmus Deum timēre et **dīligere**, nē hērēditātem vel domum proximī dolō **malō** captēmus et sub speciē iūris et rēctī nostrīs facultātibus adiungāmus, sed potius eum iuvēmus, ut suās fortūnās retineat integrās.
 
 ### 19\] X. Praeceptum.
 
-Nec desiderabis uxorem eius, non servum, non ancillam, non bovem, non asinum nec omnia, quae illius sunt.
+Nec dēsīderābis uxōrem eius, nōn servum, nōn ancillam, nōn bovem, nōn asinum nec omnia, quae illīus sunt.
 
-20\] Quae est huius praecepti sententia?
+20\] Quae **est** huius praeceptī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Debemus Deum timere et diligere, ne \[a\] proximo uxorem, servos, ancillas vel pecudes abalienemus aut abstrahamus, sed illos adhortemur et urgeamus, ut maneant et suum officium diligenter faciant.
+Dēbēmus Deum timēre et **dīligere**, nē \[ā\] proximō uxōrem, servōs, ancillās vel pecudēs abaliēnēmus aut abstrahāmus, sed illōs adhortēmur et urgeāmus, ut maneant et suum officium dīligenter faciant.
 
-21\] Quid autem summatim dicit Deus de his praeceptis omnibus?
+21\] Quid autem summātim dīcit Deus dē hīs praeceptīs omnibus?
 
-Responsio.
+Respōnsiō.
 
-Sic dicit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum fortis zelotes, visitans iniquitatem patrum in filios in tertiam et quartam generationem eorum, qui oderunt me; et faciens misericordiam in millia his, qui diligunt me et custodiunt praecepta mea.
+Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum **fortis** zēlōtēs, vīsitāns inīquitātem patrum in fīliōs in tertiam et quārtam generātiōnem eōrum, quī ōdērunt mē; et faciēns misericordiam in mīllia hīs, quī dīligunt mē et cūstōdiunt **praecepta** **mea**.
 
-22\] Quae est horum verborum sententia?
+22\] Quae **est** hōrum verbōrum **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Deus minatur poenam omnibus, qui ista praecepta transgrediuntur et violant. Debemus itaque expavescere et timere iram Dei et nihil contra huiusmodi praecepta facere. Rursus promittit etiam suam gratiam et omnia bona omnibus, qui mandata illa observant. Merito igitur debemus Deum diligere et illi confidere et iuxta mandata eius omnem nostram vitam sedulo et diligenter instituere.
+Deus minātur poenam omnibus, quī **ista** **praecepta** trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī **praecepta** facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum **dīligere** et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
 
-## II. SYMBOLUM APOSTOLICUM,
+## IĪ. SYMBOLUM APOSTOLICUM,
 
-quomodo paterfamilias id suae familiae simplicissime tradere debeat.
+quōmodo paterfamiliās id suae familiae **simplicissimē** **trādere** dēbeat.
 
-### 1\] Primus Articulus.
+### 1\] Prīmus Articulus.
 
-De Creatione.
+Dē Creātiōne.
 
-Credo in Deum Patrem omnipotentem, Creatorem coeli et terrae.
+Crēdō in Deum Patrem omnipotentem, Creātōrem coelī et terrae.
 
-2\] Quae est huius articuli sententia?
+2\] Quae **est** huius articulī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Credo, quod Deus creaverit me, una cum omnibus creaturis, quod corpus et animam, oculos, aures et omnia membra, rationem et omnes sensus mihi dederit et adhuc sustentet; ad haec, quod vestes et calceos, cibum ac potum, domum, uxorem, liberos, agros, iumenta et omnia bona, cum omnibus vitae necessariis, copiose et quotidie largiatur, me contra omnia pericula protegat et ab omnibus malis liberet et custodiat; et haec omnia ex mera sua paterna ac divina bonitate et misericordia, sine ullis meis meritis aut ulla dignitate; pro quibus omnibus illi gratias agere, pleno ore laudem tribuere, inservire, obsequi merito debeo. Hoc certissime verum est.
+Crēdō, quod Deus creāverit mē, **ūna** cum omnibus creātūrīs, quod corpus et animam, oculōs, aurēs et omnia **membra**, ratiōnem et omnēs **sēnsūs** mihi dederit et adhūc sustentet; ad haec, quod vestēs et calceōs, cibum ac pōtum, domum, uxōrem, līberōs, agrōs, iūmenta et omnia **bona**, cum omnibus vītae necessāriīs, **cōpiōsē** et quotīdiē largiātur, mē contrā omnia perīcula prōtegat et ab omnibus **malīs** **līberet** et cūstōdiat; et haec omnia ex **merā** **suā** **paternā** ac **dīvīnā** bonitāte et **misericordiā**, **sine** ūllīs meīs meritīs aut **ūllā** dignitāte; prō quibus omnibus illī grātiās **agere**, plēnō ōre laudem **tribuere**, īnservīre, obsequī meritō dēbeō. **Hoc** **certissimē** vērum **est**.
 
 ### 3\] Secundus Articulus.
 
-De Redemptione.
+Dē Redēmptiōne.
 
-Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus, descendit ad inferna, tertia die resurrexit a mortuis, ascendit in coelos, sedet ad dexteram Dei, Patris omnipotentis, inde venturus est iudicare vivos et mortuos.
+Et in **Iēsum** Chrīstum, Fīlium eius ūnicum, Dominum nostrum, quī **conceptus** **est** dē Spīritū Sānctō, **nātus** ex **Mariā** virgine, **passus** sub Pontiō Pīlātō, crucifīxus, mortuus et sepultus, dēscendit ad **īnfernā**, **tertia** **diē** resurrēxit ā mortuīs, ascendit in coēlōs, **sedet** ad dexteram Deī, Patrīs **omnipotentis**, inde ventūrus **est** iūdicāre vīvōs et mortuōs.
 
-4\] Quae est huius articuli sententia!
+4\] Quae **est** huius articulī **sententia**!
 
-Responsio.
+Respōnsiō.
 
-Credo, quod Iesus Christus, verus Deus, a Patre ante saecula genitus, idemque verus homo, natus ex Maria virgine, sit meus Dominus, qui me perditum et damnatum hominem redemit et ab omnibus peccatis, a morte, a potestate Satanae liberavit, non quidem auro et argento, sed suo sancto ac pretioso sanguine suaque innocente passione ac morte, ut ego essem totus ipsius, et in regno eius sub ipso viverem ac ei servirem in perpetua iustitia, innocentia et beatitudine, perinde ac ipse a morte surrexit, vivit et regnat in aeternum. Hoc certissime verum est.
+Crēdō, quod **Iēsus** Chrīstus, vērus Deus, ā Patre ante saecula **genitus**, **īdem**que vērus homō, **nātus** ex **Mariā** virgine, sit meus Dominus, quī mē perditum et damnātum hominem redēmit et ab omnibus **peccātīs**, ā morte, ā potestāte Satānae līberāvit, nōn quidem aurō et argentō, sed suō sānctō ac pretiōsō sanguine **suā**que innocente passiōne ac morte, ut ego essem **tōtus** ipsīus, et in rēgnō eius sub ipsō vīverem ac **eī** servīrem in **perpetuā** **iūstitiā**, **innocentiā** et beātitūdine, perinde ac ipse ā morte surrēxit, vīvit et rēgnat in aeternum. **Hoc** **certissimē** vērum **est**.
 
 ### 5\] Tertius Articulus.
 
-De Sanctificatione.
+Dē Sānctificātiōne.
 
-Credo in Spiritum Sanctum, sanctam ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem et vitam aeternam. Amen.
+Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum commūniōnem, remissiōnem peccātōrum, **carnis** resurrēctiōnem et vītam aeternam. Āmēn.
 
-6\] Quae est huius articuli sententia?
+6\] Quae **est** huius articulī **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Credo me propriis rationis meae viribus Iesu Christo, Domino meo, fidere, aut ad eum accedere et pervenire nullo modo posse; sed Spiritus Sanctus per evangelium me vocavit, suis donis illuminavit, in recta fide sanctificavit et conservavit; quemadmodum solet totam ecclesiam in terra vocare, congregare, illuminare, sanctificare et in Iesu Christo per veram ac unicam fidem conservare; in qua ecclesia mihi et omnibus Christianis omnia peccata quotidie benigne remittit et nos omnes in extremo die a morte suscitabit ac mihi et omnibus in Christum credentibus vitam aeternam dabit. Hoc certissime verum est.
+Crēdō mē propriīs ratiōnis meae vīribus **Iēsu** Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in **Iēsu** Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum **est**.
 
-## III. ORATIO DOMINICA,
+## IIĪ. ŌRĀTIŌ **DOMINICA**,
 
-quomodo paterfamilias eam suae familiae simplicissime tradere debeat.
+quōmodo paterfamiliās eam suae familiae **simplicissimē** **trādere** dēbeat.
 
-### 1\] Pater noster, qui es in coelis.
+### 1\] Pater noster, quī **es** in coelīs.
 
-2\] Quae est horum verborum sententia?
+2\] Quae **est** hōrum verbōrum **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Deus amanter nos hac praefatiuncula invitat, ut vere credamus eum nostrum verum Patrem nosque eius veros filios esse, ut eum confidentius pleni fiducia invocemus, quemadmodum videmus liberos certa fiducia aliquid a parentibus suis petere.
+Deus amanter nōs hāc **praefātiuncula** invītat, ut **vērē** crēdāmus eum nostrum vērum Patrem nōsque eius vērōs fīliōs **esse**, ut eum cōnfīdentius plēnī **fīdūciā** invocēmus, quemadmodum vidēmus līberōs **certa** **fīdūcia** aliquid ā **parentibus** **suīs** **petere**.
 
-### 3\] I. Petitio.
+### 3\] Ī. Petītiō.
 
-Sanctificetur nomen tuum.
+Sānctificētur **nōmen** tuum.
 
-4\] Quae est huius petitionis sententia?
+4\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Nomen Dei per se quidem sanctum est; verum nos oramus hac petitione, ut apud nos quoque sanctificetur.
+**Nōmen** Deī per sē quidem sānctum **est**; vērum nōs ōrāmus hāc petītiōne, ut apud nōs **quoque** sānctificētur.
 
-5\] Qua ratione fit istud?
+5\] **Quā** ratiōne fit istud?
 
-Responsio.
+Respōnsiō.
 
-Cum Verbum Dei pure ac sincere docetur, et nos secundum illud, ut filios Dei decet, pie vivimus. Quod ut fiat, dona nobis, mi Pater, qui es in coelis! Qui vero aliter docet vel vivit, quam Verbum Dei docet, ille nomen Dei inter nos profanat. Ne autem hoe accidat, tu prohibe, mi Pater coelestis!
+Cum Verbum Deī **pūrē** ac **sincērē** docētur, et nōs secundum illud, ut fīliōs Deī decet, **piē** vīvimus. Quod ut fīat, **dōna** nōbīs, mī Pater, quī **es** in coelīs! Quī vērō aliter docet vel vīvit, quam Verbum Deī docet, ille **nōmen** Deī inter nōs prōfānat. Nē autem hoē **accidat**, tū prohibē, mī Pater **coelestis**!
 
-### 6\] II. Petitio.
+### 6\] IĪ. Petītiō.
 
-Adveniat regnum tuum.
+Adveniat rēgnum tuum.
 
-7\] Quae est huius petitionis sententia?
+7\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Regnum Dei venit etiam per se, sine nostra oratione; sed petimus hac precatione, ut ad nos quoque perveniat.
+Rēgnum Deī **venit** etiam per sē, **sine** **nostrā** ōrātiōne; sed petimus hāc precātiōne, ut ad nōs **quoque** perveniat.
 
-8\] Qua ratione fit istud!
+8\] **Quā** ratiōne fit istud!
 
-Responsio.
+Respōnsiō.
 
-Cum Pater coelestis dat nobis suum Sanctum Spiritum, qui efficit gratia sua, ut sancto eius Verbo credamus ac pie vivamus, cum in hoc tempore, tum postea in aeternum.
+Cum Pater **coelestis** dat nōbīs suum Sānctum Spīritum, quī efficit **grātiā** **suā**, ut sānctō eius Verbō crēdāmus ac **piē** vīvāmus, cum in **hōc** tempore, tum posteā in aeternum.
 
-### 9\] III. Petitio.
+### 9\] IĪĪ. Petītiō.
 
-Fiat voluntas tua, sicut in coelo, sic et in terra.
+Fīat voluntās **tua**, sīcut in coelō, sīc et in **terrā**.
 
-10\] Quae est huius petitionis sententia?
+10\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Bona ac misericors Dei voluntas fit quoque sine nostra oratione; sed rogamus hac petitione, ut etiam apud nos fiat.
+**Bona** ac misericors Deī voluntās fit **quoque** **sine** **nostrā** ōrātiōne; sed rogāmus hāc petītiōne, ut etiam apud nōs fīat.
 
-Qua ratione fit istud?
+**Quā** ratiōne fit istud?
 
-11\] Responsio.
+11\] Respōnsiō.
 
-Cum Deus frangit ac impedit omne malum consilium, voluntatem et conatus, qui obstant, quominus nomen Dei sanctificemus, regnumque eius ad nos pervenire possit, ut est diaboli, mundi et carnis nostrae voluntas; deinde cum confortat et conservat nos firmiter in suo Verbo ac fide usque ad finem vitae nostrae: haec est misericors ac bona ipsius voluntas.
+Cum Deus frangit ac impedit omne **malum** cōnsilium, voluntātem et **cōnātūs**, quī obstant, quōminus **nōmen** Deī sānctificēmus, rēgnumque eius ad nōs pervenīre possit, ut **est** diabolī, mundī et **carnis** nostrae voluntās; deinde cum cōnfortat et cōnservat nōs firmiter in suō Verbō ac **fide** usque ad fīnem vītae nostrae: haec **est** misericors ac **bona** ipsīus voluntās.
 
-### 12\] IV. Petitio.
+### 12\] IV. Petītiō.
 
-Panem nostrum quotidianum da nobis hodie.
+Pānem nostrum quotīdiānum dā nōbīs hodiē.
 
-13\] Quae est huius petitionis sententia?
+13\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Deus dat quidem omnibus panem quotidianum, quamvis non petamus, etiam malis hominibus. At nos precamur hac petitione, ut agnoscamus hoc beneficium, atque ita panem nostrum quotidianum cum gratiarum actione accipiamus.
+Deus dat quidem omnibus pānem quotīdiānum, quamvīs nōn petāmus, etiam **malīs** hominibus. At nōs precāmur hāc petītiōne, ut agnōscāmus **hoc** beneficium, atque **ita** pānem nostrum quotīdiānum cum grātiārum āctiōne accipiāmus.
 
-Quid autem significat panis quotidianus?
+Quid autem significat **pānis** quotīdiānus?
 
-14\] Responsio.
+14\] Respōnsiō.
 
-Significat omne, quod ad vitae nostrae necessitatem ac sustentationem pertinet, videlicet cibum, potum, vestes, calceos, domum, aream, agros, pecudes, pecuniam, divitias, probam coniugem, probos liberos, probos servos, probum ac fidum magistratum, bonum reipublicae statum, salubrem aërem, pacem, sanitatem, modestiam, honorem, bonos amicos, fidos vicinos et id genus alia.
+Significat omne, quod ad vītae nostrae necessitātem ac sustentātiōnem pertinet, vidēlicet cibum, pōtum, vestēs, calceōs, domum, āream, agrōs, pecudēs, pecūniam, dīvitiās, probam coniugem, probōs līberōs, probōs servōs, probum ac fīdum magistrātum, bonum reīpūblicae statum, salūbrem āërem, pācem, sānitātem, modestiam, honōrem, bonōs amīcōs, fīdōs vīcīnōs et id **genus** **alia**.
 
-### 15\] V. Petitio.
+### 15\] V. Petītiō.
 
-Et remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris.
+Et remitte nōbīs **dēbita** **nostra**, sīcut et nōs remittimus dēbitōribus nostrīs.
 
-16\] Quae est huius petitionis sententia?
+16\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Petimus hac precatione, ne Pater coelestis velit respicere et examinare peccata nostra et propter ista nostram Orationem repudiare; quandoquidem nullis rebus, quas petimus, digni sumus, nec quidquam mereri possumus; sed ut velit nobis sua gratia et bonitate donare omnia, quia quotidie multifariam peccamus et nihil nisi poenas meremur. Vicissim autem ex corde condonabimus, quidquid in nos peccaverint alii, et pro maleficio libenter reddemus beneficium.
+Petimus hāc precātiōne, nē Pater **coelestis** velit respicere et exāmināre **peccāta** **nostra** et propter **istā** nostram Ōrātiōnem repudiāre; quandōquidem nūllīs rēbus, quās petimus, dignī sumus, nec quidquam merērī possumus; sed ut velit nōbīs **suā** **grātiā** et bonitāte dōnāre omnia, quia quotīdiē multifāriam peccāmus et nihil **nisi** poenās merēmur. Vicissim autem ex **corde** condōnābimus, quidquid in nōs peccāverint aliī, et prō maleficiō libenter reddēmus beneficium.
 
-### 17\] VI. Petitio.
+### 17\] VĪ. Petītiō.
 
-Et ne nos inducas in tentationem.
+Et nē nōs indūcās in tentātiōnem.
 
-18\] Quae est huius petitionis sententia?
+18\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Deus quidem neminem tentat, sed tamen petimus hac petitione, ut ipse nos custodiat et conserver, ne Satanas, mundus et caro nostra nobis imponant et nos a recta fide seducant et in superstitionem, diffidentiam, desperationem atque alia gravia scelera et flagitia coniiciant, et ut maxime eiusmodi tentationibus sollicitemur, ne succumbamus, sed ut tandem vincamus ac triumphemus.
+Deus quidem nēminem tentat, sed tamen petimus hāc petītiōne, ut ipse nōs cūstōdiat et cōnserver, nē Satanās, mundus et **carō** **nostra** nōbīs impōnant et nōs ā **rēctā** **fide** sēdūcant et in superstitiōnem, diffīdentiam, dēspērātiōnem atque **alia** gravia **scelera** et flāgitia coniiciant, et ut **maximē** eiusmodī tentātiōnibus sollicitēmur, nē succumbāmus, sed ut tandem vincāmus ac triumphēmus.
 
-### 19\] VII. Petitio.
+### 19\] VĪĪ. Petītiō.
 
-Sed libera nos a malo.
+Sed **līberā** nōs ā **mālō**.
 
-20\] Quae est huius petitionis sententia?
+20\] Quae **est** huius petītiōnis **sententia**?
 
-Responsio.
+Respōnsiō.
 
-Oramus hac precatione tamquam in summa, ut Pater noster coelestis liberet nos ab omnibus malis ac periculis corporis et animae, bonorum et honorum, et ut tandem, cum hora mortis venerit, felicem vitae exitum nobis largiatur, nosque pro sua gratuita bonitate ex hac miseriarum valle ad se in coelum recipiat.
+Ōrāmus hāc precātiōne tamquam in **summā**, ut Pater noster **coelestis** **līberet** nōs ab omnibus **malīs** ac perīculīs corporis et animae, bonōrum et honōrum, et ut tandem, cum **hōrā** **mortis** vēnerit, **fēlīcem** vītae exitum nōbīs largiātur, nōsque prō **suā** **grātuīta** bonitāte ex hāc miseriārum **valle** ad sē in coelum recipiat.
 
-### 21\] Amen.
+### 21\] Āmēn.
 
-Quae est huius voculae \[vocabuli\] significatio?
+Quae **est** huius vōculae \[vocābulī\] significātiō?
 
-Amen significat idem quod certe, ut scilicet ego sim certus, eiusmodi petitiones Patri nostro coelesti esse acceptas atque ab eo exauditas, quia ipse nobis mandavit, ut ad hunc modum oraremus \[oremus\], promisitque se nos exauditurum esse. Amen, Amen, id est, vere, certe, haec ita fient.
+Āmēn significat **idem** quod **certē**, ut scīlicet ego sim certus, eiusmodī petītiōnēs Patrī nostrō coelestī **esse** acceptās atque ab eō exaudītās, quia ipse nōbīs mandāvit, ut ad hunc modum ōrārēmus \[ōrēmus\], prōmīsitque sē nōs exaudītūrum **esse**. Āmēn, Āmēn, id **est**, **vērē**, **certē**, haec **ita** fīent.
 
-## IV. SACRAMENTUM BAPTISMI,
+## IV. SACRĀMENTUM BAPTISMĪ,
 
-quomodo de eo paterfamilias suam familiam simplicissime docere debeat.
+quōmodo dē eō paterfamiliās suam familiam **simplicissimē** docēre dēbeat.
 
-Primum.
+Prīmum.
 
-1\] Quid est baptismus?
+1\] Quid **est** baptismus?
 
-2\] Responsio.
+2\] Respōnsiō.
 
-Baptismus non est simpliciter aqua, sed est aqua divino mandato comprehensa et verbo Dei obsignata.
+Baptismus nōn **est** simpliciter **aqua**, sed **est** **aquā** dīvīnō mandātō **comprehēnsa** et verbō Deī **obsignāta**.
 
-3\] Quod est illud verbum Dei?
+3\] Quod **est** illud verbum Deī?
 
-Responsio.
+Respōnsiō.
 
-4\] Ubi Dominus noster Iesus Christus dicit Matthaei ultimo \[28, 19]: Euntes docete omnes gentes, baptizantes eos in nomine Patris et Filii et Spiritus Sancti.
+4\] **Ubi** Dominus noster **Iēsus** Chrīstus dīcit Matthaeī ultimō \[28, 19]: Euntēs docēte omnēs gentēs, baptīzantēs eōs in nōmine Patrīs et Fīliī et **Spīritus** Sānctī.
 
 Secundum.
 
-5\] Quid praestat aut confert baptismus?
+5\] Quid praestat aut cōnfert baptismus?
 
-6] Responsio.
+6] Respōnsiō.
 
-Operatur remissionem peccatorum, liberat a morte et a diabolo et donat aeternam beatitudinem omnibus et singulis, qui credunt hoc, quod verba et promissiones divinae pollicentur.
+Operātur remissiōnem peccātōrum, līberat ā morte et ā diabolō et dōnat aeternam beātitūdinem omnibus et singulīs, quī crēdunt **hoc**, quod verba et prōmissiōnēs dīvīnae pollicentur.
 
-7\] Quae sunt illa verba et promissiones divinae?
+7\] Quae sunt **illa** verba et prōmissiōnēs dīvīnae?
 
-8\] Responsio.
+8\] Respōnsiō.
 
-Ubi Dominus noster Iesus Christus dicit Marci ultimo \[16, 16\]: Qui crediderit et baptizatus fuerit, salvus erit. Qui vero non crediderit, condemnabitur.
+**Ubi** Dominus noster **Iēsus** Chrīstus dīcit **Mārcī** ultimō \[16, 16\]: Quī crēdiderit et baptīzātus fuerit, salvus erit. Quī vērō nōn crēdiderit, condemnābitur.
 
 Tertium.
 
-9\] Qui potest aqua tam magnas res efficere?
+9\] Quī potest **aqua** tam magnās rēs efficere?
 
-10] Responsio.
+10] Respōnsiō.
 
-Aqua certe tantas res non efficit, sed verbum Dei, quod in et eum aqua est, et fides, quae verbo Dei aquae addito credit. Quia aqua sine verbo Dei est simpliciter aqua et non est baptismus, sed addito verbo Dei est baptismus, hoc est, salutaris aqua gratiae et vitae et lavacrum regenerationis in Spiritu Sancto, sicut Paulus ait ad Titum, 3, 5 sqq.: Secundum suam misericordiam nos salvos fecit per lavacrum regenerationis ac renovationis Spiritus Sancti, quin effudit in nos opulenter per Iesum Christum, Salvatorem nostrum, ut iustificati illius gratia heredes efficeremur iuxta spem vitae aeternae. Fidelis hic sermo est.
+**Aqua** **certē** tantās rēs nōn efficit, sed verbum Deī, quod in et eum **aqua** **est**, et **fidēs**, quae verbō Deī aquae additō crēdit. Quia **aqua** **sine** verbō Deī **est** simpliciter **aqua** et nōn **est** baptismus, sed additō verbō Deī **est** baptismus, **hoc** **est**, **salūtāris** **aqua** grātiae et vītae et lavācrum regenerātiōnis in Spīritū Sānctō, sīcut Paulus ait ad Titum, 3, 5 sqq.: Secundum suam misericordiam nōs salvōs fēcit per lavācrum regenerātiōnis ac renovātiōnis **Spīritus** Sānctī, quīn effūdit in nōs opulenter per **Iēsum** Chrīstum, Salvātōrem nostrum, ut **iūstificātī** illīus **grātia** hērēdēs efficerēmur iuxtā spem vītae aeternae. **Fidēlis** **hic** sermō **est**.
 
-11\] Quartum.
+11\] Quārtum.
 
-Quid autem significat ista in aquam immersio?
+Quid autem significat **ista** in aquam immersiō?
 
-12\] Responsio.
+12\] Respōnsiō.
 
-Significat, quod vetus Adam, qui adhuc in nobis est, subinde per quotidianam mortificationem ac poenitentiam in nobis submergi et exstingui debeat una cum omnibus peccatis et malis concupiscentiis, atque rursus quotidie emergere ac resurgere novus homo, qui in iustitia et puritate coram Deo vivat in aeternum.
+Significat, quod vetus Adam, quī adhūc in nōbīs **est**, subinde per quotīdiānam mortificātiōnem ac poenitentiam in nōbīs submergī et exstinguī dēbeat **ūna** cum omnibus **peccātīs** et **malīs** concupiscentiīs, atque rūrsus quotīdiē **ēmergere** ac **resurgere** novus homō, quī in **iūstitiā** et pūritāte **cōram** Deō vīvat in aeternum.
 
-13\] Ubi hoc scriptum est?
+13\] **Ubi** **hoc** scrīptum **est**?
 
-14] Responsio.
+14] Respōnsiō.
 
-Sanctus Paulus ad Romanos, 6, 4, dicit: Sepulti igitur sumus una cum Christo per baptismum in mortem, ut quemadmodum excitatus est Christus ex mortuis per gloriam Patris, ita et nos in novitate vitae ambulemus.
+Sānctus Paulus ad Rōmānōs, 6, 4, dīcit: Sepultī igitur sumus **ūna** cum Chrīstō per baptismum in mortem, ut quemadmodum excitātus **est** Chrīstus ex mortuīs per glōriam Patrīs, **ita** et nōs in novitāte vītae ambulēmus.
 
-## V. DE CONFESSIONE.
+## V. DĒ CŌNFESSIŌNE.
 
-15\] Quomodo simpliciores de ea erudiendi sint.
+15\] Quōmodo simpliciōrēs dē **eā** ērudiendī sint.
 
-16\] Quid est confessio?
+16\] Quid **est** cōnfessiō?
 
-Responsio.
+Respōnsiō.
 
-Confessio duo comprehendit: unum est peccata confiteri, alterum est absolutionem sive remissionem a confessionario sive praecone evangelii accipere, tamquam ab ipso Deo, et non dubitare, sed firmiter credere peccata per illam absolutionem coram Deo in coelo remissa esse.
+Cōnfessiō duo comprehendit: ūnum **est** **peccāta** cōnfitērī, alterum **est** absolūtiōnem sīve remissiōnem ā confessionāriō sīve praecōne ēvangeliī accipere, tamquam ab ipsō Deō, et nōn dubitāre, sed firmiter **crēdere** **peccāta** per illam absolūtiōnem **cōram** Deō in coelō **remissā** **esse**.
 
-17\] Quae peccata sunt confitenda?
+17\] Quae **peccāta** sunt **cōnfitenda**?
 
-18] Responsio.
+18] Respōnsiō.
 
-Coram Deo omnium peccatorum reos nos sistere debemus, etiam eorum, quae nobis sunt abscondita, sicut in Oratione Dominica facimus. Coram ministro autem debemus tantum ea peccata confiteri, quae nobis cognita sunt et quae in corde sentimus.
+**Cōram** Deō omnium peccātōrum reōs nōs **sistere** dēbēmus, etiam eōrum, quae nōbīs sunt **abscondita**, sīcut in Ōrātiōne Dominica facimus. **Cōram** ministrō autem dēbēmus tantum **ea** **peccāta** cōnfitērī, quae nōbīs **cognita** sunt et quae in **corde** sentīmus.
 
-19\] Quaenam sunt ista?
+19\] Quaenam sunt **ista**?
 
-20\] Responsio.
+20\] Respōnsiō.
 
-Hic unusquisque examinet vitae suae statum secundum Decalogum: an pater, mater, filius, filia, dominus, hera, servus sis; an contumax, infidelis, negligens fueris; an aliquem laeseris dictis, factis; an furtum commiseris aut iniuria, ignavia et segnitie damnum alicui intuleris.
+**Hīc** ūnusquisque exāminet vītae suae statum secundum Decalogum: an pater, māter, fīlius, **fīlia**, dominus, **hera**, servus sīs; an contumāx, **īnfidēlis**, negligēns **fuerīs**; an aliquem **laeserīs** dictīs, factīs; an fūrtum **commīserīs** aut **iniūriā**, **ignāviā** et sēgnitiē damnum alicui **intulerīs**.
 
-#### 21\] Brevis Forma Confessionis pro Rudioribus.
+#### 21\] **Brevis** **Fōrma** Cōnfessiōnis prō Rudiōribus.
 
-In hunc modum alloqui debes ministrum Verbi:
+In hunc modum alloquī dēbēs ministrum Verbī:
 
-Reverende et dilecte domine, rogo te, ut confessionem meam audias et mihi propter Deum remissionem annunties.
+Reverende et **dīlēctē** domine, rogō tē, ut cōnfessiōnem meam audiās et mihi propter Deum remissiōnem annūntiēs.
 
-\[Dicas.\]
+\[**Dicās**.\]
 
-22\] Miser ego peccator confiteor coram Deo me omnium peccatorum reum esse; imprimis confiteor coram te, me quidem servum, anciliam etc. esse, sed infideliter servire domino meo; non enim feci, non facio, quae mihi iniungit, irritavi et ad maledicendum commovi dominum vel dominam meam, multa neglexi et damno causam praebui etc., in verbis et factis petulantem me praebui, impatiens fui, obstrepui etc. Ideo doleo, gratiam imploro, emendationem promitto.
+22\] Miser ego peccātor cōnfiteor **cōram** Deō mē omnium peccātōrum reum **esse**; **imprīmīs** cōnfiteor **cōram** tē, mē quidem servum, anciliam etc. **esse**, sed īnfidēliter servīre dominō meō; nōn enim fēcī, nōn faciō, quae mihi iniungit, **irrītāvī** et ad maledīcendum commōvī dominum vel dominam meam, **multa** neglēxī et damnō causam praebuī etc., in verbīs et factīs petulantem mē praebuī, impatiēns fuī, obstrepuī etc. Ideō doleō, grātiam implōrō, ēmendātiōnem prōmittō.
 
-23\] Herus aut hera sic dicant:
+23\] **Hērūs** aut **herā** sīc **dīcant**:
 
-Imprimis confiteor coram te, me non diligentem fuisse in fideli educatione et institutione liberorum et familiae ad gloriam Dei, blasphemavi, nomine Dei abusus sum, malum exemplum prava loquens et faciens praebui, vicinos laesi, multis obtrectavi, pondera et mensuras violavi, decepi proximum vendendo merces etc.
+**Imprīmīs** cōnfiteor **cōram** tē, mē nōn dīligentem fuisse in fidēlī ēducātiōne et īnstitūtiōne līberōrum et familiae ad glōriam Deī, blasphēmāvī, nōmine Deī **abūsūs** sum, **malum** exemplum **prāva** loquēns et faciēns praebuī, vīcīnōs laesī, multīs obtrectāvī, **pondera** et mēnsūrās violāvī, dēcēpī proximum vēndendō mercēs etc.
 
-Et si quid aliud contra praecepta Dei in cuiusque vocatione occurrit etc.
+Et sī quid aliud contrā **praecepta** Deī in cuiusque vocātiōne occurrit etc.
 
-24\] Si vero quis non sentit se onerari talibus aut gravioribus peccatis, is non sit sollicitus, nec quaerat aut fingat peccata, nec ex confessione carnificinam faciat sed unum atque alterum peccatum sibi notum recitet, ut: Imprimis confiteor me abusum esse nomine divino, verbis impudicis usum, hoc vel illud neglexisse etc. Sic sane quiescat animus.
+24\] Sī vērō **quis** nōn sentit sē onerārī tālibus aut graviōribus **peccātīs**, **is** nōn sit sollicitus, nec quaerat aut fingat **peccāta**, nec ex cōnfessiōne carnificīnam faciat sed ūnum atque alterum peccātum sibi nōtum recitet, ut: **Imprīmīs** cōnfiteor mē abūsum **esse** nōmine dīvīnō, verbīs impudīcīs ūsum, **hoc** vel illud neglēxisse etc. Sīc **sānē** quiēscat animus.
 
-25\] Si vero plane nullius tibi conscius es (quod propemodum impossibile est), nullum etiam in specie recites, sed accipias remissionem, facta generali confessione, quam coram Deo ad ministrum pronuntias.
+25\] Sī vērō **plānē** **nūllīus** tibi cōnscius **es** (quod propemodum impossibile **est**), nūllum etiam in speciē recitēs, sed accipiās remissiōnem, **facta** generālī cōnfessiōne, quam **cōram** Deō ad ministrum prōnūntiās.
 
 26\] Respondeat autem minister:
 
-Deus tibi sit propitius et confirmet fidem tuam. Amen.
+Deus tibi sit propitius et cōnfirmet fidem tuam. Āmēn.
 
-27\] Interroget etiam confitentem:
+27\] Interroget etiam cōnfitentem:
 
-Num meam remissionem credis esse Dei remissionem:
+Num meam remissiōnem crēdis **esse** Deī remissiōnem:
 
-\[Responsio.
+\[Respōnsiō.
 
-Ita, dilecte domine.\]
+**Ita**, **dīlēcte** domine.\]
 
-Affirmanti et credenti porro dicat:
+Affirmantī et crēdentī porrō **dīcat**:
 
-28\] Fiat tibi, sicut credis. Et ego ex mandato Domini nostri Iesu Christi remitto tibi tua peccata in nomine
+28\] Fīat tibi, sīcut crēdis. Et ego ex mandātō Dominī nostrī **Iēsu** Chrīstī remittō tibi **tua** **peccāta** in nōmine
 
-Patris, Filii et Spiritus Sancti. Amen. Vade in pace!
+Patrīs, Fīliī et **Spīritus** Sānctī. Āmēn. **Vāde** in pāce!
 
-29\] Qui vero conscientias habent afflictas, tentatas, moestas, eos minister pluribus sententiis Scripturae facientibus ad fidei incrementum consolabitur. Haec, quam commemoravimus, tantum est puerilis et communis forma confessionis pro simplicioribus et rudioribus.
+29\] Quī vērō cōnscientiās habent afflīctās, tentātās, moestās, eōs minister plūribus sententiīs Scrīptūrae facientibus ad fideī incrēmentum cōnsōlābitur. Haec, quam commemorāvimus, tantum **est** **puerīlis** et **commūnis** **fōrma** cōnfessiōnis prō simpliciōribus et rudiōribus.
 
-## VI. SACRAMENTUM ALTARIS,
+## VĪ. SACRĀMENTUM **ALTĀRIS**,
 
-quomodo paterfamilias simplicissime suam familiam de eo docere debeat.
+quōmodo paterfamiliās **simplicissimē** suam familiam dē eō docēre dēbeat.
 
-1\] Quid est sacramentum altaris?
+1\] Quid **est** sacrāmentum **altāris**?
 
-2\] Responsio.
+2\] Respōnsiō.
 
-Sacramentum altaris est verum corpus et verus sanguis Domini nostri Iesu Christi, sub pane et vino nobis Christianis ad manducandum ac bibendum ab ipso Christo institutum.
+Sacrāmentum **altāris** **est** vērum corpus et vērus sanguis Dominī nostrī **Iēsu** Chrīstī, sub pāne et vīnō nōbīs Chrīstiānīs ad mandūcandum ac bibendum ab ipsō Chrīstō īnstitūtum.
 
-Ubi hoc scriptum est?
+**Ubi** **hoc** scrīptum **est**?
 
-3\] Responsio.
+3\] Respōnsiō.
 
-4\] Sic scribunt sancti Evangelistae, Matthaeus 26, 26, Marcus 14, 22, Lucas 22, 19, et Sanctus Paulus \[1 Cor. 11, 23\]:
+4\] Sīc scrībunt sānctī Ēvangelistae, Matthaeus 26, 26, Mārcus 14, 22, Lūcās 22, 19, et Sānctus Paulus \[1 Cor. 11, 23\]:
 
-Dominus noster Iesus Christus in ea nocte, qua traditus est, accepit panem et, postquam gratias egisset, fregit et dedit discipulis suis, dicens: Accipite, comedite. Hoc est corpus meum, quod pro vobis datur. Hoc facite in mei commemorationem.
+Dominus noster **Iēsus** Chrīstus in **eā** nocte, **quā** **trāditus** **est**, accēpit pānem et, postquam grātiās ēgisset, frēgit et **dedit** discipulīs **suīs**, dīcēns: Accipite, comedite. **Hoc** **est** corpus meum, quod prō vōbīs datur. **Hoc** facite in meī commemorātiōnem.
 
-Similiter et postquam coenavit, accepit calicem et, quum gratias egisset, dedit illis, dicens: Bibite ex hoc omnes. Hic calix novum testamentum est in meo sanguine, qui pro vobis effunditur in remissionem peccatorum. Hoc facite, quotiescunque biberitis, in mei commemorationem.
+Similiter et postquam coēnāvit, accēpit calicem et, quum grātiās ēgisset, **dedit** illīs, dīcēns: **Bibitē** ex **hōc** omnēs. **Hic** calix novum testāmentum **est** in meō sanguine, quī prō vōbīs effunditur in remissiōnem peccātōrum. **Hoc** facite, quotiēscunque **biberitis**, in meī commemorātiōnem.
 
-5\] Quid vero prodest sic comedisse et bibisse?
+5\] Quid vērō prōdest sīc comēdisse et bibisse?
 
-6] Responsio.
+6] Respōnsiō.
 
-Id indicant nobis haec verba: Pro vobis datur et effunditur in remissionem peccatorum, nempe quod nobis per verba illa in sacramento remissio peccatorum, vita, iustitia et salus donentur. Ubi enim remissio peccatorum est, ibi est et vita et salus.
+Id **indicant** nōbīs haec verba: Prō vōbīs datur et effunditur in remissiōnem peccātōrum, nempe quod nōbīs per verba **illa** in sacrāmentō remissiō peccātōrum, **vīta**, **iūstitia** et salūs dōnentur. **Ubi** enim remissiō peccātōrum **est**, ibi **est** et **vīta** et salūs.
 
-7\] Qui potest corporalis illa manducatio tantas res efficere?
+7\] Quī potest **corporālis** **illa** mandūcātiō tantās rēs efficere?
 
-8] Responsio.
+8] Respōnsiō.
 
-Manducare et bibere ista certe non efficiunt, sed illa verba, quae hic ponuntur: Pro vobis datur et effunditur in remissionem peccatorum. Quae verba sunt una cum corporali manducatione caput et summa huius sacramenti. Et qui credit his verbis, ille habet, quod dicunt et sicut sonant, nempe remissionem peccatorum.
+Mandūcāre et **bibere** **ista** **certē** nōn efficiunt, sed **illa** verba, quae **hīc** pōnuntur: Prō vōbīs datur et effunditur in remissiōnem peccātōrum. Quae verba sunt **ūna** cum corporālī mandūcātiōne caput et **summa** huius sacrāmentī. Et quī crēdit hīs verbīs, ille habet, quod dīcunt et sīcut sonant, nempe remissiōnem peccātōrum.
 
-9\] Quis utitur hoc sacramento digne?
+9\] **Quis** ūtitur **hōc** sacrāmentō **dignē**?
 
-10\] Responsio.
+10\] Respōnsiō.
 
-Ieiunare et corpus suum praeparare est quidem bona et externa disciplina. At ille est vere dignus ac probe paratus, qui habet fidem in haec verba: Pro vobis datur et effunditur in remissionem peccatorum.
+Ieiūnāre et corpus suum praeparāre **est** quidem **bona** et **externa** **disciplīna**. At ille **est** **vērē** dignus ac **probē** **parātus**, quī habet fidem in haec verba: Prō vōbīs datur et effunditur in remissiōnem peccātōrum.
 
-Qui vero his verbis non credit aut de illis dubitat, ille est indignus ac imparatus, quia hoc verbum, "Pro vobis", postulat omnino cor, quod Deo credat.
+Quī vērō hīs verbīs nōn crēdit aut dē illīs dubitat, ille **est** indignus ac imparātus, quia **hoc** verbum, "Prō vōbīs", postulat omnīnō cor, quod Deō crēdat.
 
-## Appendix I.
+## Appendix Ī.
 
-QUO PACTO PATRESFAMILIAS
+QUŌ **PACTŌ** PATRĒSFAMILIĀS
 
-suam familiam formas benedictionis, unam mane, alteram vesperi dicendam, simplicissime docere debeant.
+suam familiam fōrmās benedictiōnis, ūnam **manē**, alteram vesperī dīcendam, **simplicissimē** docēre dēbeant.
 
-### Benedictio Mane Dicenda.
+### Benedictiō **Māne** **Dīcenda**.
 
-1\] Mane cum surgis e lecto, signabis te signo sanctae crucis, dicens:
+1\] **Māne** cum surgis ē **lectō**, signābis tē signō sānctae **crucis**, dīcēns:
 
-In nomine Patris et Filii et Spiritus Sancti. Amen.
+In nōmine Patrīs et Fīliī et **Spīritus** Sānctī. Āmēn.
 
-2\] Deinde innitens genibus vel stans dicas Symbolum et Orationem Dominicam. His potes et hanc precatiunculam addere:
+2\] Deinde innītēns genibus vel stāns **dicās** Symbolum et Ōrātiōnem Dominicam. Hīs **potes** et hanc precātiunculam **addere**:
 
-Gratias ago tibi, mi Pater coelestis, per Iesum Christum, Filium tuum dilectum, quod me hac nocte ab omnibus incommodis ac periculis conservatum custodieris. Et oro te, ut me hac die quoque conservare et a peccato et omnibus malis custodire velis, ut tibi omnia mea facta atque adeo tota vita bene placeant. Quia ego me meumque corpus et animam ac omnia in manus tuas commendo. Tuus sanctus angelus sit mecum, ne diabolus quidquam in me possit. Amen.
+**Grātiās** agō tibi, mī Pater **coelestis**, per **Iēsum** Chrīstum, Fīlium tuum dīlēctum, quod mē hāc nocte ab omnibus incommodīs ac perīculīs cōnservātum **cūstōdierīs**. Et ōrō tē, ut mē hāc **diē** **quoque** cōnservāre et ā peccātō et omnibus **malīs** cūstōdīre **velīs**, ut tibi omnia **mea** **facta** atque adeō **tōtā** **vītā** **bene** placeant. Quia ego mē meumque corpus et animam ac omnia in **manūs** tuās commendō. Tuus sānctus angelus sit mēcum, nē diabolus quidquam in mē possit. Āmēn.
 
-3\] Postea alacriter ad vocationis tuae operas accedendum est, cantato psalmo, Decalogo vel alio carmine, quo excitetur cor tuum.
+3\] Posteā alacriter ad vocātiōnis tuae operās accēdendum **est**, cantātō psalmō, Decalogō vel aliō carmine, quō excitētur cor tuum.
 
-### Benedictio Vesperi Dicenda.
+### Benedictiō Vesperī **Dīcenda**.
 
-4\] Similiter vesperi, quum confers te cubitum, signabis te signo sanctae crucis, dicens:
+4\] Similiter vesperī, quum cōnfers tē cubitum, signābis tē signō sānctae **crucis**, dīcēns:
 
-In nomine Patris et Filii et Spiritus Sancti. Amen.
+In nōmine Patrīs et Fīliī et **Spīritus** Sānctī. Āmēn.
 
-5\] Deinde flexis genibus vel stans dicas Symbolum et Orationem Dominicum. His potes et hanc precatiunculam addere:
+5\] Deinde flexīs genibus vel stāns **dicās** Symbolum et Ōrātiōnem Dominicum. Hīs **potes** et hanc precātiunculam **addere**:
 
-Gratias ago tibi, mi Pater coelestis, per Iesum Christum, Filium tuum dilectum, quod me hac die gratuita misericordia et bonitate tua custodieris. Et oro te, ut mihi omnia peccata mea, quae perpetravi et quibus offendi te, remittere et me hac nocte tua gratia benigne conservare velis. Quia ego me meumque corpus et animam ac omnia in manus tuus commendo. Tuus sanctus angelus sit mecum, ne diabolus quidquam in me possit. Amen.
+**Grātiās** agō tibi, mī Pater **coelestis**, per **Iēsum** Chrīstum, Fīlium tuum dīlēctum, quod mē hāc **diē** **grātuītā** **misericordiā** et bonitāte **tuā** **cūstōdierīs**. Et ōrō tē, ut mihi omnia **peccāta** **mea**, quae perpetrāvī et quibus offendī tē, **remittere** et mē hāc nocte **tua** **grātia** **benignē** cōnservāre **velīs**. Quia ego mē meumque corpus et animam ac omnia in **manūs** tuus commendō. Tuus sānctus angelus sit mēcum, nē diabolus quidquam in mē possit. Āmēn.
 
-Atque ita tandem placide et tranquille dormiendum est.
+Atque **ita** tandem **placidē** et **tranquillē** dormiendum **est**.
 
 ---
 
-6\] QUO PACTO PATRESFAMILIAS
+6\] QUŌ **PACTŌ** PATRĒSFAMILIĀS
 
-suam familiam benedictionem mensae et gratiarum actionem simplicissime docere debeant.
+suam familiam benedictiōnem mēnsae et grātiārum āctiōnem **simplicissimē** docēre dēbeant.
 
-### 7\] Benedictio Mensae.
+### 7\] Benedictiō Mēnsae.
 
-Pueri una cum familia debent complicatis manibus, modestiam prae se ferentes, ad mensam accedere et sic orare:
+Puerī **ūna** cum **familiā** dēbent **complicātīs** manibus, modestiam prae sē ferentēs, ad mēnsam **accēdere** et sīc **ōrāre**:
 
-Oculi omnium in te sperant, Domine, et tu das escam illorum in tempore opportuno. Aperis tu manum tuam et imples omne animal benedictione.
+Oculī omnium in tē spērant, Domine, et tū dās ēscam illōrum in tempore opportūnō. **Aperīs** tū **manum** tuam et implēs omne animal benedictiōne.
 
-8\] (Scholion. Benedictio hic significat largam distributionem Dei, qui omnibus animantibus tantum cibi suppeditat, ut inde hilariter et iucunde vivere possint. Hanc benedictionem et laetitiam ac acquiescentiam impediunt sollicitudo prohibita, cura, avaritia, tenacitas.)
+8\] (Scholīōn. Benedictiō **hic** significat largam distribūtiōnem Deī, quī omnibus animantibus tantum cibī suppeditat, ut inde hilariter et **iūcundē** **vīvere** possint. Hanc benedictiōnem et laetitiam ac acquiēscentiam impediunt sollicitūdō **prohibita**, **cūra**, **avāritia**, tenācitās.)
 
-9\] Deinde addant Orationem Dominicum cum oratione sequenti:
+9\] Deinde addant Ōrātiōnem Dominicum cum ōrātiōne sequentī:
 
-Domine Deus, Pater coelestis, benedic nobis et his donis tuis, quae de tua largitate sumimus, per Iesum Christum, Dominum nostrum. Amen.
+Domine Deus, Pater **coelestis**, benedic nōbīs et hīs dōnīs tuīs, quae dē **tuā** largitāte sūmimus, per **Iēsum** Chrīstum, Dominum nostrum. Āmēn.
 
-### 10\] Gratiarum Actio.
+### 10\] **Grātiārum** Actiō.
 
-Sic quoque post cibum sumptum ad eundem modum modeste complicatis manibus ad mensam assistant et dicant:
+Sīc **quoque** post cibum sūmptum ad eundem modum **modestē** **complicātīs** manibus ad mēnsam assistant et **dīcant**:
 
-Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia eius, qui dat escam omni carni, qui dat iumentis escam ipsorum et pullis corvotum invocantibus eum. Non in fortitudine equi voluntatem habebit, neque in tibiis viri beneplacitum erit ei. Beneplacitum est Domino super timentes eum et in eis, qui sperant super misericordia eius.
+Cōnfitēminī Dominō, quoniam bonus, quoniam in aeternum **misericordiā** eius, quī dat ēscam omnī carnī, quī dat iūmentīs ēscam ipsōrum et pullīs corvotum invocantibus eum. Nōn in fortitūdine equī voluntātem habēbit, neque in tībiīs **virī** benēplacitum erit **eī**. Benēplacitum **est** Dominō super timentēs eum et in eīs, quī spērant super **misericordiā** eius.
 
-11\] Deinde addant Orationem Dominicam cum oratione sequenti:
+11\] Deinde addant Ōrātiōnem Dominicam cum ōrātiōne sequentī:
 
-Gratias agimus tibi, Domine Deus Pater, per Iesum Christum, Dominum nostrum, pro universis beneficiis tuis, qui vivis et regnas in saecula saeculorum. Amen.
+**Grātiās** agimus tibi, Domine Deus Pater, per **Iēsum** Chrīstum, Dominum nostrum, prō ūniversīs beneficiīs tuīs, quī **vīvis** et rēgnās in saecula saeculōrum. Āmēn.
 
-## Appendix II.
+## Appendix IĪ.
 
-### 1\] TABULA OECONOMICA,
+### 1\] **TABULĀ** **OECONOMICĀ**,
 
-in qua proponuntur elegantes quaedam ex Sacra Scriptura sententiae, pro omnibus sanctis ordinibus ac statibus, per quas illi, tamquam propria quadam lectione, sui officii et muneris admonentur.
+in **quā** prōpōnuntur **ēlegantēs** quaedam ex **Sacra** **Scrīptūra** sententiae, prō omnibus sānctīs ōrdinibus ac statibus, per quās illī, tamquam **propriā** quādam lēctiōne, **suī** officiī et mūneris admonentur.
 
-#### Episcopis, Parochis et Concionatoribus.
+#### Epīscopīs, Parochīs et Concionātōribus.
 
-2\] Oportet episcopum irreprehensibilem esse, unius uxoris maritum, vigilantem, sobrium, modestum, hospitalem, aptum ad docendum, non vinolentum, non percussorem, non turpis lucri cupidum, sed aequum, alienum a pugnis, alienum ab avaritia, qui suae domui bene praesit, qui liberos habeat in subiectione cum omni reverentia, non novitium, tenacem fidelis sermonis, qui secundum doctrinam est, ut potens sit exhortari doctrina sana, et eos, qui contradicunt, arguere etc. 1. ad Tim. 3, 2 sqq. et ad Titum 1, 6 sqq.
+2\] Oportet epīscopum irreprehēnsibilem **esse**, ūnīus uxōris marītum, vigilantem, sōbrium, modestum, hospitālem, aptum ad docendum, nōn vīnolentum, nōn percussōrem, nōn **turpis** lucrī cupidum, sed aequum, aliēnum ā pugnīs, aliēnum ab **avāritiā**, quī suae domuī **bene** praesit, quī līberōs habeat in subiectiōne cum omnī **reverentiā**, nōn novitium, tenācem **fidēlis** sermōnis, quī secundum doctrīnam **est**, ut potēns sit exhortārī **doctrīna** **sāna**, et eōs, quī contrādīcunt, **arguere** etc. 1. ad Tim. 3, 2 sqq. et ad Titum 1, 6 sqq.
 
-#### Quid Debeant Auditores Episcopis Suis.
+#### Quid Dēbeant Audītōrēs Epīscopīs Suīs.
 
-3\] Dominus ordinavit his, qui evangelium annuntiant, de evangelio vivere, 1 Cor. 9, 14. Communicet doctori in omnibus bonis is, qui docetur Verbo, Gal. 6, 6. Qui bene praesunt presbyteri, duplici honore digni habeantur, maxime qui laborant in Verbo et doctrina. Dicit enim Scriptura: Non obligabis os bovi trituranti. Et: Dignus est operarius mercede sua \[1 Tim. 5, 17.18\] Obedite praepositis vestris et cedite eis. Ipsi enim vigilant, quasi rationem pro animabus vestris reddituri, ut cum gaudio hoc faciant, et non gementes; hoc enim non expedit vobis \[Ebr. 13, 17].
+3\] Dominus ōrdināvit hīs, quī ēvangelium annūntiant, dē ēvangeliō **vīvere**, 1 Cor. 9, 14. Commūnicet doctōrī in omnibus bonīs **is**, quī docētur Verbō, Gal. 6, 6. Quī **bene** praesunt presbyterī, duplicī **honōre** dignī habeantur, **maximē** quī labōrant in Verbō et **doctrīnā**. Dīcit enim **Scrīptūra**: Nōn obligābis **os** bovī trītūrantī. Et: Dignus **est** operārius mercēde **suā** \[1 Tim. 5, 17.18\] **Obēdīte** praepositīs vestrīs et cēdite eīs. Ipsī enim vigilant, quasi ratiōnem prō animābus vestrīs redditūrī, ut cum gaudiō **hoc** faciant, et nōn gementēs; **hoc** enim nōn expedit vōbīs \[Ebr. 13, 17].
 
-#### De Magistratibus.
+#### Dē Magistrātibus.
 
-4\] Omnis anima potestatibus supereminentibus subdita sit. Non enim est potestas nisi a Deo. Quae vero sunt potestates, a Deo ordinatae sunt. Itaque quisquis resistit potestati, Dei ordinationi resistit. Qui autem restiterint, sibi ipsis iudicium accipient. Non enim frustra gladium gestat, nam Dei minister est, ultor ad iram ei, qui, quod malum est, fecerit. Rom. 13, 1 sqq.
+4\] **Omnis** **anima** potestātibus superēminentibus **subdita** sit. Nōn enim **est** potestās **nisi** ā Deō. Quae vērō sunt potestātēs, ā Deō ōrdinātae sunt. Itaque quisquis resistit potestātī, Deī ōrdinātiōnī resistit. Quī autem restiterint, sibi ipsīs iūdicium accipient. Nōn enim frūstrā gladium gestat, nam Deī minister **est**, ultor ad īram **eī**, quī, quod **malum** **est**, fēcerit. Rom. 13, 1 sqq.
 
-#### Quid Subditi Magistratibus Debeant.
+#### Quid Subditī Magistrātibus Dēbeant.
 
-5\] Reddite, quae sunt Caesaris, Caesari, Matth. 22, 21. Omnis anima potestatibus sublimioribus subdita sit etc. Ideoque necessitate subditi estote, non solum propter iram, sed etiam propter conscientiam. Ideo enim et tributa praestatis. Ministri enim Dei sunt, in hoc ipsum servientes. Reddite ergo omnibus debita: cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem, Rom. 13, 1. 5 sqq. Adhortor primum omnium fieri obsecrationes, orationes, interpellationes, gratiarum actiones pro omnibus hominibus, pro regibus et omnibus, qui in sublimitate constituti sunt, ut quietam et tranquillam vitam agamus cum omni pietate et gravitate, 1 Tim. 2, 1 sqq. Admone illos principibus et potestatibus subditos esse etc., Tit. 3, 1. Subditi estote omni humanae creaturae propter Dominum, sive regi tamquam praecellenti, sive ducibus tamquam ab eo missis etc., 1 Petr. 2, 13 sq.
+5\] **Reddite**, quae sunt Caesaris, Caesarī, Matth. 22, 21. **Omnis** **anima** potestātibus sublīmiōribus **subdita** sit etc. Ideōque necessitāte subditī **ēstote**, nōn **sōlum** propter īram, sed etiam propter cōnscientiam. Ideō enim et **tribūta** praestātis. Ministrī enim Deī sunt, in **hōc** ipsum servientēs. **Reddite** ergō omnibus **dēbita**: cui tribūtum, tribūtum; cui vectīgal, vectīgal; cui timōrem, timōrem; cui honōrem, honōrem, Rom. 13, 1. 5 sqq. Adhortor prīmum omnium fierī obsecrātiōnēs, ōrātiōnēs, interpellātiōnēs, grātiārum āctiōnēs prō omnibus hominibus, prō rēgibus et omnibus, quī in sublīmitāte cōnstitūtī sunt, ut quiētam et tranquillam vītam **agamus** cum omnī pietāte et gravitāte, 1 Tim. 2, 1 sqq. Admonē illōs prīncipibus et potestātibus subditōs **esse** etc., Tit. 3, 1. Subditī **ēstote** omnī hūmānae creātūrae propter Dominum, sīve **rēgī** tamquam praecellentī, sīve ducibus tamquam ab eō missīs etc., 1 Petr. 2, 13 sq.
 
-#### Maritis.
+#### Marītīs.
 
-6\] Viri cohabitent cum uxoribus secundum scientiam, veluti infirmiori vasi muliebri impertientes honorem, tamquam etiam coheredibus gratiae vitae, ne interrumpantur preces vestrae. 1 Petr. 3, 7. Viri, diligite uxores et ne sitis amarulenti adversus illas. Col. 3, 19.
+6\] **Virī** cohabitent cum uxōribus secundum scientiam, velutī īnfirmiōrī vāsī muliebrī impertientēs honōrem, tamquam etiam cohērēdibus grātiae vītae, nē interrumpantur precēs vestrae. 1 Petr. 3, 7. **Virī**, dīligite uxōrēs et nē **sītis** amārulentī adversus illās. Col. 3, 19.
 
-#### Uxoribus.
+#### Uxōribus.
 
-7\] Similiter, uxores, subditae sitis vestris viris tamquam Domino, quemadmodum Sara obedivit Abrahae, dominum illum appellans, cuius factae estis filiae, dum benefacitis, et non terremini ullo pavore. 1 Petr. 3, 6. Eph. 5, 22.
+7\] Similiter, uxōrēs, subditae **sītis** vestrīs **virīs** tamquam Dominō, quemadmodum **Sarā** obēdīvit Abrahae, dominum illum appellāns, cuius factae **estis** fīliae, dum benefacitis, et nōn terrēminī ūllō pavōre. 1 Petr. 3, 6. Eph. 5, 22.
 
-#### Parentibus.
+#### **Parentibus**.
 
-8\] Parentes, ne provocetis ad iram liberos vestros, sed educetis eos per eruditionem et correptionem Domini. Eph. 6, 4.
+8\] **Parentēs**, nē prōvocētis ad īram līberōs vestrōs, sed **ēdūcētis** eōs per ērudītiōnem et correptiōnem Dominī. Eph. 6, 4.
 
-#### Liberis.
+#### **Līberīs**.
 
-9\] Filii, obedite parentibus vestris in Domino, nam id est iustum. Honora patrem tuum et matrem tuam,
+9\] Fīliī, **obēdītē** **parentibus** vestrīs in Dominō, nam id **est** iūstum. **Honōra** patrem tuum et mātrem tuam,
 
-quod est praeceptum primum in promissione, ut bene tibi sit, et sis longaevus in terra. Eph. 6, 1 sq.
+quod **est** praeceptum prīmum in prōmissiōne, ut **bene** tibi sit, et sīs longaevus in **terrā**. Eph. 6, 1 sq.
 
-#### Servis, Ancillis, Mercenariis et Ceteris ad Laborem Conductis.
+#### Servīs, Ancillīs, Mercēnāriīs et Cēterīs ad Labōrem Conductīs.
 
-10\] Servi, obedite iis, qui domini sunt secundum carnem, cum timore ac tremore, cum simplicitate cordis
+10\] Servī, **obēdītē** iīs, quī dominī sunt secundum carnem, cum timōre ac tremōre, cum simplicitāte **cordis**
 
-vestri, tamquam Christo, non ad oculum servientes, veluti hominibus placere studentes, sed tamquam servi Christi, facientes, quae vult Deus, ex animo cum benevolentia, servientes Domino et non hominibus, illud scientes, quod unusquisque, quod fecerit bonum, hoc reportaturus sit a Deo, sive servus fuerit sive liber. Eph. 6, 5 sqq. Col. 3, 22.
+vestrī, tamquam Chrīstō, nōn ad oculum servientēs, velutī hominibus **placēre** studentēs, sed tamquam servī Chrīstī, facientēs, quae vult Deus, ex animō cum **benevolentiā**, servientēs Dominō et nōn hominibus, illud scientēs, quod ūnusquisque, quod fēcerit bonum, **hoc** reportātūrus sit ā Deō, sīve servus fuerit sīve **liber**. Eph. 6, 5 sqq. Col. 3, 22.
 
-#### Patribusfamilias et Matribusfamilias.
+#### Patribusfamiliās et Mātribusfamiliās.
 
-11\] Et vos, domini, eadem facite erga illos, remittentes minas, scientes, quod et vester ipsorum Dominus sit in coelis, nec personae respectus sit apud illum. Eph. 6, 9. Col. 4, 1.
+11\] Et vōs, dominī, **eadem** facite ergā illōs, remittentēs minās, scientēs, quod et vester ipsōrum Dominus sit in coelīs, nec **persōnae** **respectus** sit apud illum. Eph. 6, 9. Col. 4, 1.
 
-#### Communi Iuventuti.
+#### Commūnī Iuventūtī.
 
-12\] Similiter, iuniores, subditi estote senioribus, sic, ut omnes alius alii vicissim subiiciamini. Humilitatem animi vobis infixam habete, propterea quia Deus superbis resistit, humilibus autem dat gratiam. Humiliamini igitur sub potenti manu Dei, ut vos exaltet tempore opportuno. 1 Petr. 5, 5 sqq.
+12\] Similiter, iūniōrēs, subditī **ēstote** seniōribus, sīc, ut omnēs **alius** aliī vicissim subiiciāminī. Humilitātem animī vōbīs īnfīxam habēte, proptereā quia Deus superbīs resistit, humilibus autem dat grātiam. Humiliāminī igitur sub potentī manū Deī, ut vōs exaltet tempore opportūnō. 1 Petr. 5, 5 sqq.
 
-#### Viduis.
+#### Viduīs.
 
-13\] Quae vere vidua est ac desolata, speret in Deo et perseveret in obsecrationibus ac precationibus noctu dieque. Quae vero in deliciis vivit, ea vivens mortua est. 1 Tim. 5, 5.
+13\] Quae **vērē** **vidua** **est** ac **dēsōlāta**, spēret in Deō et persevēret in obsecrātiōnibus ac precātiōnibus noctū **diē**que. Quae vērō in dēliciīs vīvit, **ea** vīvēns **mortua** **est**. 1 Tim. 5, 5.
 
-#### Omnibus in Commune.
+#### Omnibus in Commūne.
 
-14\] Dilige proximum tuum sicut te ipsum. In hoc sermone omnia praecepta summatim comprehenduntur. Rom. 13, 8 sqq. Et ante omnia fiant deprecationes, obsecrationes, interpellationes, gratiarum actiones pro omnibus hominibus etc. 1 Tim. 2, 1 sq.
+14\] Dīlige proximum tuum sīcut tē ipsum. In **hōc** sermōne omnia **praecepta** summātim comprehenduntur. Rom. 13, 8 sqq. Et ante omnia fīant dēprecātiōnēs, obsecrātiōnēs, interpellātiōnēs, grātiārum āctiōnēs prō omnibus hominibus etc. 1 Tim. 2, 1 sq.
 
 ---
 
-16\] Cuique sit imprimis magnae sua lectio curae,
+16\] Cuique sit **imprīmīs** magnae **sua** lēctiō cūrae,
 
-Ut domus officiis stet decorata suis.
+Ut **domus** officiīs stet **decorāta** **suīs**.
