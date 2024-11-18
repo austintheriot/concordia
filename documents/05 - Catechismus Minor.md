@@ -38,7 +38,7 @@ prō Parochīs et Concionātōribus
 
 24\] Nōn igitur **hīc** lēgibus agendum eat, id quod **pāpa** fēcit. **Hoc** fac, ut ōrātiōne, quantum **potes**, huius sacrāmentī **commoda** et **incommoda**, perīcula et **bona**, item necessitātem cum **summā** ūtilitāte coniūnctam exaggerēs: tum fīet, ut ultrō accurrant et ipsī sē cōgant. Quodsī hīs nihil moveantur aliquī, **sine** eōs suō **vīvere** **mōre**, **hoc** tantum eīs **dīcēs**, quod in Satānae sint rēgnō, quī nihil neque **suā** necessitāte neque Deī benignitāte et **grātiā**, quam eīs in sacrāmentō exhibet, moveantur. 25] Quī vērō **hoc** **modo** suōs audītōrēs nōn urgent et lēgibus eōs potius volunt **cōgere**, illī occāsiōnem contemnendī sacrāmentī illīs praebent. Cum enim ministrī Verbī adeō sint ōscitantēs, nōn est mīrum, sī audītōrēs **quoque** sint negligentiōrēs. 26] **Hoc** igitur **probē** cōnsīderent parochī et ministrī Verbī, **longē** iam aliud suum **esse** officium, quam ōlim in papātū fuerit. Iam enim est ministerium **salūtis** et grātiae, fit igitur quō que difficilius et labōriōsius. Et cum **gravissima** perīcula et tentātiōnēs in ministeriō sint perferendae, tamen neque labōrum praemium neque grātiās in mundō merētur. 27] Vērum nihil nōs **illa** mundī ingrātitūdō cum **summā** impietātī **coniūncta** moveat. Chrīstus ipse nōbīs **satis** **ampla** praemia prōposuit, sī **modo** fidēliter in eius **vīneā** **labōrāverīmus**. Id autem ut commodius possīmus, faxit Pater **omnis** grātiae, cui sit laus et **glōria** in saecula per Chrīstum **Iēsum**, Dominum nostrum! Āmēn.
 
-## I. DECEM **PRAECEPTA**.
+## I. DECEM PRAECEPTA.
 
 quōmodo paterfamiliās **eā** suae familiae **simplicissimē** **trādere** dēbeat.
 
@@ -146,13 +146,13 @@ Dēbēmus Deum timēre et **dīligere**, nē \[ā\] proximō uxōrem, servōs, a
 
 Respōnsiō.
 
-Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum **fortis** zēlōtēs, vīsitāns inīquitātem patrum in fīliōs in tertiam et quārtam generātiōnem eōrum, quī ōdērunt mē; et faciēns misericordiam in mīllia hīs, quī dīligunt mē et cūstōdiunt **praecepta** **mea**.
+Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum **fortis** zēlōtēs, vīsitāns inīquitātem patrum in fīliōs in tertiam et quārtam generātiōnem eōrum, quī ōdērunt mē; et faciēns misericordiam in mīllia hīs, quī dīligunt mē et cūstōdiunt praecepta mea.
 
 22\] Quae est hōrum verbōrum **sententia**?
 
 Respōnsiō.
 
-Deus minātur poenam omnibus, quī **ista** **praecepta** trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī **praecepta** facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum **dīligere** et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
+Deus minātur poenam omnibus, quī ista praecepta trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī praecepta facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum **dīligere** et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
 
 ## II. SYMBOLUM APOSTOLICUM,
 
@@ -396,7 +396,7 @@ Reverende et **dīlēctē** domine, rogō tē, ut cōnfessiōnem meam audiās et
 
 **Imprīmīs** cōnfiteor **cōram** tē, mē nōn dīligentem fuisse in fidēlī ēducātiōne et īnstitūtiōne līberōrum et familiae ad glōriam Deī, blasphēmāvī, nōmine Deī **abūsūs** sum, **malum** exemplum **prāva** loquēns et faciēns praebuī, vīcīnōs laesī, multīs obtrectāvī, **pondera** et mēnsūrās violāvī, dēcēpī proximum vēndendō mercēs etc.
 
-Et sī quid aliud contrā **praecepta** Deī in cuiusque vocātiōne occurrit etc.
+Et sī quid aliud contrā praecepta Deī in cuiusque vocātiōne occurrit etc.
 
 24\] Sī vērō **quis** nōn sentit sē onerārī tālibus aut graviōribus **peccātīs**, **is** nōn sit sollicitus, nec quaerat aut fingat **peccāta**, nec ex cōnfessiōne carnificīnam faciat sed ūnum atque alterum peccātum sibi nōtum recitet, ut: **Imprīmīs** cōnfiteor mē abūsum **esse** nōmine dīvīnō, verbīs impudīcīs ūsum, **hoc** vel illud neglēxisse etc. Sīc **sānē** quiēscat animus.
 
@@ -580,7 +580,7 @@ vestrī, tamquam Chrīstō, nōn ad oculum servientēs, velutī hominibus **plac
 
 #### Omnibus in Commūne.
 
-14\] Dīlige proximum tuum sīcut tē ipsum. In **hōc** sermōne omnia **praecepta** summātim comprehenduntur. Rom. 13, 8 sqq. Et ante omnia fīant dēprecātiōnēs, obsecrātiōnēs, interpellātiōnēs, grātiārum āctiōnēs prō omnibus hominibus etc. 1 Tim. 2, 1 sq.
+14\] Dīlige proximum tuum sīcut tē ipsum. In hōc sermōne omnia praecepta summātim comprehenduntur. Rom. 13, 8 sqq. Et ante omnia fīant dēprecātiōnēs, obsecrātiōnēs, interpellātiōnēs, grātiārum āctiōnēs prō omnibus hominibus etc. 1 Tim. 2, 1 sq.
 
 ---
 
