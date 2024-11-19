@@ -40,15 +40,15 @@ Mārtīnus **Lutherus** omnibus fidēlibus, piīs Parochīs et Concionātōribus
 
 ## I. DECEM PRAECEPTA.
 
-quōmodo paterfamiliās **eā** suae familiae **simplicissimē** **trādere** dēbeat.
+quōmodo paterfamiliās ea suae familiae implicissimē trādere dēbeat.
 
 ### 1\] I. Praeceptum.
 
 Nōn habēbis deōs aliēnōs.
 
-2\] Quae est huius praeceptī **sententia**?
+2\] Quae est huius praeceptī sententia?
 
-Respōnsiō.
+\[Respōnsiō.\]
 
 Dēbēmus Deum suprā omnia timēre, **dīligere** et illī **cōnfīdere**.
 
@@ -76,7 +76,7 @@ Dēbēmus Deum timēre et **dīligere**, nē dīvīnōs sermōnēs et eius Verbu
 
 **Honōrā** patrem et mātrem, ut **bene** sit tibi et sīs longaevus super terram.
 
-8\] Quae est huius praeceptī **sententia**?
+8\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -86,7 +86,7 @@ Dēbēmus Deum timēre et **dīligere**, nē **parentēs** et dominōs nostrōs 
 
 Nōn **occīdēs**.
 
-10\] Quae est huius praeceptī **sententia**?
+10\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -96,7 +96,7 @@ Dēbēmus Deum timēre et **dīligere**, nē vītae proximī nostrī incommodēm
 
 Nōn moechāberis.
 
-12\] Quae est huius praeceptī **sententia**?
+12\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -106,7 +106,7 @@ Dēbēmus Deum timēre et **dīligere**, ut **castē** et **pudīcē** vīvāmus
 
 Nōn fūrtum faciēs.
 
-14\] Quae est huius praeceptī **sententia**?
+14\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -116,7 +116,7 @@ Dēbēmus Deum timēre et **dīligere**, nē proximō pecūniam aut **bona** auf
 
 Nōn **loqueris** contrā proximum tuum falsum testimōnium.
 
-16\] Quae est huius praeceptī **sententia**?
+16\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -126,7 +126,7 @@ Dēbēmus Deum timēre et **dīligere**, nē proximum falsīs mendāciīs involv
 
 Nōn concupīscēs domum proximī tuī.
 
-18\] Quae est huius praeceptī **sententia**?
+18\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
@@ -136,7 +136,7 @@ Dēbēmus Deum timēre et **dīligere**, nē hērēditātem vel domum proximī d
 
 Nec dēsīderābis uxōrem eius, nōn servum, nōn ancillam, nōn bovem, nōn asinum nec omnia, quae illīus sunt.
 
-20\] Quae est huius praeceptī **sententia**?
+20\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
