@@ -1,14 +1,14 @@
-# Enchīridion
+# Enchīridion.
 
 Catēchismus Minor
 
-D. **Martīnī Luthērī**
+D. Mārtīnī **Luthērī**
 
 prō Parochīs et Concionātōribus
 
-## Praefātiō D. **Martinī Luthērī**.
+## Praefātiō D. Mārtīnī **Luthērī**.
 
-**Martīnus Luthērus** omnibus fidēlibus, piīs Parochīs et Concionātōribus grātiam, misericordiam et pācem in Chrīstō **Iēsu**, Dominō nostrō, pr. \[praemittit\].
+Mārtīnus **Luthērus** omnibus fidēlibus, piīs Parochīs et Concionātōribus grātiam, misericordiam et pācem in Chrīstō \*\*Iēsu\*\*, Dominō nostrō, pr. \[praemittit\].
 
 1\] **Miserābilis** **illa** faciēs, quam **proximē** cum vīsitātōrem agerem, vīdī, mē ad **edendum** hunc Catēchismum, **simplicissimē** et **brevissimē** 2] tractātum, coēgit. Deum immortālem! quantum calamitātem ibi vīdī! Vulgus, praesertim autem illud, quod in agrīs vīvit, item plērīque parochī, adeō nūllam Chrīstiānae doctrīnae cognitiōnem habent, ut **dīcere** 3] etiam pudeat. Et tamen omnēs sānctō illō Chrīstī nōmine appellantur et nōbīscum commūnibus ūtuntur sacrāmentīs, cum Ōrātiōnem Dominicam, Symbolum Apostolicum et Decalogum nōn **modo** nōn intelligant, sed nē verba quidem **referre** possint. Quid multīs **moror**? nihil omnīnō ā bēstiīs differunt. Iam autem, cum ēvangelium passim doceātur, illī vel **maximē** Chrīstiānōrum lībertāte fruuntur.
 
