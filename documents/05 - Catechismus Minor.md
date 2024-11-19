@@ -168,7 +168,7 @@ Crēdō in Deum Patrem omnipotentem, Creātōrem caelī et terrae.
 
 Respōnsiō.
 
-Crēdō, quod Deus creāverit mē, **ūna** cum omnibus creātūrīs, quod corpus et animam, oculōs, aurēs et omnia **membra**, ratiōnem et omnēs **sēnsūs** mihi dederit et adhūc sustentet; ad haec, quod vestēs et calceōs, cibum ac pōtum, domum, uxōrem, līberōs, agrōs, iūmenta et omnia **bona**, cum omnibus vītae necessāriīs, **cōpiōsē** et quotīdiē largiātur, mē contrā omnia perīcula prōtegat et ab omnibus **malīs** **līberet** et cūstōdiat; et haec omnia ex **merā** **suā** **paternā** ac **dīvīnā** bonitāte et **misericordiā**, **sine** ūllīs meīs meritīs aut **ūllā** dignitāte; prō quibus omnibus illī grātiās **agere**, plēnō ōre laudem **tribuere**, īnservīre, obsequī meritō dēbeō. **Hoc** **certissimē** vērum est.
+Crēdō, quod Deus creāverit mē, **ūna** cum omnibus creātūrīs, quod corpus et animam, oculōs, aurēs et omnia **membra**, ratiōnem et omnēs **sēnsūs** mihi dederit et adhūc sustentet; ad haec, quod vestēs et calceōs, cibum ac pōtum, domum, uxōrem, līberōs, agrōs, iūmenta et omnia **bona**, cum omnibus vītae necessāriīs, **cōpiōsē** et cottīdiē largiātur, mē contrā omnia perīcula prōtegat et ab omnibus **malīs** **līberet** et cūstōdiat; et haec omnia ex **merā** **suā** **paternā** ac **dīvīnā** bonitāte et **misericordiā**, **sine** ūllīs meīs meritīs aut **ūllā** dignitāte; prō quibus omnibus illī grātiās **agere**, plēnō ōre laudem **tribuere**, īnservīre, obsequī meritō dēbeō. **Hoc** **certissimē** vērum est.
 
 ### 3\] Secundus Articulus.
 
@@ -186,19 +186,19 @@ Crēdō, quod Iēsūs Chrīstus, vērus Deus, ā Patre ante saecula **genitus**,
 
 Dē Sānctificātiōne.
 
-Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum commūniōnem, remissiōnem peccātōrum, **carnis** resurrēctiōnem et vītam aeternam. Āmēn.
+Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum commūniōnem, remissiōnem peccātōrum, carnis resurrēctiōnem et vītam aeternam. Āmēn.
 
 6\] Quae est huius articulī sententia?
 
 Respōnsiō.
 
-Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
+Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** cottīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
 
 ## III. ŌRĀTIŌ DOMINICA,
 
 quōmodo paterfamiliās eam suae familiae simplicissimē trādere dēbeat.
 
-### 1\] Pater noster, quī **es** in caelīs.
+### 1\] Pater noster, quī es in caelīs.
 
 2\] Quae est hōrum verbōrum sententia?
 
@@ -240,7 +240,7 @@ Cum Pater caelestis dat nōbīs suum Sānctum Spīritum, quī efficit **grātiā
 
 ### 9\] II. Petītiō.
 
-Fīat voluntās **tua**, sīcut in caelō, sīc et in **terrā**.
+Fīat voluntās tua, sīcut in caelō, sīc et in terrā.
 
 10\] Quae est huius petītiōnis sententia?
 
@@ -256,15 +256,15 @@ Cum Deus frangit ac impedit omne **malum** cōnsilium, voluntātem et **cōnāt�
 
 ### 12\] IV. Petītiō.
 
-Pānem nostrum quotīdiānum dā nōbīs hodiē.
+Pānem nostrum cottīdiānum dā nōbīs hodiē.
 
 13\] Quae est huius petītiōnis sententia?
 
 Respōnsiō.
 
-Deus dat quidem omnibus pānem quotīdiānum, quamvīs nōn petāmus, etiam **malīs** hominibus. At nōs precāmur hāc petītiōne, ut agnōscāmus **hoc** beneficium, atque ita pānem nostrum quotīdiānum cum grātiārum āctiōne accipiāmus.
+Deus dat quidem omnibus pānem cottīdiānum, quamvīs nōn petāmus, etiam **malīs** hominibus. At nōs precāmur hāc petītiōne, ut agnōscāmus **hoc** beneficium, atque ita pānem nostrum cottīdiānum cum grātiārum āctiōne accipiāmus.
 
-Quid autem significat **pānis** quotīdiānus?
+Quid autem significat **pānis** cottīdiānus?
 
 14\] Respōnsiō.
 
@@ -278,7 +278,7 @@ Et remitte nōbīs **dēbita** **nostra**, sīcut et nōs remittimus dēbitōrib
 
 Respōnsiō.
 
-Petimus hāc precātiōne, nē Pater caelestis velit respicere et exāmināre **peccāta** **nostra** et propter **istā** nostram Ōrātiōnem repudiāre; quandōquidem nūllīs rēbus, quās petimus, dignī sumus, nec quidquam merērī possumus; sed ut velit nōbīs **suā** **grātiā** et bonitāte dōnāre omnia, quia quotīdiē multifāriam peccāmus et nihil **nisi** poenās merēmur. Vicissim autem ex **corde** condōnābimus, quidquid in nōs peccāverint aliī, et prō maleficiō libenter reddēmus beneficium.
+Petimus hāc precātiōne, nē Pater caelestis velit respicere et exāmināre **peccāta** **nostra** et propter **istā** nostram Ōrātiōnem repudiāre; quandōquidem nūllīs rēbus, quās petimus, dignī sumus, nec quidquam merērī possumus; sed ut velit nōbīs **suā** **grātiā** et bonitāte dōnāre omnia, quia cottīdiē multifāriam peccāmus et nihil **nisi** poenās merēmur. Vicissim autem ex **corde** condōnābimus, quidquid in nōs peccāverint aliī, et prō maleficiō libenter reddēmus beneficium.
 
 ### 17\] VI. Petītiō.
 
@@ -352,7 +352,7 @@ Quid autem significat **ista** in aquam immersiō?
 
 12\] Respōnsiō.
 
-Significat, quod vetus Adam, quī adhūc in nōbīs est, subinde per quotīdiānam mortificātiōnem ac poenitentiam in nōbīs submergī et exstinguī dēbeat **ūna** cum omnibus **peccātīs** et **malīs** concupiscentiīs, atque rūrsus quotīdiē **ēmergere** ac **resurgere** novus homō, quī in **iūstitiā** et pūritāte **cōram** Deō vīvat in aeternum.
+Significat, quod vetus Adam, quī adhūc in nōbīs est, subinde per cottīdiānam mortificātiōnem ac poenitentiam in nōbīs submergī et exstinguī dēbeat **ūna** cum omnibus **peccātīs** et **malīs** concupiscentiīs, atque rūrsus cottīdiē **ēmergere** ac **resurgere** novus homō, quī in **iūstitiā** et pūritāte **cōram** Deō vīvat in aeternum.
 
 13\] **Ubi** **hoc** scrīptum est?
 
