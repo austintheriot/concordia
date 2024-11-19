@@ -102,7 +102,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et dīligere, ut castē et pudīcē vīvāmus in verbīs ac operibus, et ūnusquisque suam coniugem amet ac honōret.
 
-### 13\] VI. Praeceptum.
+### 13\] VII. Praeceptum.
 
 Nōn fūrtum faciēs.
 
@@ -110,9 +110,9 @@ Nōn fūrtum faciēs.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et \*īligere, nē proximō pecūniam aut **bona** auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius **conditiō** melior reddātur.
+Dēbēmus Deum timēre et dīligere, nē proximō pecūniam aut bona auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius conditiō melior reddātur.
 
-### 15\] VII. Praeceptum.
+### 15\] VIII. Praeceptum.
 
 Nōn loquēris contrā proximum tuum falsum testimōnium.
 
@@ -130,7 +130,7 @@ Nōn concupīscēs domum proximī tuī.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et dīligere, nē hērēditātem vel domum proximī dolō **malō** captēmus et sub speciē iūris et rēctī nostrīs facultātibus adiungāmus, sed potius eum iuvēmus, ut suās fortūnās retineat integrās.
+Dēbēmus Deum timēre et dīligere, nē hērēditātem vel domum proximī dolō malō captēmus et sub speciē iūris et rēctī nostrīs facultātibus adiungāmus, sed potius eum iuvēmus, ut suās fortūnās retineat integrās.
 
 ### 19\] X. Praeceptum.
 
@@ -146,7 +146,7 @@ Dēbēmus Deum timēre et dīligere, nē \[ā\] proximō uxōrem, servōs, ancil
 
 Respōnsiō.
 
-Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum **fortis** zēlōtēs, vīsitāns inīquitātem patrum in fīliōs in tertiam et quārtam generātiōnem eōrum, quī ōdērunt mē; et faciēns misericordiam in mīllia hīs, quī dīligunt mē et cūstōdiunt praecepta mea.
+Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum fortis zēlōtēs, vīsitāns inīquitātem patrum in fīliōs in tertiam et quārtam generātiōnem eōrum, quī ōdērunt mē; et faciēns misericordiam in mīllia hīs, quī dīligunt mē et cūstōdiunt praecepta mea.
 
 22\] Quae est hōrum verbōrum sententia?
 
@@ -168,7 +168,7 @@ Crēdō in Deum Patrem omnipotentem, Creātōrem caelī et terrae.
 
 Respōnsiō.
 
-Crēdō, quod Deus creāverit mē, **ūna** cum omnibus creātūrīs, quod corpus et animam, oculōs, aurēs et omnia **membra**, ratiōnem et omnēs **sēnsūs** mihi dederit et adhūc sustentet; ad haec, quod vestēs et calceōs, cibum ac pōtum, domum, uxōrem, līberōs, agrōs, iūmenta et omnia **bona**, cum omnibus vītae necessāriīs, **cōpiōsē** et cottīdiē largiātur, mē contrā omnia perīcula prōtegat et ab omnibus **malīs** **līberet** et cūstōdiat; et haec omnia ex **merā** **suā** **paternā** ac **dīvīnā** bonitāte et **misericordiā**, **sine** ūllīs meīs meritīs aut **ūllā** dignitāte; prō quibus omnibus illī grātiās **agere**, plēnō ōre laudem **tribuere**, īnservīre, obsequī meritō dēbeō. **Hoc** **certissimē** vērum est.
+Crēdō, quod Deus creāverit mē, ūnā cum omnibus creātūrīs, quod corpus et animam, oculōs, aurēs et omnia membra, ratiōnem et omnēs sēnsūs mihi dederit et adhūc sustentet; ad haec, quod vestēs et calceōs, cibum ac pōtum, domum, uxōrem, līberōs, agrōs, iūmenta et omnia bona, cum omnibus vītae necessāriīs, cōpiōsē et cottīdiē largiātur, mē contrā omnia perīcula prōtegat et ab omnibus malīs līberet et cūstōdiat; et haec omnia ex merā suā paternā ac dīvīnā bonitāte et misericordiā, sine ūllīs meīs meritīs aut ūllā dignitāte; prō quibus omnibus illī grātiās agere, plēnō ōre laudem tribuere, īnservīre, obsequī meritō dēbeō. Hoc certissimē vērum est.
 
 ### 3\] Secundus Articulus.
 
@@ -180,7 +180,7 @@ Et in Iēsum Chrīstum, Fīlium eius ūnicum, Dominum nostrum, quī conceptus es
 
 Respōnsiō.
 
-Crēdō, quod Iēsūs Chrīstus, vērus Deus, ā Patre ante saecula **genitus**, **īdem**que vērus homō, **nātus** ex **Mariā** virgine, sit meus Dominus, quī mē perditum et damnātum hominem redēmit et ab omnibus **peccātīs**, ā morte, ā potestāte Satānae līberāvit, nōn quidem aurō et argentō, sed suō sānctō ac pretiōsō sanguine **suā**que innocente passiōne ac morte, ut ego essem **tōtus** ipsīus, et in rēgnō eius sub ipsō vīverem ac **eī** servīrem in **perpetuā** **iūstitiā**, **innocentiā** et beātitūdine, perinde ac ipse ā morte surrēxit, vīvit et rēgnat in aeternum. **Hoc** **certissimē** vērum est.
+Crēdō, quod Iēsūs Chrīstus, vērus Deus, ā Patre ante saecula **genitus**, **īdem**que vērus homō, **nātus** ex **Mariā** virgine, sit meus Dominus, quī mē perditum et damnātum hominem redēmit et ab omnibus **peccātīs**, ā morte, ā potestāte Satānae līberāvit, nōn quidem aurō et argentō, sed suō sānctō ac pretiōsō sanguine **suā**que innocente passiōne ac morte, ut ego essem **tōtus** ipsīus, et in rēgnō eius sub ipsō vīverem ac **eī** servīrem in **perpetuā** **iūstitiā**, **innocentiā** et beātitūdine, perinde ac ipse ā morte surrēxit, vīvit et rēgnat in aeternum. Hoc certissimē vērum est.
 
 ### 5\] Tertius Articulus.
 
@@ -192,7 +192,7 @@ Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum comm�
 
 Respōnsiō.
 
-Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** cottīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
+Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed Spīritus Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** cottīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. Hoc certissimē vērum est.
 
 ## III. ŌRĀTIŌ DOMINICA,
 
@@ -214,9 +214,9 @@ Sānctificētur nōmen tuum.
 
 Respōnsiō.
 
-nōmen Deī per sē quidem sānctum est; vērum nōs ōrāmus hāc petītiōne, ut apud nōs **quoque** sānctificētur.
+nōmen Deī per sē quidem sānctum est; vērum nōs ōrāmus hāc petītiōne, ut apud nōs quoque sānctificētur.
 
-5\] **Quā** ratiōne fit istud?
+5\] Quā ratiōne fit istud?
 
 Respōnsiō.
 
@@ -230,9 +230,9 @@ Adveniat rēgnum tuum.
 
 Respōnsiō.
 
-Rēgnum Deī **venit** etiam per sē, **sine** **nostrā** ōrātiōne; sed petimus hāc precātiōne, ut ad nōs **quoque** perveniat.
+Rēgnum Deī **venit** etiam per sē, **sine** **nostrā** ōrātiōne; sed petimus hāc precātiōne, ut ad nōs quoque perveniat.
 
-8\] **Quā** ratiōne fit istud?
+8\] Quā ratiōne fit istud?
 
 Respōnsiō.
 
@@ -246,9 +246,9 @@ Fīat voluntās tua, sīcut in caelō, sīc et in terrā.
 
 Respōnsiō.
 
-**Bona** ac misericors Deī voluntās fit **quoque** **sine** **nostrā** ōrātiōne; sed rogāmus hāc petītiōne, ut etiam apud nōs fīat.
+**Bona** ac misericors Deī voluntās fit quoque **sine** **nostrā** ōrātiōne; sed rogāmus hāc petītiōne, ut etiam apud nōs fīat.
 
-**Quā** ratiōne fit istud?
+Quā ratiōne fit istud?
 
 11\] Respōnsiō.
 
@@ -306,7 +306,7 @@ Quae est huius vōculae \[vocābulī\] significātiō?
 
 Āmēn significat **idem** quod **certē**, ut scīlicet ego sim certus, eiusmodī petītiōnēs Patrī nostrō caelestī **esse** acceptās atque ab eō exaudītās, quia ipse nōbīs mandāvit, ut ad hunc modum ōrārēmus \[ōrēmus\], prōmīsitque sē nōs exaudītūrum **esse**. Āmēn, Āmēn, id est, **vērē**, **certē**, haec **ita** fīent.
 
-## IV. SACRĀMENTUM BAPTISMI.
+## IV. SACRĀMENTUM BAPTISMĪ.
 
 quōmodo dē eō paterfamiliās suam familiam simplicissimē docēre dēbeat.
 
@@ -322,7 +322,7 @@ Baptismus nōn est simpliciter **aqua**, sed est **aquā** dīvīnō mandātō *
 
 Respōnsiō.
 
-4\] **Ubi** Dominus noster Iēsūs Chrīstus dīcit Matthaeī ultimō \[28, 19]: Euntēs docēte omnēs gentēs, baptīzantēs eōs in nōmine Patris et Fīliī et Spīritūs Sānctī.
+4\] Ubi Dominus noster Iēsūs Chrīstus dīcit Matthaeī ultimō \[28, 19]: Euntēs docēte omnēs gentēs, baptīzantēs eōs in nōmine Patris et Fīliī et Spīritūs Sānctī.
 
 Secundum.
 
@@ -332,19 +332,19 @@ Secundum.
 
 Operātur remissiōnem peccātōrum, līberat ā morte et ā diabolō et dōnat aeternam beātitūdinem omnibus et singulīs, quī crēdunt **hoc**, quod verba et prōmissiōnēs dīvīnae pollicentur.
 
-7\] Quae sunt **illa** verba et prōmissiōnēs dīvīnae?
+7\] Quae sunt illa verba et prōmissiōnēs dīvīnae?
 
 8\] Respōnsiō.
 
-**Ubi** Dominus noster Iēsūs Chrīstus dīcit **Mārcī** ultimō \[16, 16\]: Quī crēdiderit et baptīzātus fuerit, salvus erit. Quī vērō nōn crēdiderit, condemnābitur.
+Ubi Dominus noster Iēsūs Chrīstus dīcit Mārcī ultimō \[16, 16\]: Quī crēdiderit et baptīzātus fuerit, salvus erit. Quī vērō nōn crēdiderit, condemnābitur.
 
 Tertium.
 
-9\] Quī potest **aqua** tam magnās rēs efficere?
+9\] Quī potest aqua tam magnās rēs efficere?
 
 10] Respōnsiō.
 
-**Aqua** **certē** tantās rēs nōn efficit, sed verbum Deī, quod in et eum **aqua** est, et **fidēs**, quae verbō Deī aquae additō crēdit. Quia **aqua** **sine** verbō Deī est simpliciter **aqua** et nōn est baptismus, sed additō verbō Deī est baptismus, **hoc** est, **salūtāris** **aqua** grātiae et vītae et lavācrum regenerātiōnis in Spīritū Sānctō, sīcut Paulus ait ad Titum, 3, 5 sqq.: Secundum suam misericordiam nōs salvōs fēcit per lavācrum regenerātiōnis ac renovātiōnis **Spīritus** Sānctī, quīn effūdit in nōs opulenter per Iēsum Chrīstum, Salvātōrem nostrum, ut **iūstificātī** illīus **grātia** hērēdēs efficerēmur iuxtā spem vītae aeternae. **Fidēlis** **hic** sermō est.
+Aqua certē tantās rēs nōn efficit, sed verbum Deī, quod in et cum aquā est, et fidēs, quae verbō Deī aquae additō crēdit. Quia aqua sine verbō Deī est simpliciter aqua et nōn est baptismus, sed additō verbō Deī est baptismus, hoc est, **salūtāris** **aqua** grātiae et vītae et lavācrum regenerātiōnis in Spīritū Sānctō, sīcut Paulus ait ad Titum, 3, 5 sqq.: Secundum suam misericordiam nōs salvōs fēcit per lavācrum regenerātiōnis ac renovātiōnis **Spīritus** Sānctī, quīn effūdit in nōs opulenter per Iēsum Chrīstum, Salvātōrem nostrum, ut **iūstificātī** illīus **grātia** hērēdēs efficerēmur iuxtā spem vītae aeternae. **Fidēlis** **hic** sermō est.
 
 11\] Quārtum.
 
@@ -470,7 +470,7 @@ suam familiam fōrmās benedictiōnis, ūnam **manē**, alteram vesperī dīcend
 
 1\] **Māne** cum surgis ē **lectō**, signābis tē signō sānctae **crucis**, dīcēns:
 
-In nōmine Patrīs et Fīliī et **Spīritus** Sānctī. Āmēn.
+In nōmine Patrīs et Fīliī et Spīritūs Sānctī. Āmēn.
 
 2\] Deinde innītēns genibus vel stāns **dicās** Symbolum et Ōrātiōnem Dominicam. Hīs **potes** et hanc precātiunculam **addere**:
 
@@ -482,7 +482,7 @@ In nōmine Patrīs et Fīliī et **Spīritus** Sānctī. Āmēn.
 
 4\] Similiter vesperī, quum cōnfers tē cubitum, signābis tē signō sānctae **crucis**, dīcēns:
 
-In nōmine Patrīs et Fīliī et **Spīritus** Sānctī. Āmēn.
+In nōmine Patrīs et Fīliī et Spīritūs Sānctī. Āmēn.
 
 5\] Deinde flexīs genibus vel stāns **dicās** Symbolum et Ōrātiōnem Dominicum. Hīs **potes** et hanc precātiunculam **addere**:
 
@@ -508,15 +508,15 @@ Oculī omnium in tē spērant, Domine, et tū dās ēscam illōrum in tempore op
 
 Domine Deus, Pater caelestis, benedic nōbīs et hīs dōnīs tuīs, quae dē **tuā** largitāte sūmimus, per Iēsum Chrīstum, Dominum nostrum. Āmēn.
 
-### 10\] **Grātiārum** Actiō.
+### 10\] Grātiārum Actiō.
 
-Sīc **quoque** post cibum sūmptum ad eundem modum **modestē** **complicātīs** manibus ad mēnsam assistant et **dīcant**:
+Sīc quoque post cibum sūmptum ad eundem modum **modestē** **complicātīs** manibus ad mēnsam assistant et **dīcant**:
 
 Cōnfitēminī Dominō, quoniam bonus, quoniam in aeternum **misericordiā** eius, quī dat ēscam omnī carnī, quī dat iūmentīs ēscam ipsōrum et pullīs corvotum invocantibus eum. Nōn in fortitūdine equī voluntātem habēbit, neque in tībiīs **virī** benēplacitum erit **eī**. Benēplacitum est Dominō super timentēs eum et in eīs, quī spērant super **misericordiā** eius.
 
 11\] Deinde addant Ōrātiōnem Dominicam cum ōrātiōne sequentī:
 
-**Grātiās** agimus tibi, Domine Deus Pater, per Iēsum Chrīstum, Dominum nostrum, prō ūniversīs beneficiīs tuīs, quī **vīvis** et rēgnās in saecula saeculōrum. Āmēn.
+Grātiās agimus tibi, Domine Deus Pater, per Iēsum Chrīstum, Dominum nostrum, prō ūniversīs beneficiīs tuīs, quī vīvis et rēgnās in saecula saeculōrum. Āmēn.
 
 ## Appendix II.
 
