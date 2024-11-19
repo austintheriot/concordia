@@ -272,7 +272,7 @@ Significat omne, quod ad vītae nostrae necessitātem ac sustentātiōnem pertin
 
 ### 15\] V. Petītiō.
 
-Et remitte nōbīs **dēbita** **nostra**, sīcut et nōs remittimus dēbitōribus nostrīs.
+Et remitte nōbīs dēbita nostra, sīcut et nōs remittimus dēbitōribus nostrīs.
 
 16\] Quae est huius petītiōnis sententia?
 
@@ -292,7 +292,7 @@ Deus quidem nēminem tentat, sed tamen petimus hāc petītiōne, ut ipse nōs c�
 
 ### 19\] VI. Petītiō.
 
-Sed **līberā** nōs ā **mālō**.
+Sed līberā nōs ā malō.
 
 20\] Quae est huius petītiōnis sententia?
 
