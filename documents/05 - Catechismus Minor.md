@@ -62,7 +62,7 @@ Respōnsiō.
 
 Dēbēmus Deum timēre et dīligere, nē per nōmen eius imprecēmur, iūrēmus, incantēmus, mentiāmur aut dolīs fallāmus, sed in omnī necessitāte illud invocēmus, adōrēmus et cum grātiārum āctiōne laudēmus.
 
-### 5\] II.. Praeceptum.
+### 5\] II. Praeceptum.
 
 Mementō, ut diem Sabbatī sānctificēs.
 
@@ -80,17 +80,17 @@ Honōrā patrem et mātrem, ut bene sit tibi et sīs longaevus super terram.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē **parentēs** et dominōs nostrōs contemnāmus neque ad īram commoveāmus, sed **honōre** afficiāmus, illīs serviāmus, mōrem gerāmus, amōre eōs prōsequāmur et magnī faciāmus.
+Dēbēmus Deum timēre et dīligere, nē parentēs et dominōs nostrōs contemnāmus neque ad īram commoveāmus, sed honōre afficiāmus, illīs serviāmus, mōrem gerāmus, amōre eōs prōsequāmur et magnī faciāmus.
 
 ### 9\] V. Praeceptum.
 
-Nōn **occīdēs**.
+Nōn occīdēs.
 
 10\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē vītae proximī nostrī incommodēmus aut **aegrē** faciāmus, sed īlium adiuvēmus et prōmoveāmus in omnibus vītae et corporis necessitātibus et perīculīs.
+Dēbēmus Deum timēre et dīligere, nē vītae proximī nostrī incommodēmus aut aegrē faciāmus, sed īlium adiuvēmus et prōmoveāmus in omnibus vītae et corporis necessitātibus et perīculīs.
 
 ### 11\] VI. Praeceptum.
 
@@ -100,9 +100,9 @@ Nōn moechāberis.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, ut **castē** et **pudīcē** vīvāmus in verbīs ac operibus, et ūnusquisque suam coniugem amet ac honōret.
+Dēbēmus Deum timēre et dīligere, ut castē et pudīcē vīvāmus in verbīs ac operibus, et ūnusquisque suam coniugem amet ac honōret.
 
-### 13\] VI.. Praeceptum.
+### 13\] VI. Praeceptum.
 
 Nōn fūrtum faciēs.
 
@@ -110,17 +110,17 @@ Nōn fūrtum faciēs.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē proximō pecūniam aut **bona** auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius **conditiō** melior reddātur.
+Dēbēmus Deum timēre et \*īligere, nē proximō pecūniam aut **bona** auferāmus, neque falsīs mercibus aut impostum ad nōs pertrahāmus, sed dēmus operam, ut illīus opēs cōnserventur, et eius **conditiō** melior reddātur.
 
-### 15\] VII.. Praeceptum.
+### 15\] VII. Praeceptum.
 
-Nōn **loqueris** contrā proximum tuum falsum testimōnium.
+Nōn loquēris contrā proximum tuum falsum testimōnium.
 
 16\] Quae est huius praeceptī sententia?
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē proximum falsīs mendāciīs involvāmus, prodatuus, trādūcāmus aut **īnfāmia** **aliquā** afficiatuus, sed illum excūsēmus, bene dē eō sentiāmus et loquāmur et omnia in meliōrem partem accipiāmus et interpretēmur.
+Dēbēmus Deum timēre et dīligere, nē proximum falsīs mendāciīs involvāmus, prodatuus, trādūcāmus aut **īnfāmia** **aliquā** afficiatuus, sed illum excūsēmus, bene dē eō sentiāmus et loquāmur et omnia in meliōrem partem accipiāmus et interpretēmur.
 
 ### 17\] IX. Praeceptum.
 
@@ -130,7 +130,7 @@ Nōn concupīscēs domum proximī tuī.
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē hērēditātem vel domum proximī dolō **malō** captēmus et sub speciē iūris et rēctī nostrīs facultātibus adiungāmus, sed potius eum iuvēmus, ut suās fortūnās retineat integrās.
+Dēbēmus Deum timēre et dīligere, nē hērēditātem vel domum proximī dolō **malō** captēmus et sub speciē iūris et rēctī nostrīs facultātibus adiungāmus, sed potius eum iuvēmus, ut suās fortūnās retineat integrās.
 
 ### 19\] X. Praeceptum.
 
@@ -140,7 +140,7 @@ Nec dēsīderābis uxōrem eius, nōn servum, nōn ancillam, nōn bovem, nōn as
 
 Respōnsiō.
 
-Dēbēmus Deum timēre et **dīligere**, nē \[ā\] proximō uxōrem, servōs, ancillās vel pecudēs abaliēnēmus aut abstrahāmus, sed illōs adhortēmur et urgeāmus, ut maneant et suum officium dīligenter faciant.
+Dēbēmus Deum timēre et dīligere, nē \[ā\] proximō uxōrem, servōs, ancillās vel pecudēs abaliēnēmus aut abstrahāmus, sed illōs adhortēmur et urgeāmus, ut maneant et suum officium dīligenter faciant.
 
 21\] Quid autem summātim dīcit Deus dē hīs praeceptīs omnibus?
 
@@ -152,7 +152,7 @@ Sīc dīcit Exod. 20, 5 sq.: Ego, Dominus Deus tuus, sum **fortis** zēlōtēs, 
 
 Respōnsiō.
 
-Deus minātur poenam omnibus, quī ista praecepta trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī praecepta facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum **dīligere** et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
+Deus minātur poenam omnibus, quī ista praecepta trānsgrediuntur et violant. Dēbēmus itaque **expavēscere** et timēre īram Deī et nihil contrā huiusmodī praecepta facere. Rūrsus prōmittit etiam suam grātiam et omnia **bona** omnibus, quī **mandāta** **illā** observant. Meritō igitur dēbēmus Deum dīligere et illī **cōnfīdere** et iuxtā **mandāta** eius omnem nostram vītam sēdulō et dīligenter **īnstituere**.
 
 ## II. SYMBOLUM APOSTOLICUM,
 
@@ -194,7 +194,7 @@ Respōnsiō.
 
 Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
 
-## III. ŌRĀTIŌ **DOMINICA**,
+## III. ŌRĀTIŌ DOMINICA,
 
 quōmodo paterfamiliās eam suae familiae simplicissimē trādere dēbeat.
 
@@ -238,7 +238,7 @@ Respōnsiō.
 
 Cum Pater **estis** dat nōbīs suum Sānctum Spīritum, quī efficit **grātiā** **suā**, ut sānctō eius Verbō crēdāmus ac **piē** vīvāmus, cum in **hōc** tempore, tum posteā in aeternum.
 
-### 9\] II.. Petītiō.
+### 9\] II. Petītiō.
 
 Fīat voluntās **tua**, sīcut in ō, sīc et in **terrā**.
 
@@ -290,7 +290,7 @@ Respōnsiō.
 
 Deus quidem nēminem tentat, sed tamen petimus hāc petītiōne, ut ipse nōs cūstōdiat et cōnserver, nē Satanās, mundus et **carō** **nostra** nōbīs impōnant et nōs ā **rēctā** **fide** sēdūcant et in superstitiōnem, diffīdentiam, dēspērātiōnem atque **alia** gravia **scelera** et flāgitia coniiciant, et ut **maximē** eiusmodī tentātiōnibus sollicitēmur, nē succumbāmus, sed ut tandem vincāmus ac triumphēmus.
 
-### 19\] VI.. Petītiō.
+### 19\] VI. Petītiō.
 
 Sed **līberā** nōs ā **mālō**.
 
