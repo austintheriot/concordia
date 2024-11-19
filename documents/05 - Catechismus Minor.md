@@ -180,7 +180,7 @@ Et in **Iēsum** Chrīstum, Fīlium eius ūnicum, Dominum nostrum, quī **concep
 
 Respōnsiō.
 
-Crēdō, quod **Iēsus** Chrīstus, vērus Deus, ā Patre ante saecula **genitus**, **īdem**que vērus homō, **nātus** ex **Mariā** virgine, sit meus Dominus, quī mē perditum et damnātum hominem redēmit et ab omnibus **peccātīs**, ā morte, ā potestāte Satānae līberāvit, nōn quidem aurō et argentō, sed suō sānctō ac pretiōsō sanguine **suā**que innocente passiōne ac morte, ut ego essem **tōtus** ipsīus, et in rēgnō eius sub ipsō vīverem ac **eī** servīrem in **perpetuā** **iūstitiā**, **innocentiā** et beātitūdine, perinde ac ipse ā morte surrēxit, vīvit et rēgnat in aeternum. **Hoc** **certissimē** vērum est.
+Crēdō, quod Iēsūs Chrīstus, vērus Deus, ā Patre ante saecula **genitus**, **īdem**que vērus homō, **nātus** ex **Mariā** virgine, sit meus Dominus, quī mē perditum et damnātum hominem redēmit et ab omnibus **peccātīs**, ā morte, ā potestāte Satānae līberāvit, nōn quidem aurō et argentō, sed suō sānctō ac pretiōsō sanguine **suā**que innocente passiōne ac morte, ut ego essem **tōtus** ipsīus, et in rēgnō eius sub ipsō vīverem ac **eī** servīrem in **perpetuā** **iūstitiā**, **innocentiā** et beātitūdine, perinde ac ipse ā morte surrēxit, vīvit et rēgnat in aeternum. **Hoc** **certissimē** vērum est.
 
 ### 5\] Tertius Articulus.
 
@@ -192,7 +192,7 @@ Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum comm�
 
 Respōnsiō.
 
-Crēdō mē propriīs ratiōnis meae vīribus **Iēsu** Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in **Iēsu** Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
+Crēdō mē propriīs ratiōnis meae vīribus Iēsū Chrīstō, Dominō meō, **fīdere**, aut ad eum **accēdere** et pervenīre nūllō **modō** posse; sed **Spīritus** Sānctus per ēvangelium mē vocāvit, **suīs** dōnīs illūmināvit, in **rēctā** **fide** sānctificāvit et cōnservāvit; quemadmodum **solet** **tōtam** ecclēsiam in **terrā** vocāre, congregāre, illūmināre, sānctificāre et in Iēsū Chrīstō per vēram ac ūnicam fidem cōnservāre; in **quā** **ecclēsiā** mihi et omnibus Chrīstiānīs omnia **peccāta** quotīdiē **benignē** remittit et nōs omnēs in extrēmō **diē** ā morte suscitābit ac mihi et omnibus in Chrīstum crēdentibus vītam aeternam dabit. **Hoc** **certissimē** vērum est.
 
 ## III. ŌRĀTIŌ **DOMINICA**,
 
@@ -322,7 +322,7 @@ Baptismus nōn est simpliciter **aqua**, sed est **aquā** dīvīnō mandātō *
 
 Respōnsiō.
 
-4\] **Ubi** Dominus noster **Iēsus** Chrīstus dīcit Matthaeī ultimō \[28, 19]: Euntēs docēte omnēs gentēs, baptīzantēs eōs in nōmine Patrīs et Fīliī et **Spīritus** Sānctī.
+4\] **Ubi** Dominus noster Iēsūs Chrīstus dīcit Matthaeī ultimō \[28, 19]: Euntēs docēte omnēs gentēs, baptīzantēs eōs in nōmine Patrīs et Fīliī et **Spīritus** Sānctī.
 
 Secundum.
 
@@ -336,7 +336,7 @@ Operātur remissiōnem peccātōrum, līberat ā morte et ā diabolō et dōnat 
 
 8\] Respōnsiō.
 
-**Ubi** Dominus noster **Iēsus** Chrīstus dīcit **Mārcī** ultimō \[16, 16\]: Quī crēdiderit et baptīzātus fuerit, salvus erit. Quī vērō nōn crēdiderit, condemnābitur.
+**Ubi** Dominus noster Iēsūs Chrīstus dīcit **Mārcī** ultimō \[16, 16\]: Quī crēdiderit et baptīzātus fuerit, salvus erit. Quī vērō nōn crēdiderit, condemnābitur.
 
 Tertium.
 
@@ -416,7 +416,7 @@ Num meam remissiōnem crēdis **esse** Deī remissiōnem:
 
 Affirmantī et crēdentī porrō **dīcat**:
 
-28\] Fīat tibi, sīcut crēdis. Et ego ex mandātō Dominī nostrī **Iēsu** Chrīstī remittō tibi **tua** **peccāta** in nōmine
+28\] Fīat tibi, sīcut crēdis. Et ego ex mandātō Dominī nostrī Iēsū Chrīstī remittō tibi **tua** **peccāta** in nōmine
 
 Patrīs, Fīliī et **Spīritus** Sānctī. Āmēn. **Vāde** in pāce!
 
@@ -430,7 +430,7 @@ quōmodo paterfamiliās **simplicissimē** suam familiam dē eō docēre dēbeat
 
 2\] Respōnsiō.
 
-Sacrāmentum **altāris** est vērum corpus et vērus sanguis Dominī nostrī **Iēsu** Chrīstī, sub pāne et vīnō nōbīs Chrīstiānīs ad mandūcandum ac bibendum ab ipsō Chrīstō īnstitūtum.
+Sacrāmentum **altāris** est vērum corpus et vērus sanguis Dominī nostrī Iēsū Chrīstī, sub pāne et vīnō nōbīs Chrīstiānīs ad mandūcandum ac bibendum ab ipsō Chrīstō īnstitūtum.
 
 **Ubi** **hoc** scrīptum est?
 
@@ -438,7 +438,7 @@ Sacrāmentum **altāris** est vērum corpus et vērus sanguis Dominī nostrī **
 
 4\] Sīc scrībunt sānctī Ēvangelistae, Matthaeus 26, 26, Mārcus 14, 22, Lūcās 22, 19, et Sānctus Paulus \[1 Cor. 11, 23\]:
 
-Dominus noster **Iēsus** Chrīstus in **eā** nocte, **quā** **trāditus** est, accēpit pānem et, postquam grātiās ēgisset, frēgit et **dedit** discipulīs **suīs**, dīcēns: Accipite, comedite. **Hoc** est corpus meum, quod prō vōbīs datur. **Hoc** facite in meī commemorātiōnem.
+Dominus noster Iēsūs Chrīstus in **eā** nocte, **quā** **trāditus** est, accēpit pānem et, postquam grātiās ēgisset, frēgit et **dedit** discipulīs **suīs**, dīcēns: Accipite, comedite. **Hoc** est corpus meum, quod prō vōbīs datur. **Hoc** facite in meī commemorātiōnem.
 
 Similiter et postquam coēnāvit, accēpit calicem et, quum grātiās ēgisset, **dedit** illīs, dīcēns: **Bibitē** ex **hōc** omnēs. **Hic** calix novum testāmentum est in meō sanguine, quī prō vōbīs effunditur in remissiōnem peccātōrum. **Hoc** facite, quotiēscunque **biberitis**, in meī commemorātiōnem.
 
