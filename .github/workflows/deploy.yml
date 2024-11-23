@@ -38,12 +38,10 @@ jobs:
 
       - name: Install dependencies with cache
         run: |
-          yarn config set nodeLinker node-modules
-          yarn install --immutable
+          yarn install
 
       - name: Build website
         run: |
-          yarn rebuild
           yarn build
 
       - name: Setup Pages
