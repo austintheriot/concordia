@@ -1,7 +1,9 @@
 import { getAllMarkdownFiles } from '$lib/utils';
 import { error } from '@sveltejs/kit';
+import type { PageLoad } from './$types';
 
-export async function load({ params }) {
+// get post data for each page
+export const load: PageLoad = async ({ params }) => {
   const posts = await getAllMarkdownFiles();
   const post = posts.find((post) => post.slug === params.slug);
 
@@ -12,9 +14,9 @@ export async function load({ params }) {
   return {
     post
   };
-}
+};
 
-// Generate static paths for all blog posts
+// generate static paths for all blog posts
 export async function entries() {
   const posts = await getAllMarkdownFiles();
   const postSlugs = posts.map((post) => ({

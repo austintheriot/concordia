@@ -1,9 +1,11 @@
-<script>
-  export let data;
-  const { post } = data;
+<script lang="ts">
+  import type { PageData } from './$types';
+
+  const { data }: { data: PageData } = $props();
 </script>
 
 <article>
-  <h1>{post.slug}</h1>
-  {@html post.html}
+  <h1>{data.post.slug}</h1>
+  <!-- eslint-disable-next-line svelte/no-at-html-tags -->
+  {@html data.post.html}
 </article>
