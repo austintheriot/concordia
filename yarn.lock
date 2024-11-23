@@ -1750,9 +1750,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"app@workspace:.":
+"app@workspace:app":
   version: 0.0.0-use.local
-  resolution: "app@workspace:."
+  resolution: "app@workspace:app"
   dependencies:
     "@chromatic-com/storybook": "npm:^3.2.2"
     "@storybook/addon-essentials": "npm:^8.4.5"
@@ -2047,6 +2047,12 @@ __metadata:
   checksum: 10c0/c996b1cfdf95b6c90fee4dae37e332c8b6eb7d106430c17d538034c0ad9a1630cb194d2ab37293b1bdd4d779494beee7786d586a50bd9376fd6f7bcc2bd4c98f
   languageName: node
   linkType: hard
+
+"concordia-reader@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "concordia-reader@workspace:."
+  languageName: unknown
+  linkType: soft
 
 "cookie@npm:^0.6.0":
   version: 0.6.0
@@ -4858,13 +4864,13 @@ __metadata:
   linkType: hard
 
 "sveltedoc-parser@npm:^4.2.1":
-  version: 4.2.1
-  resolution: "sveltedoc-parser@npm:4.2.1"
+  version: 4.3.1
+  resolution: "sveltedoc-parser@npm:4.3.1"
   dependencies:
     eslint: "npm:8.4.1"
     espree: "npm:9.2.0"
     htmlparser2-svelte: "npm:4.1.0"
-  checksum: 10c0/95fc1428e4289d3a0d17462912ce498aa605868b32291dda438bdf18aa02d64042d34dd78b5a563530009b0ba84473d4dbb13eda4e28c5e2bd719f25032edc7d
+  checksum: 10c0/38e0258956fcf1bbe2ecc61286b73e96eedbec62e236c6b3adfc7055a4b2b50034b99f887a9e5eaccac233a87ccbc9434abe156f6a3ef25a640dcb54a4b99f46
   languageName: node
   linkType: hard
 

@@ -1,0 +1,12 @@
+{
+  "name": "concordia-reader",
+  "packageManager": "yarn@4.5.1",
+  "workspaces": [
+    "*"
+  ],
+  "scripts": {
+    "dev": "yarn workspace app dev",
+    "lint": "yarn workspace app lint",
+    "build": "yarn workspace app build"
+  }
+}
