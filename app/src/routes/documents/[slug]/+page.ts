@@ -6,7 +6,7 @@ export async function load({ params }) {
   const post = posts.find((post) => post.slug === params.slug);
 
   if (!post) {
-    throw error(404, 'Post not found');
+    throw error(404, `Post not found for slug ${params.slug}`);
   }
 
   return {
@@ -17,7 +17,8 @@ export async function load({ params }) {
 // Generate static paths for all blog posts
 export async function entries() {
   const posts = await getAllMarkdownFiles();
-  return posts.map((post) => ({
+  const postSlugs = posts.map((post) => ({
     slug: post.slug
   }));
+  return postSlugs;
 }

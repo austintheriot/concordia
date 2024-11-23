@@ -6,7 +6,6 @@ export async function getAllMarkdownFiles() {
     iterableFiles.map(async ([filepath, resolver]) => {
       const { html, attributes } = await resolver();
       const slug = filepath.replace('../../../documents/', '').replace('.md', '');
-      console.log(slug);
 
       return {
         slug,
