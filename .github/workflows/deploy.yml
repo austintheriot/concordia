@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: master
+    branches:
+      - master
   workflow_dispatch:
 
 permissions:
@@ -27,6 +28,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "yarn"
 
       - name: Enable Corepack for Yarn 4
         run: corepack enable
@@ -34,11 +36,15 @@ jobs:
       - name: Set Yarn version
         run: yarn set version 4.5.1
 
-      - name: Install dependencies
-        run: yarn install
+      - name: Install dependencies with cache
+        run: |
+          yarn config set nodeLinker node-modules
+          yarn install --immutable
 
       - name: Build website
-        run: yarn build
+        run: |
+          yarn rebuild
+          yarn build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -46,8 +52,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # this should match the `pages` option in your adapter-static options
-          path: "./build"
+          path: "./build" # Update this to your build output directory
 
   deploy:
     environment:
