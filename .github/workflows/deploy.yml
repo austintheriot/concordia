@@ -39,6 +39,7 @@ jobs:
       - name: Install dependencies with cache
         run: |
           yarn install
+          yarn workspace app install
 
       - name: Build website
         run: |
