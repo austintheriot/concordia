@@ -11,7 +11,7 @@ Catholica seu Oecūmenica.
 
 Crēdō in Deum, Patrem omnipotentem, Creātōrem caelī et terrae.
 
-Et in Jēsum Chrīstum, Fīlium ejus ūnicum, Dominum nostrum, quī conceptus est dē Spīritū Sānctō, nātus ex Marīā virgine, passus sub Pontiō Pīlātō, crucifīxus, mortuus et sepultus, dēscendit ad īnferna, tertiā diē resurrēxit ā mortuīs, ascendit ad caelōs, sedet ad dexteram Deī, Patris omnipotentis, inde ventūrus est jūdicāre vīvōs et mortuōs.
+Et in Iēsum Chrīstum, Fīlium eius ūnicum, Dominum nostrum, quī conceptus est dē Spīritū Sānctō, nātus ex Marīā virgine, passus sub Pontiō Pīlātō, crucifīxus, mortuus et sepultus, dēscendit ad īnferna, tertiā diē resurrēxit ā mortuīs, ascendit ad caelōs, sedet ad dexteram Deī, Patris omnipotentis, inde ventūrus est iūdicāre vīvōs et mortuōs.
 
 Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum commūniōnem, remissiōnem peccātōrum, carnis resurrēctiōnem et vītam aeternam. Āmēn.
 
@@ -19,7 +19,7 @@ Crēdō in Spīritum Sānctum, sānctam ecclēsiam catholicam, sānctōrum comm�
 
 Crēdō in ūnum Deum, Patrem omnipotentem, Factōrem caelī et terrae, vīsibilium omnium et invīsibilium.
 
-Et in ūnum Dominum Jēsum Chrīstum, Fīlium Deī ūnigenitum et ex Patre nātum ante omnia saecula, Deum dē Deō, lūmen dē lūmine, Deum vērum dē Deō vērō, genitum, nōn factum, cōnsubstantiālem Patrī, per quem omnia facta sunt; quī propter nōs hominēs et propter nostram salūtem dēscendit dē caelīs, et incarnātus est dē Spīritū Sānctō ex Marīā virgine et homō factus est; crucifīxus etiam prō nōbīs sub Pontiō Pīlātō, passus et sepultus est; et resurrēxit tertiā diē secundum Scrīptūrās et ascendit ad caelōs; sedet ad dexteram Patris et iterum ventūrus est in glōriā jūdicāre vīvōs et mortuōs, cujus rēgnī nōn erit fīnis.
+Et in ūnum Dominum Iēsum Chrīstum, Fīlium Deī ūnigenitum et ex Patre nātum ante omnia saecula, Deum dē Deō, lūmen dē lūmine, Deum vērum dē Deō vērō, genitum, nōn factum, cōnsubstantiālem Patrī, per quem omnia facta sunt; quī propter nōs hominēs et propter nostram salūtem dēscendit dē caelīs, et incarnātus est dē Spīritū Sānctō ex Marīā virgine et homō factus est; crucifīxus etiam prō nōbīs sub Pontiō Pīlātō, passus et sepultus est; et resurrēxit tertiā diē secundum Scrīptūrās et ascendit ad caelōs; sedet ad dexteram Patris et iterum ventūrus est in glōriā iūdicāre vīvōs et mortuōs, cuius rēgnī nōn erit fīnis.
 
 Et in Spīritum Sānctum, Dominum et vīvificantem, quī ex Patre Fīliōque prōcēdit, quī cum Patre et Fīliō simul adōrātur et glōrificātur, quī locūtus est per prophētās.
 
@@ -41,7 +41,7 @@ Neque cōnfundentēs persōnās, neque substantiam sēparantēs.
 
 Alia est enim persōna Patris, alia Fīliī, alia Spīritūs Sānctī.
 
-Sed Patris et Fīliī et Spīritūs Sānctī ūna est dīvīnitās, aequālis glōria, coaeterna majestās.
+Sed Patris et Fīliī et Spīritūs Sānctī ūna est dīvīnitās, aequālis glōria, coaeterna maiestās.
 
 Quālis Pater, tālis Fīlius, tālis Spīritus Sānctus.
 
@@ -79,17 +79,17 @@ Spīritus Sānctus ā Patre et Fīliō, nōn factus, nec creātus, nec genitus, 
 
 Ūnus ergō Pater, nōn trēs Patrēs; ūnus Fīlius, nōn trēs Fīliī; ūnus Spīritus Sānctus, nōn trēs Spīritūs Sānctī.
 
-Et in hāc Trīnitāte nihil prius aut posterius, nihil majus aut minus;
+Et in hāc Trīnitāte nihil prius aut posterius, nihil maius aut minus;
 
 Sed tōtae trēs persōnae coaeternae sibi sunt et coaequālēs,
 
-Ita ut per omnia, sīcut jam suprā dictum est, et Trīnitās in ūnitāte et ūnitās in Trīnitāte veneranda sit.
+Ita ut per omnia, sīcut iam suprā dictum est, et Trīnitās in ūnitāte et ūnitās in Trīnitāte veneranda sit.
 
 Quī vult ergō salvus esse, ita dē Trīnitāte sentiat.
 
-Sed necessārium est ad aeternam salūtum, ut incarnātiōnem quoque Dominī nostrī Jēsū Chrīstī fidēliter crēdat.
+Sed necessārium est ad aeternam salūtum, ut incarnātiōnem quoque Dominī nostrī Iēsū Chrīstī fidēliter crēdat.
 
-Est ergō fidēs rēcta, ut crēdāmus et cōnfiteāmur, quod Dominus noster Jēsus Chrīstus, Deī Fīlius, Deus et homō est:
+Est ergō fidēs rēcta, ut crēdāmus et cōnfiteāmur, quod Dominus noster Iēsus Chrīstus, Deī Fīlius, Deus et homō est:
 
 Deus ex substantiā Patris ante saecula genitus, et homō ex substantiā mātris in saeculō nātus:
 
@@ -109,9 +109,9 @@ Quī passus est prō nostrā salūte, dēscendit ad īnferōs, tertiā diē resu
 
 Ascendit ad caelōs, sedet ad dexteram Deī Patris omnipotentis,
 
-Inde ventūrus est jūdicāre vīvōs et mortuōs.
+Inde ventūrus est iūdicāre vīvōs et mortuōs.
 
-Ad cujus adventum omnēs hominēs resurgere habent cum corporibus suīs
+Ad cuius adventum omnēs hominēs resurgere habent cum corporibus suīs
 
 Et redditūrī sunt dē factīs propriīs ratiōnem,
 
