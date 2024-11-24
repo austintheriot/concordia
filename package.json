@@ -5,8 +5,15 @@
     "*"
   ],
   "scripts": {
+    "postinstall": "husky",
     "dev": "yarn workspace app dev",
     "lint": "yarn workspace app lint",
+    "check": "yarn workspace app check",
+    "test": "yarn workspace app test",
     "build": "yarn workspace app build"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "pinst": "^3.0.0"
   }
 }
