@@ -1,3 +1,7 @@
+---
+title: V. Enchīridion - Catēchismus Minor
+---
+
 # Enchīridion.
 
 Catēchismus Minor

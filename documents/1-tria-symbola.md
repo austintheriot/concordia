@@ -1,3 +1,7 @@
+---
+title: I. Tria Symbola - Catholica seu Oecūmenica
+---
+
 # TRIA SYMBOLA
 
 Catholica seu Oecūmenica.

@@ -1,10 +1,15 @@
+export interface Frontmatter {
+  title: string;
+}
+
 export async function getAllMarkdownFiles() {
   const markdownFiles = import.meta.glob('../../../documents/**/*.md');
   const iterableFiles = Object.entries(markdownFiles);
 
   const posts = await Promise.all(
     iterableFiles.map(async ([filepath, resolver]) => {
-      const { html, attributes } = await resolver();
+      const markdownValues = await resolver();
+      const { html, attributes } = markdownValues as { attributes: Frontmatter; html: string };
       const slug = filepath.replace('../../../documents/', '').replace('.md', '');
 
       return {

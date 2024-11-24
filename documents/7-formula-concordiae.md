@@ -1,3 +1,7 @@
+---
+title: VII. Formula Concordiae
+---
+
 # FORMULA CONCORDIAE
 
 \[PARS PRIMA.\]
@@ -672,4 +676,3 @@ docent et profitentur, non esse unicam tantum divinam et aeternam Patris, Filii 
 30\] Hos atque his similes errores omnes, et eos etiam, qui ab his dependent et ex his consequuntur, reiicimus atque damnamus, utpote qui falsi sint atque haeretici, et qui Verbo Dei, tribus approbatis Symbolis, Augustanae Confessioni, eiusdem Apologiae, Smalcaldicis Articulis et Catechismis Lutheri repugnent, quos etiam errores omnes pii, summi atque infimi, cavere et vitare debent, nisi aeternae suae salutis iacturam facere velint.
 
 31\] Quod autem haec sit omnium nostrum fides, doctrina et confessio (de qua in novissimo illo die Iudici Domino nostro Iesu Christo rationem reddere parati sumus), et quod contra hanc doctrinam nihil vel occulte vel aperte dicere aut scribere, sed per gratiam Dei in ea constanter perseverare velimus, in eius rei fidem re bene meditata in vero Dei timore et invocatione nominis eius, hanc Epitomen propriis manibus subscripsimus.
-
