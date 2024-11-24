@@ -1,0 +1,3514 @@
+* TRIA
+  - trēs, ium (496) : three;
+    . trĭă neuter accusative plural
+    . trĭă neuter nominative plural
+    . trĭă neuter vocative plural
+* SYMBOLA
+  - sȳmbŏla, ae, f. (3) : contribution for common meal/feast; contributing of that sum;
+    . sȳmbŏlā ablative singular
+    . sȳmbŏlă nominative singular
+    . sȳmbŏlă vocative singular
+* seu
+  - sēu, conj. sub. (151) : or if; or; [sive ... sive => whether ... or, either ... or];
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+    . sȳmbŏlŭm accusative singular
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdō̆ present indicative active 1st singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* Patrem
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕm accusative singular
+  - pātro, as, are (30) : to accomplish, bring to completion;
+    . pātrĕm present subjunctive active 1st singular
+* omnipotentem
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēntĕm feminine accusative singular
+    . ōmnĭpŏtēntĕm masculine accusative singular
+* Creatorem
+  - crĕātŏr, oris, m. (3) : creator (of world); maker, author; founder (city); father; one who appoints;
+    . crĕātōrĕm accusative singular
+* caeli
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelī genitive singular
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelī genitive singular
+    . cāelī nominative plural
+    . cāelī vocative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* terrae
+  - tērra, ae, f. (1737) : earth, land, ground; country, region;
+    . tērrāe genitive singular
+    . tērrāe nominative plural
+    . tērrāe dative singular
+    . tērrāe vocative plural
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Iesum
+  - Jēsūs, npr. m. : Jésus
+    . Jēsŭm accusative singular
+* Christum
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstŭm accusative singular
+* Filium
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭm accusative singular
+* eius
+  - ĭs, ea, id, adj. et pron. (18209) : he/she/it/they (by GENDER/NUMBER); DEMONST that, he/she/it, they/them;
+    . ējŭs neuter genitive singular
+    . ējŭs feminine genitive singular
+    . ējŭs masculine genitive singular
+* unicum
+  - ūnĭcus, a, um (94) : only, sole, single, singular, unique; uncommon, unparalleled; one of a kind;
+    . ūnĭcŭm neuter nominative singular
+    . ūnĭcŭm neuter accusative singular
+    . ūnĭcŭm masculine accusative singular
+    . ūnĭcŭm neuter vocative singular
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭm accusative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭm accusative singular
+* nostrum
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+    . nōstrŭm neuter nominative singular
+    . nōstrŭm neuter accusative singular
+    . nōstrŭm masculine accusative singular
+    . nōstrŭm neuter vocative singular
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+    . nōstrŭm feminine genitive plural
+    . nōstrŭm masculine genitive plural
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* conceptus
+  - cōncĭpĭo, is, ere, cepi, ceptum (169) : - to take in/up, receive, catch; to derive/draw (from); to contain/hold; to grasp; to adopt; - to form, devise; to understand, imagine; to conceive, be mother of; to utter (oath)
+    . cōncēptŭs participle perfect passive masculine nominative singular
+  - cōncēptus, us, m. (4) : conceived, imagined; understood, adopted; [verba ~ => solemn/formal utterance];
+    . cōncēptŭs nominative singular
+    . cōncēptūs accusative plural
+    . cōncēptūs genitive singular
+    . cōncēptūs nominative plural
+    . cōncēptŭs vocative singular
+    . cōncēptūs vocative plural
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Spiritu
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtū ablative singular
+* Sancto
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctō neuter ablative singular
+    . sānctō masculine ablative singular
+    . sānctō neuter dative singular
+    . sānctō masculine dative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctō participle perfect passive neuter ablative singular
+    . sānctō participle perfect passive masculine ablative singular
+    . sānctō participle perfect passive neuter dative singular
+    . sānctō participle perfect passive masculine dative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctō ablative singular
+    . Sānctō dative singular
+  - sānctum, i, n. (3) : a holy place
+    . sānctō ablative singular
+    . sānctō dative singular
+* natus
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+    . nātŭs nominative singular
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+    . nātŭs participle perfect active masculine nominative singular
+  - nātŭs, us, m. (53) : birth;
+    . nātŭs nominative singular
+    . nātūs accusative plural
+    . nātūs genitive singular
+    . nātūs nominative plural
+    . nātŭs vocative singular
+    . nātūs vocative plural
+  - nātus, a, um (76) : born;
+    . nātŭs masculine nominative singular
+  - nō, as, are (43) : to swim, float;
+    . nātŭs participle perfect passive masculine nominative singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Maria
+  - mărĕ, is, n. (1083) : sea; sea water;
+    . mărĭă accusative plural
+    . mărĭă nominative plural
+    . mărĭă vocative plural
+* virgine
+  - vīrgō, ginis, f. (317) : maiden, young woman, girl of marriageable age; virgin, woman sexually intact;
+    . vīrgĭnĕ ablative singular
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+    . pāssŭs participle perfect active masculine nominative singular
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+    . pāssŭs nominative singular
+    . pāssūs accusative plural
+    . pāssūs genitive singular
+    . pāssūs nominative plural
+    . pāssŭs vocative singular
+    . pāssūs vocative plural
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+    . pāssŭs participle perfect passive masculine nominative singular
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+    . pāssŭs masculine nominative singular
+* sub
+  - sŭb, prép. + acc. / abl. (1055) : under; up to, up under, close to (of motion); until, before, up to, about;
+* Pontio
+  - Pōntĭus, i, m. (9) : Pontius; Roman gens; a Sammite leader; (P~ Pilatus, prefect of Judea 26-36 AD);
+    . Pōntĭō ablative singular
+    . Pōntĭō dative singular
+* Pilato
+  - Pīlātus, i, m. (2) : Pilatus; (Roman cognomen); [Pontius ~ (Pilate) => prefect Judea, 26-36 AD];
+    . Pīlātō ablative singular
+    . Pīlātō dative singular
+* mortuus
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭŭs participle perfect active masculine nominative singular
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭŭs nominative singular
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭŭs masculine nominative singular
+    . mōrtŭŭs masculine vocative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* sepultus
+  - sĕpĕlĭo, is, ire, iui (ii), ultum (64) : to bury/inter; (Romans cremate + inter ashes); to submerge, overcome; to suppress; to ruin;
+    . sĕpūltŭs participle perfect passive masculine nominative singular
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+    . dēscēndĭt present indicative active 3rd singular
+    . dēscēndĭt perfect indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* inferna
+  - īnfērnus, a, um (64) : lower, under; underground, of the lower regions, infernal; of hell;
+    . īnfērnă feminine nominative singular
+    . īnfērnă neuter accusative plural
+    . īnfērnā feminine ablative singular
+    . īnfērnă neuter nominative plural
+    . īnfērnă feminine vocative singular
+    . īnfērnă neuter vocative plural
+  - īnfērna, orum, n. (4) : les enfers, parties inférieures, bas ventre
+    . īnfērnă accusative plural
+    . īnfērnă nominative plural
+    . īnfērnă vocative plural
+* tertia
+  - tērtĭus, a, um (447) : the third
+    . tērtĭă feminine nominative singular
+    . tērtĭă neuter accusative plural
+    . tērtĭā feminine ablative singular
+    . tērtĭă neuter nominative plural
+    . tērtĭă feminine vocative singular
+    . tērtĭă neuter vocative plural
+  - tērtĭō, as, are : thirdly;
+    . tērtĭā present imperative active 2nd singular
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+    . dĭē ablative singular
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+    . dīĕ masculine vocative singular
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+    . rĕsūrrēxĭt perfect indicative active 3rd singular
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* mortuis
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭīs participle perfect active neuter ablative plural
+    . mōrtŭīs participle perfect active feminine ablative plural
+    . mōrtŭīs participle perfect active masculine ablative plural
+    . mōrtŭīs participle perfect active neuter dative plural
+    . mōrtŭīs participle perfect active feminine dative plural
+    . mōrtŭīs participle perfect active masculine dative plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭīs ablative plural
+    . mōrtŭīs dative plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭīs neuter ablative plural
+    . mōrtŭīs feminine ablative plural
+    . mōrtŭīs masculine ablative plural
+    . mōrtŭīs neuter dative plural
+    . mōrtŭīs feminine dative plural
+    . mōrtŭīs masculine dative plural
+* ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+    . āscēndĭt present indicative active 3rd singular
+    . āscēndĭt perfect indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelōs accusative plural
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelōs accusative plural
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+    . sĕdĕt present indicative active 3rd singular
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+    . sēdĕt present subjunctive active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+    . dēxtĕrăm accusative singular
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕī genitive singular
+    . dĕī nominative plural
+    . dĕī vocative plural
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* omnipotentis
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēntīs feminine accusative plural
+    . ōmnĭpŏtēntīs masculine accusative plural
+    . ōmnĭpŏtēntĭs neuter genitive singular
+    . ōmnĭpŏtēntĭs feminine genitive singular
+    . ōmnĭpŏtēntĭs masculine genitive singular
+* inde
+  - īndĕ, adv. (728) : thence, thenceforth; from that place/time/cause; thereupon;
+  - īndo, is, ere, indidi, inditum (100) : to put in or on; to introduce;
+    . īndĕ present imperative active 2nd singular
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+    . vēntūrŭs participle future active masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+    . jūdĭcārĕ present indicative passive 2nd singular
+    . jūdĭcārĕ present infinitive active
+    . jūdĭcārĕ present imperative passive 2nd singular
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+    . vīvōs masculine accusative plural
+  - vīvus, i, m. (34) : a living man
+    . vīvōs accusative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭōs participle perfect active masculine accusative plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭōs accusative plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭōs masculine accusative plural
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdō̆ present indicative active 1st singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Spiritum
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭm accusative singular
+* Sanctum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭm neuter nominative singular
+    . sānctŭm neuter accusative singular
+    . sānctŭm masculine accusative singular
+    . sānctŭm neuter vocative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭm participle perfect passive neuter nominative singular
+    . sānctŭm participle perfect passive neuter accusative singular
+    . sānctŭm participle perfect passive masculine accusative singular
+    . sānctŭm participle perfect passive neuter vocative singular
+    . sānctŭm supine in -um
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭm accusative singular
+  - sānctum, i, n. (3) : a holy place
+    . sānctŭm accusative singular
+    . sānctŭm nominative singular
+    . sānctŭm vocative singular
+* sanctam
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctăm feminine accusative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctăm participle perfect passive feminine accusative singular
+* ecclesiam
+  - ēcclē̆sĭa, ae, f. (2) : an assembly of the (Greek) people.
+    . ēcclē̆sĭăm accusative singular
+* sanctorum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctōrŭm neuter genitive plural
+    . sānctōrŭm masculine genitive plural
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctōrŭm participle perfect passive neuter genitive plural
+    . sānctōrŭm participle perfect passive masculine genitive plural
+  - sānctum, i, n. (3) : a holy place
+    . sānctōrŭm genitive plural
+  - sānctŏr, ōris, m. (2) : an establisher, ordainer
+    . sānctōrŭm genitive plural
+* communionem
+  - cōmmūnĭo, ōnis, f. (6) : a communion, mutual participation
+    . cōmmūnĭōnĕm accusative singular
+* remissionem
+  - rĕmīssĭo, ōnis, f. (30) : a sending back, away, releasing
+    . rĕmīssĭōnĕm accusative singular
+* peccatorum
+  - pēccātum, i, n. (98) : a fault, error, mistake, transgression, sin
+    . pēccātōrŭm genitive plural
+  - pēcco, as, are (248) : to sin; to do wrong, commit moral offense; to blunder, stumble; to be wrong;
+    . pēccātōrŭm participle perfect passive neuter genitive plural
+    . pēccātōrŭm participle perfect passive masculine genitive plural
+* carnis
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+    . cārnĭs genitive singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+    . vītăm accusative singular
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnăm feminine accusative singular
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+    . sȳmbŏlŭm accusative singular
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdō̆ present indicative active 1st singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭm neuter nominative singular
+    . ūnŭm neuter accusative singular
+    . ūnŭm masculine accusative singular
+    . ūnŭm neuter vocative singular
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* Patrem
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕm accusative singular
+  - pātro, as, are (30) : to accomplish, bring to completion;
+    . pātrĕm present subjunctive active 1st singular
+* omnipotentem
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēntĕm feminine accusative singular
+    . ōmnĭpŏtēntĕm masculine accusative singular
+* Factorem
+  - fāctŏr, ōris, m. (8) : a maker, doer, performer, perpetrator
+    . fāctōrĕm accusative singular
+* caeli
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelī genitive singular
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelī genitive singular
+    . cāelī nominative plural
+    . cāelī vocative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* terrae
+  - tērra, ae, f. (1737) : earth, land, ground; country, region;
+    . tērrāe genitive singular
+    . tērrāe nominative plural
+    . tērrāe dative singular
+    . tērrāe vocative plural
+* omnium
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnĭŭm neuter genitive plural
+    . ōmnĭŭm feminine genitive plural
+    . ōmnĭŭm masculine genitive plural
+  - ōmne, is, n. : every thing
+    . ōmnĭŭm genitive plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭm neuter nominative singular
+    . ūnŭm neuter accusative singular
+    . ūnŭm masculine accusative singular
+    . ūnŭm neuter vocative singular
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭm accusative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭm accusative singular
+* Iesum
+  - Jēsūs, npr. m. : Jésus
+    . Jēsŭm accusative singular
+* Christum
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstŭm accusative singular
+* Filium
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭm accusative singular
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕī genitive singular
+    . dĕī nominative plural
+    . dĕī vocative plural
+* unigenitum
+  - ūnĭgĕnĭtus, a, um : only begotten; only;
+    . ūnĭgĕnĭtŭm neuter nominative singular
+    . ūnĭgĕnĭtŭm neuter accusative singular
+    . ūnĭgĕnĭtŭm masculine accusative singular
+    . ūnĭgĕnĭtŭm neuter vocative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* natum
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+    . nātŭm accusative singular
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+    . nātŭm participle perfect active neuter nominative singular
+    . nātŭm participle perfect active neuter accusative singular
+    . nātŭm participle perfect active masculine accusative singular
+    . nātŭm participle perfect active neuter vocative singular
+    . nātŭm supine in -um
+  - nātŭs, us, m. (53) : birth;
+    . nātŭm accusative singular
+  - nātus, a, um (76) : born;
+    . nātŭm neuter nominative singular
+    . nātŭm neuter accusative singular
+    . nātŭm masculine accusative singular
+    . nātŭm neuter vocative singular
+  - nō, as, are (43) : to swim, float;
+    . nātŭm participle perfect passive neuter nominative singular
+    . nātŭm participle perfect passive neuter accusative singular
+    . nātŭm participle perfect passive masculine accusative singular
+    . nātŭm participle perfect passive neuter vocative singular
+    . nātŭm supine in -um
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+    . āntĕ ablative singular
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnĭă neuter accusative plural
+    . ōmnĭă neuter nominative plural
+    . ōmnĭă neuter vocative plural
+  - ōmne, is, n. : every thing
+    . ōmnĭă accusative plural
+    . ōmnĭă nominative plural
+    . ōmnĭă vocative plural
+* saecula
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+    . sāecŭlă accusative plural
+    . sāecŭlă nominative plural
+    . sāecŭlă vocative plural
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Deo
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕō ablative singular
+    . dĕō dative singular
+* lumen
+  - lūmĕn, inis, n. (459) : light; lamp, torch; eye (of a person); life; day, daylight;
+    . lūmĕn accusative singular
+    . lūmĕn nominative singular
+    . lūmĕn vocative singular
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* lumine
+  - lūmĕn, inis, n. (459) : light; lamp, torch; eye (of a person); life; day, daylight;
+    . lūmĭnĕ ablative singular
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* verum
+  - vērŭm, conj. (672) : yes; in truth; certainly; truly, to be sure; however; (rare form, usu. vero);
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+    . vērŭm neuter nominative singular
+    . vērŭm neuter accusative singular
+    . vērŭm masculine accusative singular
+    . vērŭm neuter vocative singular
+  - vēr, ēris, n. (100) : spring; spring-time of life, youth; [ver sacrum => sacrifice of spring-born];
+    . vērŭm genitive plural
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Deo
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕō ablative singular
+    . dĕō dative singular
+* vero
+  - vērō, adv. (557) : yes; in truth; certainly; truly, to be sure; however;
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+    . vērō neuter ablative singular
+    . vērō masculine ablative singular
+    . vērō neuter dative singular
+    . vērō masculine dative singular
+* genitum
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+    . gĕnĭtŭm participle perfect passive neuter nominative singular
+    . gĕnĭtŭm participle perfect passive neuter accusative singular
+    . gĕnĭtŭm participle perfect passive masculine accusative singular
+    . gĕnĭtŭm participle perfect passive neuter vocative singular
+    . gĕnĭtŭm supine in -um
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factum
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctŭm participle perfect passive neuter nominative singular
+    . fāctŭm participle perfect passive neuter accusative singular
+    . fāctŭm participle perfect passive masculine accusative singular
+    . fāctŭm participle perfect passive neuter vocative singular
+    . fāctŭm supine in -um
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+    . fāctŭm accusative singular
+    . fāctŭm nominative singular
+    . fāctŭm vocative singular
+  - făcĭo, is, ere, feci, factum (5766) : to make/build/construct/create/cause/do; to have built/made; to fashion; to work (metal);
+    . fāctŭm supine in -um
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+    . fāctŭm accusative singular
+* Patri
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trī dative singular
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trī masculine nominative plural
+    . pā̆trī neuter genitive singular
+    . pā̆trī masculine genitive singular
+    . pā̆trī masculine vocative plural
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+* quem
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quĕm masculine accusative singular
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quĕm masculine accusative singular
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnĭă neuter accusative plural
+    . ōmnĭă neuter nominative plural
+    . ōmnĭă neuter vocative plural
+  - ōmne, is, n. : every thing
+    . ōmnĭă accusative plural
+    . ōmnĭă nominative plural
+    . ōmnĭă vocative plural
+* facta
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctă participle perfect passive feminine nominative singular
+    . fāctā participle perfect passive feminine ablative singular
+    . fāctă participle perfect passive neuter accusative plural
+    . fāctă participle perfect passive neuter nominative plural
+    . fāctă participle perfect passive neuter vocative plural
+    . fāctă participle perfect passive feminine vocative singular
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+    . fāctă accusative plural
+    . fāctă nominative plural
+    . fāctă vocative plural
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sūnt present indicative active 3rd plural
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* propter
+  - prōptĕr, prép. + acc. (802) : near; on account of; by means of; because of;
+* nos
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+    . nōs feminine accusative plural
+    . nōs masculine accusative plural
+    . nōs feminine nominative plural
+    . nōs masculine nominative plural
+* homines
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmĭnēs accusative plural
+    . hŏmĭnēs nominative plural
+    . hŏmĭnēs vocative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* propter
+  - prōptĕr, prép. + acc. (802) : near; on account of; by means of; because of;
+* nostram
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+    . nōstrăm feminine accusative singular
+* salutem
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+    . sălūtĕm accusative singular
+  - sălūto, as, are (105) : to greet; to wish well; to visit; to hail, salute;
+    . sălūtĕm present subjunctive active 1st singular
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+    . dēscēndĭt present indicative active 3rd singular
+    . dēscēndĭt perfect indicative active 3rd singular
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* caelis
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelīs ablative plural
+    . cāelīs dative plural
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelīs ablative plural
+    . cāelīs dative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Spiritu
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtū ablative singular
+* Sancto
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctō neuter ablative singular
+    . sānctō masculine ablative singular
+    . sānctō neuter dative singular
+    . sānctō masculine dative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctō participle perfect passive neuter ablative singular
+    . sānctō participle perfect passive masculine ablative singular
+    . sānctō participle perfect passive neuter dative singular
+    . sānctō participle perfect passive masculine dative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctō ablative singular
+    . Sānctō dative singular
+  - sānctum, i, n. (3) : a holy place
+    . sānctō ablative singular
+    . sānctō dative singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Maria
+  - mărĕ, is, n. (1083) : sea; sea water;
+    . mărĭă accusative plural
+    . mărĭă nominative plural
+    . mărĭă vocative plural
+* virgine
+  - vīrgō, ginis, f. (317) : maiden, young woman, girl of marriageable age; virgin, woman sexually intact;
+    . vīrgĭnĕ ablative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctŭs participle perfect passive masculine nominative singular
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+    . fāctŭs nominative singular
+    . fāctūs accusative plural
+    . fāctūs genitive singular
+    . fāctūs nominative plural
+    . fāctŭs vocative singular
+    . fāctūs vocative plural
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* etiam
+  - ĕtĭăm, adv. : - and also, besides/furthermore, in addition/as well; even, actually; yes/ - now too, as yet, still, even now; yet again; likewise; (particle); (et-iam);
+* pro
+  - prō, prép. + abl. (2110) : on behalf of; before; in front/instead of; for; about; according to; as, like;
+* nobis
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+    . nōbīs feminine ablative plural
+    . nōbīs masculine ablative plural
+    . nōbīs feminine dative plural
+    . nōbīs masculine dative plural
+* sub
+  - sŭb, prép. + acc. / abl. (1055) : under; up to, up under, close to (of motion); until, before, up to, about;
+* Pontio
+  - Pōntĭus, i, m. (9) : Pontius; Roman gens; a Sammite leader; (P~ Pilatus, prefect of Judea 26-36 AD);
+    . Pōntĭō ablative singular
+    . Pōntĭō dative singular
+* Pilato
+  - Pīlātus, i, m. (2) : Pilatus; (Roman cognomen); [Pontius ~ (Pilate) => prefect Judea, 26-36 AD];
+    . Pīlātō ablative singular
+    . Pīlātō dative singular
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+    . pāssŭs participle perfect active masculine nominative singular
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+    . pāssŭs nominative singular
+    . pāssūs accusative plural
+    . pāssūs genitive singular
+    . pāssūs nominative plural
+    . pāssŭs vocative singular
+    . pāssūs vocative plural
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+    . pāssŭs participle perfect passive masculine nominative singular
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+    . pāssŭs masculine nominative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* sepultus
+  - sĕpĕlĭo, is, ire, iui (ii), ultum (64) : to bury/inter; (Romans cremate + inter ashes); to submerge, overcome; to suppress; to ruin;
+    . sĕpūltŭs participle perfect passive masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+    . rĕsūrrēxĭt perfect indicative active 3rd singular
+* tertia
+  - tērtĭus, a, um (447) : the third
+    . tērtĭă feminine nominative singular
+    . tērtĭă neuter accusative plural
+    . tērtĭā feminine ablative singular
+    . tērtĭă neuter nominative plural
+    . tērtĭă feminine vocative singular
+    . tērtĭă neuter vocative plural
+  - tērtĭō, as, are : thirdly;
+    . tērtĭā present imperative active 2nd singular
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+    . dĭē ablative singular
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+    . dīĕ masculine vocative singular
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+    . sĕcūndŭm neuter nominative singular
+    . sĕcūndŭm neuter accusative singular
+    . sĕcūndŭm masculine accusative singular
+    . sĕcūndŭm neuter vocative singular
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* Scripturas
+  - scrībo, is, ere, scripsi, scriptum (711) : to write; to compose;
+    . scrīptūrās participle future active feminine accusative plural
+  - scrīptūra, ae, f. (9) : writing; composition; scripture;
+    . scrīptūrās accusative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+    . āscēndĭt present indicative active 3rd singular
+    . āscēndĭt perfect indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelōs accusative plural
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelōs accusative plural
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+    . sĕdĕt present indicative active 3rd singular
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+    . sēdĕt present subjunctive active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+    . dēxtĕrăm accusative singular
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* iterum
+  - ĭtĕrŭm, adv. (253) : again; a second time; for the second time;
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+    . vēntūrŭs participle future active masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* gloria
+  - glōrĭa, ae, f. (798) : glory, fame; ambition; renown; vainglory, boasting;
+    . glōrĭā ablative singular
+    . glōrĭă nominative singular
+    . glōrĭă vocative singular
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+    . jūdĭcārĕ present indicative passive 2nd singular
+    . jūdĭcārĕ present infinitive active
+    . jūdĭcārĕ present imperative passive 2nd singular
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+    . vīvōs masculine accusative plural
+  - vīvus, i, m. (34) : a living man
+    . vīvōs accusative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭōs participle perfect active masculine accusative plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭōs accusative plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭōs masculine accusative plural
+* cuius
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . cūjŭs neuter genitive singular
+    . cūjŭs feminine genitive singular
+    . cūjŭs masculine genitive singular
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . cūjŭs neuter genitive singular
+    . cūjŭs feminine genitive singular
+    . cūjŭs masculine genitive singular
+* regni
+  - rēgnŭm, i, n. (907) : royal power; power; control; kingdom;
+    . rēgnī genitive singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* erit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ĕrĭt future indicative active 3rd singular
+* finis
+  - fīnĭs, is, m. f. (840) : boundary, end, limit, goal; (pl.) country, territory, land;
+    . fīnĭs nominative singular
+    . fīnīs accusative plural
+    . fīnĭs genitive singular
+    . fīnĭs vocative singular
+  - fīnĭo, is, ire, iui, itum (168) : to limit, end; to finish; to determine, define; to mark out the boundaries;
+    . fīnīs present indicative active 2nd singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Spiritum
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭm accusative singular
+* Sanctum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭm neuter nominative singular
+    . sānctŭm neuter accusative singular
+    . sānctŭm masculine accusative singular
+    . sānctŭm neuter vocative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭm participle perfect passive neuter nominative singular
+    . sānctŭm participle perfect passive neuter accusative singular
+    . sānctŭm participle perfect passive masculine accusative singular
+    . sānctŭm participle perfect passive neuter vocative singular
+    . sānctŭm supine in -um
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭm accusative singular
+  - sānctum, i, n. (3) : a holy place
+    . sānctŭm accusative singular
+    . sānctŭm nominative singular
+    . sānctŭm vocative singular
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭm accusative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭm accusative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* Filioque
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭō + quĕ ablative singular
+    . fīlĭō + quĕ dative singular
+* procedit
+  - prōcēdo, is, ere, cessi, cessum (315) : to proceed; to advance; to appear;
+    . prōcēdĭt present indicative active 3rd singular
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* cum
+  - cŭm, conj. (8916) : when, as, while; since, because, as
+  - cŭm, quŏm, quŭm, prép. + abl. et adv. (5910) : with, together/jointly/along/simultaneous with, amid; supporting; attached;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filio
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭō ablative singular
+    . fīlĭō dative singular
+* simul
+  - sĭmŭl, sĕmŭl, adv. (906) : en même temps, [conj.] dès que
+* adoratur
+  - ădōro, as, are (43) : to honor, adore, worship, pay homage, reverence; to beg, plead with, appeal to;
+    . ădōrātŭr present indicative passive 3rd singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* locutus
+  - lŏquŏr, eris, i, locutus sum (764) : to speak, tell; to talk; to mention; to say, utter; to phrase
+    . lŏcūtŭs participle perfect active masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unam
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnăm feminine accusative singular
+* sanctam
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctăm feminine accusative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctăm participle perfect passive feminine accusative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* ecclesiam
+  - ēcclē̆sĭa, ae, f. (2) : an assembly of the (Greek) people.
+    . ēcclē̆sĭăm accusative singular
+* Confiteor
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+    . cōnfĭtĕŏr present indicative active 1st singular
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭm neuter nominative singular
+    . ūnŭm neuter accusative singular
+    . ūnŭm masculine accusative singular
+    . ūnŭm neuter vocative singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* remissionem
+  - rĕmīssĭo, ōnis, f. (30) : a sending back, away, releasing
+    . rĕmīssĭōnĕm accusative singular
+* peccatorum
+  - pēccātum, i, n. (98) : a fault, error, mistake, transgression, sin
+    . pēccātōrŭm genitive plural
+  - pēcco, as, are (248) : to sin; to do wrong, commit moral offense; to blunder, stumble; to be wrong;
+    . pēccātōrŭm participle perfect passive neuter genitive plural
+    . pēccātōrŭm participle perfect passive masculine genitive plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* exspecto
+  - ēxspēcto, as, are, aui, atum (404) : to lookout for, await; to expect, anticipate, hope for;
+    . ēxspēctō̆ present indicative active 1st singular
+  - ēxpēcto, is, ĕre (182) : peigner avec soin d'après
+    . ēxspēctō̆ present indicative active 1st singular
+* mortuorum
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭōrŭm participle perfect active neuter genitive plural
+    . mōrtŭōrŭm participle perfect active masculine genitive plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭōrŭm genitive plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭōrŭm neuter genitive plural
+    . mōrtŭōrŭm masculine genitive plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+    . vītăm accusative singular
+* venturi
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+    . vēntūrī participle future active masculine nominative plural
+    . vēntūrī participle future active neuter genitive singular
+    . vēntūrī participle future active masculine genitive singular
+    . vēntūrī participle future active masculine vocative plural
+* saeculi
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+    . sāecŭlī genitive singular
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+    . sȳmbŏlŭm accusative singular
+* contra
+  - cōntrā, prép. + acc. (891) : contre
+  - cōntrā, adv. (458) : against, facing, opposite; weighed against; as against; in resistance/reply - contrary to, not in conformance with; the reverse of; otherwise than;
+* scriptum
+  - scrībo, is, ere, scripsi, scriptum (711) : to write; to compose;
+    . scrīptŭm participle perfect passive neuter nominative singular
+    . scrīptŭm participle perfect passive neuter accusative singular
+    . scrīptŭm participle perfect passive masculine accusative singular
+    . scrīptŭm participle perfect passive neuter vocative singular
+    . scrīptŭm supine in -um
+  - scrīptum, i, n. (71) : A line;, a game played with colored stones, on a draught-board marked into spaces by twelve oblique lines
+    . scrīptŭm accusative singular
+    . scrīptŭm nominative singular
+    . scrīptŭm vocative singular
+* Quicunque
+  - quīcūmquĕ, quae-, quod- (-cun-) (551) : Whoever, whatever, whosoever, whatsoever, every one who, every thing that, all that
+    . quīcūnquĕ masculine nominative singular
+    . quīcūnquĕ masculine nominative plural
+* vult
+  - vŏlo, uis, uelle, uolui (3862) : to wish, want, prefer; to be willing, will
+    . vūlt present indicative active 3rd singular
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+    . sālvŭs masculine nominative singular
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēssĕ present infinitive active
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēssĕ present infinitive active
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+    . āntĕ ablative singular
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnĭă neuter accusative plural
+    . ōmnĭă neuter nominative plural
+    . ōmnĭă neuter vocative plural
+  - ōmne, is, n. : every thing
+    . ōmnĭă accusative plural
+    . ōmnĭă nominative plural
+    . ōmnĭă vocative plural
+* opus
+  - ŏpus, indecl. n. (423) : chose nécessaire
+  - ŏpŭs, operis, n. (908) : need; work; fortifications (pl.), works; [opus est => is useful, beneficial];
+    . ŏpŭs accusative singular
+    . ŏpŭs nominative singular
+    . ŏpŭs vocative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* teneat
+  - tĕnĕo, es, ere, ui, tentum (1594) : to represent; to support;
+    . tĕnĕăt present subjunctive active 3rd singular
+* fidem
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+    . fĭdĕm accusative singular
+* Quam
+  - quăm, quāmdĕ, quāndĕ, adv. (5587) : how, than;
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quăm feminine accusative singular
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quăm feminine accusative singular
+* nisi
+  - nĭsĭ, conj. sub. (2334) : if not; except, unless;
+* quisque
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+    . quīsquĕ masculine nominative singular
+* integram
+  - īntĕgĕr, gra, grum (385) : untouched, entire, whole, complete; uninjured, sound, fresh (troops), vigorous;
+    . īntĕgrăm feminine accusative singular
+* inviolatamque
+  - īnvĭŏlātus, a, um (28) : Unhurt, inviolate
+    . īnvĭŏlātăm + quĕ feminine accusative singular
+* servaverit
+  - sērvo, as, are (708) : to watch over; to protect, store, keep, guard, preserve, save;
+    . sērvāvĕrĭt future perfect indicative active 3rd singular
+    . sērvāvĕrĭt perfect subjunctive active 3rd singular
+* absque
+  - ābsquĕ, prép. + abl. : without, apart from, away from; but for; except for; were it not for; (early);
+* dubio
+  - dŭbĭŭm, ii, n. (94) : doubt; question;
+    . dŭbĭō ablative singular
+    . dŭbĭō dative singular
+  - dŭbĭus, a, um (325) : doubtful, dubious, uncertain; variable, dangerous; critical;
+    . dŭbĭō neuter ablative singular
+    . dŭbĭō masculine ablative singular
+    . dŭbĭō neuter dative singular
+    . dŭbĭō masculine dative singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* aeternum
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭm neuter nominative singular
+    . āetērnŭm neuter accusative singular
+    . āetērnŭm masculine accusative singular
+    . āetērnŭm neuter vocative singular
+  - āetērnŭm, adv. (14) : forever
+* peribit
+  - pĕrĕo, is, ire, ii, itum (655) : to die, pass away; to be ruined, be destroyed; to go to waste;
+    . pĕrībĭt future indicative active 3rd singular
+* Fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+    . fĭdēs nominative singular
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative singular
+    . fĭdēs vocative plural
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+    . fīdēs future indicative active 2nd singular
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative plural
+* autem
+  - āutĕm, conj. coord. (2095) : but (postpositive), on the other hand/contrary; while, however; moreover, also;
+* haec
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+    . hāec feminine nominative singular
+    . hāec neuter accusative plural
+    . hāec neuter nominative plural
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭm neuter nominative singular
+    . ūnŭm neuter accusative singular
+    . ūnŭm masculine accusative singular
+    . ūnŭm neuter vocative singular
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+    . ūnĭtātĕ ablative singular
+* veneremur
+  - vĕnĕrŏr, ātus, 1 (85) : to reverence with religious awe, to worship, adore, revere, venerate.
+    . vĕnĕrēmŭr present subjunctive active 1st plural
+  - vĕnĕro, as, are (3) : to adore, revere, do homage to, honor, venerate; to worship; to beg, pray, entreat;
+    . vĕnĕrēmŭr present subjunctive passive 1st plural
+* Neque
+  - nĕquĕ, conj. coord. (3923) : nor [neque..neque=>neither..nor; neque solum..sed etiam=>not only..but also];
+* confundentes
+  - cōnfūndo, is, ere, fudi, fusum (61) : - to pour/mix/mass/bring together; to combine/unite/blend/merge; to spread over, - to upset/confuse; to blur/jumble; to bring disorder/ruin; to disfigure; to bewilder, dismay;
+    . cōnfūndēntēs participle present active feminine accusative plural
+    . cōnfūndēntēs participle present active masculine accusative plural
+    . cōnfūndēntēs participle present active feminine nominative plural
+    . cōnfūndēntēs participle present active masculine nominative plural
+    . cōnfūndēntēs participle present active feminine vocative plural
+    . cōnfūndēntēs participle present active masculine vocative plural
+* personas
+  - pērsōna, ae, f. (126) : mask; character; personality;
+    . pērsōnās accusative plural
+  - pērsŏno, as, are (20) : to make loud/continuous/pervasive noise/loud music; to ring/resound; to chant/shout out;
+    . pērsŏnās present indicative active 2nd singular
+  - pērsŏnus, a, um (2) : resounding, ringing
+    . pērsŏnās feminine accusative plural
+* neque
+  - nĕquĕ, conj. coord. (3923) : nor [neque..neque=>neither..nor; neque solum..sed etiam=>not only..but also];
+* substantiam
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+    . sūbstāntĭăm accusative singular
+* separantes
+  - sēpăro, as, are (62) : to divide, distinguish; separate;
+    . sēpărāntēs participle present active feminine accusative plural
+    . sēpărāntēs participle present active masculine accusative plural
+    . sēpărāntēs participle present active feminine nominative plural
+    . sēpărāntēs participle present active masculine nominative plural
+    . sēpărāntēs participle present active feminine vocative plural
+    . sēpărāntēs participle present active masculine vocative plural
+* Alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+    . ălĭă feminine nominative singular
+    . ălĭā feminine ablative singular
+    . ălĭă neuter accusative plural
+    . ălĭă neuter nominative plural
+    . ălĭă neuter vocative plural
+    . ălĭă feminine vocative singular
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+    . ālĭă accusative plural
+    . ālĭă nominative plural
+    . ālĭă vocative plural
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* enim
+  - ĕnĭm, conj. (4848) : namely (postpos.); indeed; in fact; for; I mean, for instance, that is to say;
+* persona
+  - pērsōna, ae, f. (126) : mask; character; personality;
+    . pērsōnā ablative singular
+    . pērsōnă nominative singular
+    . pērsōnă vocative singular
+  - pērsŏno, as, are (20) : to make loud/continuous/pervasive noise/loud music; to ring/resound; to chant/shout out;
+    . pērsŏnā present imperative active 2nd singular
+  - pērsŏnus, a, um (2) : resounding, ringing
+    . pērsŏnă feminine nominative singular
+    . pērsŏnă neuter accusative plural
+    . pērsŏnā feminine ablative singular
+    . pērsŏnă neuter nominative plural
+    . pērsŏnă feminine vocative singular
+    . pērsŏnă neuter vocative plural
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+    . ălĭă feminine nominative singular
+    . ălĭā feminine ablative singular
+    . ălĭă neuter accusative plural
+    . ălĭă neuter nominative plural
+    . ălĭă neuter vocative plural
+    . ălĭă feminine vocative singular
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+    . ālĭă accusative plural
+    . ālĭă nominative plural
+    . ālĭă vocative plural
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭī genitive singular
+    . fīlĭī nominative plural
+    . fīlĭī vocative plural
+* alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+    . ălĭă feminine nominative singular
+    . ălĭā feminine ablative singular
+    . ălĭă neuter accusative plural
+    . ălĭă neuter nominative plural
+    . ălĭă neuter vocative plural
+    . ălĭă feminine vocative singular
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+    . ālĭă accusative plural
+    . ālĭă nominative plural
+    . ālĭă vocative plural
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctī masculine nominative plural
+    . sānctī neuter genitive singular
+    . sānctī masculine genitive singular
+    . sānctī masculine vocative plural
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctī participle perfect passive masculine nominative plural
+    . sānctī participle perfect passive neuter genitive singular
+    . sānctī participle perfect passive masculine genitive singular
+    . sānctī participle perfect passive masculine vocative plural
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctī genitive singular
+    . Sānctī nominative plural
+    . Sānctī vocative plural
+  - sānctum, i, n. (3) : a holy place
+    . sānctī genitive singular
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭī genitive singular
+    . fīlĭī nominative plural
+    . fīlĭī vocative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctī masculine nominative plural
+    . sānctī neuter genitive singular
+    . sānctī masculine genitive singular
+    . sānctī masculine vocative plural
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctī participle perfect passive masculine nominative plural
+    . sānctī participle perfect passive neuter genitive singular
+    . sānctī participle perfect passive masculine genitive singular
+    . sānctī participle perfect passive masculine vocative plural
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctī genitive singular
+    . Sānctī nominative plural
+    . Sānctī vocative plural
+  - sānctum, i, n. (3) : a holy place
+    . sānctī genitive singular
+* una
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnă feminine nominative singular
+    . ūnă neuter accusative plural
+    . ūnā feminine ablative singular
+    . ūnă neuter nominative plural
+    . ūnă feminine vocative singular
+    . ūnă neuter vocative plural
+  - ūnā, adv. (281) : together, together with; at the same time; along with;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* divinitas
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+    . dīvīnĭtās nominative singular
+    . dīvīnĭtās vocative singular
+* aequalis
+  - āequālĭs, e (60) : comrade; person of one's age/rank/ability, contemporary; equivalent;
+    . āequālĭs feminine nominative singular
+    . āequālĭs masculine nominative singular
+    . āequālīs feminine accusative plural
+    . āequālīs masculine accusative plural
+    . āequālĭs neuter genitive singular
+    . āequālĭs feminine genitive singular
+    . āequālĭs masculine genitive singular
+    . āequālĭs feminine vocative singular
+    . āequālĭs masculine vocative singular
+* gloria
+  - glōrĭa, ae, f. (798) : glory, fame; ambition; renown; vainglory, boasting;
+    . glōrĭā ablative singular
+    . glōrĭă nominative singular
+    . glōrĭă vocative singular
+* maiestas
+  - mājēstās, atis, f. (150) : - majesty, dignity (of god/rank/position); majesty of people/state; - grandeur, greatness; dignity/majesty (of language);
+    . mājēstās nominative singular
+    . mājēstās vocative singular
+* Qualis
+  - quālĭs, e (150) : what kind/sort/condition (of); what is (he/it) like; what/how excellent a ...;
+    . quālĭs feminine nominative singular
+    . quālĭs masculine nominative singular
+    . quālīs feminine accusative plural
+    . quālīs masculine accusative plural
+    . quālĭs neuter genitive singular
+    . quālĭs feminine genitive singular
+    . quālĭs masculine genitive singular
+    . quālĭs feminine vocative singular
+    . quālĭs masculine vocative singular
+  - quālus, i, m. (10) : a wicker basket, hamper, a fruit-hamper, wool-basket, winestrainer
+    . quālīs ablative plural
+    . quālīs dative plural
+  - quālum, i, n. (5) : corbeille, panier
+    . quālīs ablative plural
+    . quālīs dative plural
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* talis
+  - tālĭs, e (441) : such; so great; so excellent; of such kind;
+    . tālĭs feminine nominative singular
+    . tālĭs masculine nominative singular
+    . tālīs feminine accusative plural
+    . tālīs masculine accusative plural
+    . tālĭs neuter genitive singular
+    . tālĭs feminine genitive singular
+    . tālĭs masculine genitive singular
+    . tālĭs feminine vocative singular
+    . tālĭs masculine vocative singular
+  - tālus, i, m. (39) : ankle; ankle/pastern bone; sheep knucklebone (marked for dice); dice game
+    . tālīs ablative plural
+    . tālīs dative plural
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* talis
+  - tālĭs, e (441) : such; so great; so excellent; of such kind;
+    . tālĭs feminine nominative singular
+    . tālĭs masculine nominative singular
+    . tālīs feminine accusative plural
+    . tālīs masculine accusative plural
+    . tālĭs neuter genitive singular
+    . tālĭs feminine genitive singular
+    . tālĭs masculine genitive singular
+    . tālĭs feminine vocative singular
+    . tālĭs masculine vocative singular
+  - tālus, i, m. (39) : ankle; ankle/pastern bone; sheep knucklebone (marked for dice); dice game
+    . tālīs ablative plural
+    . tālīs dative plural
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+    . īmmēnsŭs masculine nominative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+    . īmmēnsŭs masculine nominative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+    . īmmēnsŭs masculine nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭs masculine nominative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭs masculine nominative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭs masculine nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* aeterni
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnī masculine nominative plural
+    . āetērnī neuter genitive singular
+    . āetērnī masculine genitive singular
+    . āetērnī masculine vocative plural
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭs masculine nominative singular
+* Sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* immensi
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+    . īmmēnsī masculine nominative plural
+    . īmmēnsī neuter genitive singular
+    . īmmēnsī masculine genitive singular
+    . īmmēnsī masculine vocative plural
+  - īmmēnsum, i, n. (18) : a boundless extent, immense size, boundlessness, immensity
+    . īmmēnsī genitive singular
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+    . īmmēnsŭs masculine nominative singular
+* Similiter
+  - sĭmĭlĭtĕr, adv. (20) : similarly;
+    . sĭmĭlĭtĕr positive 
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēns feminine nominative singular
+    . ōmnĭpŏtēns masculine nominative singular
+    . ōmnĭpŏtēns feminine vocative singular
+    . ōmnĭpŏtēns masculine vocative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēns feminine nominative singular
+    . ōmnĭpŏtēns masculine nominative singular
+    . ōmnĭpŏtēns feminine vocative singular
+    . ōmnĭpŏtēns masculine vocative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēns feminine nominative singular
+    . ōmnĭpŏtēns masculine nominative singular
+    . ōmnĭpŏtēns feminine vocative singular
+    . ōmnĭpŏtēns masculine vocative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* omnipotentes
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēntēs feminine accusative plural
+    . ōmnĭpŏtēntēs masculine accusative plural
+    . ōmnĭpŏtēntēs feminine nominative plural
+    . ōmnĭpŏtēntēs masculine nominative plural
+    . ōmnĭpŏtēntēs feminine vocative plural
+    . ōmnĭpŏtēntēs masculine vocative plural
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēns feminine nominative singular
+    . ōmnĭpŏtēns masculine nominative singular
+    . ōmnĭpŏtēns feminine vocative singular
+    . ōmnĭpŏtēns masculine vocative singular
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Dii
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĭī nominative plural
+    . dĭī vocative plural
+  - Dĭŏn, ii, n. (9) : Dium (ville de Crète)
+    . Dĭī genitive singular
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+    . dīī masculine nominative plural
+    . dīī neuter genitive singular
+    . dīī masculine genitive singular
+    . dīī masculine vocative plural
+  - Dĭos, i, m. (2) : marron
+    . Dĭī genitive singular
+    . Dĭī nominative plural
+    . Dĭī vocative plural
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sūnt present indicative active 3rd plural
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭs nominative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭs nominative singular
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭs nominative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭs nominative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭs nominative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭs nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Domini
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnī genitive singular
+    . dŏmĭnī nominative plural
+    . dŏmĭnī vocative plural
+  - dŏmĭnĭŭm, ii, n. (13) : rule, dominion; ownership; banquet, feast;
+    . dŏmĭnī genitive singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnī genitive singular
+    . Dŏmĭnī nominative plural
+    . Dŏmĭnī vocative plural
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭs nominative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭs nominative singular
+* Quia
+  - quĭă, conj. sub. (1850) : because;
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* singulatim
+  - sīngīllātĭm, sīngŭlātĭm, adv. (21) : one by one, singly, separately;
+* unamquamque
+  - ūnūsquīsque, unaquaeque, unumquodque : each, every, every body, every one, every thing
+    . ūnāmquāmquĕ feminine accusative singular
+* personam
+  - pērsōna, ae, f. (126) : mask; character; personality;
+    . pērsōnăm accusative singular
+  - pērsŏnus, a, um (2) : resounding, ringing
+    . pērsŏnăm feminine accusative singular
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* ac
+  - āc, conj. coord. (5185) : and, and also, and besides;
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭm accusative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭm accusative singular
+* confiteri
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+    . cōnfĭtērī present infinitive active
+* christiana
+  - Chrīstĭānus, a, um : Christian;
+    . Chrīstĭānă feminine nominative singular
+    . Chrīstĭānă neuter accusative plural
+    . Chrīstĭānā feminine ablative singular
+    . Chrīstĭānă neuter nominative plural
+    . Chrīstĭānă feminine vocative singular
+    . Chrīstĭānă neuter vocative plural
+* veritate
+  - vērĭtās, atis, f. (167) : - truth, fact, accuracy; honesty, truthfulness, frankness; sincerity, - reality, that which is real; real life, actuality; true nature; correctness;
+    . vērĭtātĕ ablative singular
+* compellimur
+  - cōmpēllo, is, ere, puli, pulsum (80) : to drive together (cattle), round up; to force, compel, impel, drive; to squeeze; to gnash;
+    . cōmpēllĭmŭr present indicative passive 1st plural
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Deos
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕōs accusative plural
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Dominos
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnōs accusative plural
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnōs accusative plural
+* dicere
+  - dīco, is, ere, dixi, dictum (7210) : to say, declare, state; to allege, declare positively; to assert; to plead (case); to mean;
+    . dīcĕrĕ present indicative passive 2nd singular
+    . dīcĕrĕ present infinitive active
+    . dīcērĕ future indicative passive 2nd singular
+    . dīcĕrĕ present imperative passive 2nd singular
+  - dĭco, as, are (42) : to dedicate, consecrate, devote any thing to a deity; to deify
+    . dĭcērĕ present subjunctive passive 2nd singular
+* religione
+  - rĕlĭgĭō̆, rēllĭgĭo, onis, f. (444) : - supernatural constraint/taboo; obligation; sanction; worship; rite; sanctity; (Bee);
+    . rĕlĭgĭōnĕ ablative singular
+* prohibemur
+  - prŏhĭbĕo, es, ere, bui, bitum (416) : to hinder, restrain; to forbid, prevent;
+    . prŏhĭbēmŭr present indicative passive 1st plural
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* nullo
+  - nēmō̆, nullius, nt. nihil, nil (rart. neminis), pron. (4731) : nobody
+    . nūllō feminine ablative singular
+    . nūllō masculine ablative singular
+  - nūllŭs, a, um (2757) : no; none, not any; (PRONominal ADJ)
+    . nūllō neuter ablative singular
+    . nūllō masculine ablative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctŭs participle perfect passive masculine nominative singular
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+    . fāctŭs nominative singular
+    . fāctūs accusative plural
+    . fāctūs genitive singular
+    . fāctūs nominative plural
+    . fāctŭs vocative singular
+    . fāctūs vocative plural
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+    . crĕātŭs participle perfect passive masculine nominative singular
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+    . gĕnĭtŭs participle perfect passive masculine nominative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* solo
+  - sŏlŭm, i, n. (264) : only/just/merely/barely/alone;
+    . sŏlō ablative singular
+    . sŏlō dative singular
+  - sōlus, a, um (91) : only, single; lonely; alone, having no companion/friend/protector; unique;
+    . sōlō neuter ablative singular
+    . sōlō masculine ablative singular
+  - sōlo, as, are (2) : to make lonely, desolate; to lay waste, desolate
+    . sōlō̆ present indicative active 1st singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctŭs participle perfect passive masculine nominative singular
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+    . fāctŭs nominative singular
+    . fāctūs accusative plural
+    . fāctūs genitive singular
+    . fāctūs nominative plural
+    . fāctŭs vocative singular
+    . fāctūs vocative plural
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+    . crĕātŭs participle perfect passive masculine nominative singular
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+    . gĕnĭtŭs participle perfect passive masculine nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filio
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭō ablative singular
+    . fīlĭō dative singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctŭs participle perfect passive masculine nominative singular
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+    . fāctŭs nominative singular
+    . fāctūs accusative plural
+    . fāctūs genitive singular
+    . fāctūs nominative plural
+    . fāctŭs vocative singular
+    . fāctūs vocative plural
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+    . crĕātŭs participle perfect passive masculine nominative singular
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+    . gĕnĭtŭs participle perfect passive masculine nominative singular
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* procedens
+  - prōcēdo, is, ere, cessi, cessum (315) : to proceed; to advance; to appear;
+    . prōcēdēns participle present active neuter nominative singular
+    . prōcēdēns participle present active feminine nominative singular
+    . prōcēdēns participle present active masculine nominative singular
+    . prōcēdēns participle present active neuter accusative singular
+    . prōcēdēns participle present active neuter vocative singular
+    . prōcēdēns participle present active feminine vocative singular
+    . prōcēdēns participle present active masculine vocative singular
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pătĕr nominative singular
+    . pătĕr vocative singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Patres
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trēs accusative plural
+    . pā̆trēs nominative plural
+    . pā̆trēs vocative plural
+  - pātro, as, are (30) : to accomplish, bring to completion;
+    . pātrēs present subjunctive active 2nd singular
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭī genitive singular
+    . fīlĭī nominative plural
+    . fīlĭī vocative plural
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctŭs masculine nominative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctŭs participle perfect passive masculine nominative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctŭs nominative singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+    . spīrĭtŭs nominative singular
+    . spīrĭtūs accusative plural
+    . spīrĭtūs genitive singular
+    . spīrĭtūs nominative plural
+    . spīrĭtŭs vocative singular
+    . spīrĭtūs vocative plural
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctī masculine nominative plural
+    . sānctī neuter genitive singular
+    . sānctī masculine genitive singular
+    . sānctī masculine vocative plural
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctī participle perfect passive masculine nominative plural
+    . sānctī participle perfect passive neuter genitive singular
+    . sānctī participle perfect passive masculine genitive singular
+    . sānctī participle perfect passive masculine vocative plural
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctī genitive singular
+    . Sānctī nominative plural
+    . Sānctī vocative plural
+  - sānctum, i, n. (3) : a holy place
+    . sānctī genitive singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* hac
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+    . hāc feminine ablative singular
+  - hāc, adv. (94) : in this place
+* nihil
+  - nĭhĭl, pron. (2000) : rien
+    . nĭhĭl neuter nominative singular
+    . nĭhĭl neuter accusative singular
+* prius
+  - prĭŭs, adv. : earlier times/events/actions; a logically prior proposition
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* posterius
+  - pōstĕrus, a, um (295) : coming after, following, next; COMP next in order, latter; SUPER last/hindmost
+    . pōstĕrĭŭs neuter nominative singular comparative
+    . pōstĕrĭŭs neuter accusative singular comparative
+    . pōstĕrĭŭs neuter vocative singular comparative
+  - pōstĕrĭŭs, adv. (20) : later, at a later day; by and by;
+* nihil
+  - nĭhĭl, pron. (2000) : rien
+    . nĭhĭl neuter nominative singular
+    . nĭhĭl neuter accusative singular
+* maius
+  - māgnus, a, um (6056) : - large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/ - great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+    . mājŭs neuter nominative singular comparative
+    . mājŭs neuter accusative singular comparative
+    . mājŭs neuter vocative singular comparative
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* minus
+  - mĭnŭs, adv. (888) : less; not so well; not quite;
+  - pārvus, a, um (1267) : small, little, cheap; unimportant; (SUPER) smallest, least;
+    . mĭnŭs neuter nominative singular comparative
+    . mĭnŭs neuter accusative singular comparative
+    . mĭnŭs neuter vocative singular comparative
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* totae
+  - tōtus, a, um : whole, all, entire, total, complete; every part; all together/at once;
+    . tōtāe feminine nominative plural
+    . tōtāe feminine vocative plural
+* tres
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
+* personae
+  - pērsōna, ae, f. (126) : mask; character; personality;
+    . pērsōnāe genitive singular
+    . pērsōnāe nominative plural
+    . pērsōnāe dative singular
+    . pērsōnāe vocative plural
+  - pērsŏnus, a, um (2) : resounding, ringing
+    . pērsŏnāe feminine nominative plural
+    . pērsŏnāe feminine genitive singular
+    . pērsŏnāe feminine dative singular
+    . pērsŏnāe feminine vocative plural
+* sibi
+  - sē, sui, pron. réfl. (9722) : himself, herself, itself, themselves
+    . sĭbī neuter dative singular
+    . sĭbī feminine dative singular
+    . sĭbī masculine dative singular
+    . sĭbī neuter dative plural
+    . sĭbī feminine dative plural
+    . sĭbī masculine dative plural
+  - sĭbus, a, um (2) : fin, avisé
+    . sĭbī masculine nominative plural
+    . sĭbī neuter genitive singular
+    . sĭbī masculine genitive singular
+    . sĭbī masculine vocative plural
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sūnt present indicative active 3rd plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* coaequales
+  - cŏāequālĭs, e (2) : one of same age, contemporary; comrade/companion of same age (L+S);
+    . cŏāequālēs feminine accusative plural
+    . cŏāequālēs masculine accusative plural
+    . cŏāequālēs feminine nominative plural
+    . cŏāequālēs masculine nominative plural
+    . cŏāequālēs feminine vocative plural
+    . cŏāequālēs masculine vocative plural
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnĭă neuter accusative plural
+    . ōmnĭă neuter nominative plural
+    . ōmnĭă neuter vocative plural
+  - ōmne, is, n. : every thing
+    . ōmnĭă accusative plural
+    . ōmnĭă nominative plural
+    . ōmnĭă vocative plural
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* iam
+  - jăm, jāmjăm, adv. (4207) : now, already, by/even now; besides; [non ~ => no longer; ~ pridem => long ago];
+* supra
+  - sū̆prā, adv. (161) : above, beyond; over; more than; in charge of, in authority over;
+* dictum
+  - dīco, is, ere, dixi, dictum (7210) : to say, declare, state; to allege, declare positively; to assert; to plead (case); to mean;
+    . dīctŭm participle perfect passive neuter nominative singular
+    . dīctŭm participle perfect passive neuter accusative singular
+    . dīctŭm participle perfect passive masculine accusative singular
+    . dīctŭm participle perfect passive neuter vocative singular
+    . dīctŭm supine in -um
+  - dīctŭm, i, n. (352) : words/utterance/remark; one's word/promise; saying/maxim; bon mot, witticism;
+    . dīctŭm accusative singular
+    . dīctŭm nominative singular
+    . dīctŭm vocative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+    . ūnĭtātĕ ablative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unitas
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+    . ūnĭtās nominative singular
+    . ūnĭtās vocative singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* veneranda
+  - vĕnĕrāndus, a, um (19) : vénérable, respectable
+    . vĕnĕrāndă feminine nominative singular
+    . vĕnĕrāndă neuter accusative plural
+    . vĕnĕrāndā feminine ablative singular
+    . vĕnĕrāndă neuter nominative plural
+    . vĕnĕrāndă feminine vocative singular
+    . vĕnĕrāndă neuter vocative plural
+  - vĕnĕro, as, are (3) : to adore, revere, do homage to, honor, venerate; to worship; to beg, pray, entreat;
+    . vĕnĕrāndă gerundive feminine nominative singular
+    . vĕnĕrāndā gerundive feminine ablative singular
+    . vĕnĕrāndă gerundive neuter accusative plural
+    . vĕnĕrāndă gerundive neuter nominative plural
+    . vĕnĕrāndă gerundive neuter vocative plural
+    . vĕnĕrāndă gerundive feminine vocative singular
+* sit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sĭt present subjunctive active 3rd singular
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* vult
+  - vŏlo, uis, uelle, uolui (3862) : to wish, want, prefer; to be willing, will
+    . vūlt present indicative active 3rd singular
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+    . sālvŭs masculine nominative singular
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēssĕ present infinitive active
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēssĕ present infinitive active
+* ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* sentiat
+  - sēntĭo, is, ire, sensi, sensum (883) : to perceive, feel, experience; to think, realize, see, understand;
+    . sēntĭăt present subjunctive active 3rd singular
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* necessarium
+  - nĕcēssārĭus, a, um (279) : necessary/needed/essential/indispensable; vital/private (body part); close - inevitable, fateful; urgent/critical; unavoidable/compulsory; natural
+    . nĕcēssārĭŭm neuter nominative singular
+    . nĕcēssārĭŭm neuter accusative singular
+    . nĕcēssārĭŭm masculine accusative singular
+    . nĕcēssārĭŭm neuter vocative singular
+  - nĕcēssārĭus, i, m. (78) : relative; connection, one closely connected by friendship/family/obligation
+    . nĕcēssārĭŭm accusative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnăm feminine accusative singular
+* salutum
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+    . sălūtŭm genitive plural
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* quoque
+  - quŏquĕ, adv. (2291) : likewise/besides/also/too; not only; even/actually; (after word emphasized);
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+    . quōquĕ neuter ablative singular
+    . quōquĕ masculine ablative singular
+* Domini
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnī genitive singular
+    . dŏmĭnī nominative plural
+    . dŏmĭnī vocative plural
+  - dŏmĭnĭŭm, ii, n. (13) : rule, dominion; ownership; banquet, feast;
+    . dŏmĭnī genitive singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnī genitive singular
+    . Dŏmĭnī nominative plural
+    . Dŏmĭnī vocative plural
+* nostri
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+    . nōstrī masculine nominative plural
+    . nōstrī neuter genitive singular
+    . nōstrī masculine genitive singular
+    . nōstrī masculine vocative plural
+* Iesu
+  - Jēsūs, npr. m. : Jésus
+    . Jēsū ablative singular
+    . Jēsū genitive singular
+    . Jēsū dative singular
+    . Jēsū vocative singular
+* Christi
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstī genitive singular
+    . Chrīstī nominative plural
+    . Chrīstī vocative plural
+* fideliter
+  - fĭdēlĭtĕr, adv. (24) : with reliance on God;
+    . fĭdēlĭtĕr positive 
+* credat
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdăt present subjunctive active 3rd singular
+* Est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+    . fĭdēs nominative singular
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative singular
+    . fĭdēs vocative plural
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+    . fīdēs future indicative active 2nd singular
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative plural
+* recta
+  - rĕgo, is, ere, rexi, rectum (296) : to rule, guide; to manage, direct;
+    . rēctă participle perfect passive feminine nominative singular
+    . rēctā participle perfect passive feminine ablative singular
+    . rēctă participle perfect passive neuter accusative plural
+    . rēctă participle perfect passive neuter nominative plural
+    . rēctă participle perfect passive neuter vocative plural
+    . rēctă participle perfect passive feminine vocative singular
+  - rēctus, a, um (252) : right, proper; straight; honest;
+    . rēctă feminine nominative singular
+    . rēctă neuter accusative plural
+    . rēctā feminine ablative singular
+    . rēctă neuter nominative plural
+    . rēctă feminine vocative singular
+    . rēctă neuter vocative plural
+  - rēctā, adv. (16) : directly, straight;
+  - rēctum, i, n. (63) : that which is right, good, virtuous; uprightness, rectitude, virtue, subjective-clause
+    . rēctă accusative plural
+    . rēctă nominative plural
+    . rēctă vocative plural
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* credamus
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdāmŭs present subjunctive active 1st plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* confiteamur
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+    . cōnfĭtĕāmŭr present subjunctive active 1st plural
+* quod
+  - quŏd, conj. sub. (3725) : That, in that, because; Wherefore, why, that
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quŏd neuter nominative singular
+    . quŏd neuter accusative singular
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+    . dŏmĭnŭs nominative singular
+  - Dŏmĭnus, i, m. : Seigneur
+    . Dŏmĭnŭs nominative singular
+* noster
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+    . nōstĕr masculine nominative singular
+    . nōstĕr masculine vocative singular
+* Iesus
+  - Jēsūs, npr. m. : Jésus
+    . Ĭēsūs nominative singular
+    . Jēsūs nominative singular
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstŭs nominative singular
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕī genitive singular
+    . dĕī nominative plural
+    . dĕī vocative plural
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+    . fīlĭŭs nominative singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* substantia
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+    . sūbstāntĭā ablative singular
+    . sūbstāntĭă nominative singular
+    . sūbstāntĭă vocative singular
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+    . āntĕ ablative singular
+* saecula
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+    . sāecŭlă accusative plural
+    . sāecŭlă nominative plural
+    . sāecŭlă vocative plural
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+    . gĕnĭtŭs participle perfect passive masculine nominative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* substantia
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+    . sūbstāntĭā ablative singular
+    . sūbstāntĭă nominative singular
+    . sūbstāntĭă vocative singular
+* matris
+  - mātĕr, tris, f. (992) : mother, foster mother; lady, matron; origin, source, motherland, mother city;
+    . mātrĭs genitive singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* saeculo
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+    . sāecŭlō ablative singular
+    . sāecŭlō dative singular
+* natus
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+    . nātŭs nominative singular
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+    . nātŭs participle perfect active masculine nominative singular
+  - nātŭs, us, m. (53) : birth;
+    . nātŭs nominative singular
+    . nātūs accusative plural
+    . nātūs genitive singular
+    . nātūs nominative plural
+    . nātŭs vocative singular
+    . nātūs vocative plural
+  - nātus, a, um (76) : born;
+    . nātŭs masculine nominative singular
+  - nō, as, are (43) : to swim, float;
+    . nātŭs participle perfect passive masculine nominative singular
+* Perfectus
+  - pērfĭcĭo, is, ere, feci, fectum (182) : to complete, finish; execute; to bring about, accomplish; to do thoroughly;
+    . pērfēctŭs participle perfect passive masculine nominative singular
+  - pērfēctus, a, um (113) : perfect, complete; excellent;
+    . pērfēctŭs masculine nominative singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* perfectus
+  - pērfĭcĭo, is, ere, feci, fectum (182) : to complete, finish; execute; to bring about, accomplish; to do thoroughly;
+    . pērfēctŭs participle perfect passive masculine nominative singular
+  - pērfēctus, a, um (113) : perfect, complete; excellent;
+    . pērfēctŭs masculine nominative singular
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* anima
+  - ănĭma, ae, f. (351) : soul, spirit, vital principle; life; breathing; wind, breeze; air (element);
+    . ănĭmā ablative singular
+    . ănĭmă nominative singular
+    . ănĭmă vocative singular
+  - ănĭmo, as, are (3) : to animate, give/bring life; to revive, refresh; to rouse, animate; to inspire; to blow;
+    . ănĭmā present imperative active 2nd singular
+* rationali
+  - rătiōnālĭs, e (36) : raisonnable, doué de raison
+    . rătī̆ōnālī neuter ablative singular
+    . rătī̆ōnālī feminine ablative singular
+    . rătī̆ōnālī masculine ablative singular
+    . rătī̆ōnālī neuter dative singular
+    . rătī̆ōnālī feminine dative singular
+    . rătī̆ōnālī masculine dative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* humana
+  - hūmānus, a, um (567) : human; kind; humane, civilized, refined; [~ hostiae => human sacrifice];
+    . hūmānă feminine nominative singular
+    . hūmānă neuter accusative plural
+    . hūmānā feminine ablative singular
+    . hūmānă neuter nominative plural
+    . hūmānă feminine vocative singular
+    . hūmānă neuter vocative plural
+  - hūmāna, orum, n. (50) : human affairs, the concerns of men, events of life.
+    . hūmānă accusative plural
+    . hūmānă nominative plural
+    . hūmānă vocative plural
+  - hūmānum, i, n. (5) : that which is human, mortal, Dae.
+    . hūmānă accusative plural
+    . hūmānă nominative plural
+    . hūmānă vocative plural
+* carne
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+    . cārnĕ ablative singular
+* subsistens
+  - sūbsīsto, is, ere, stiti, - (77) : to halt, stand; to cause to stop;
+    . sūbsīstēns participle present active neuter nominative singular
+    . sūbsīstēns participle present active feminine nominative singular
+    . sūbsīstēns participle present active masculine nominative singular
+    . sūbsīstēns participle present active neuter accusative singular
+    . sūbsīstēns participle present active neuter vocative singular
+    . sūbsīstēns participle present active feminine vocative singular
+    . sūbsīstēns participle present active masculine vocative singular
+* Aequalis
+  - āequālĭs, e (60) : comrade; person of one's age/rank/ability, contemporary; equivalent;
+    . āequālĭs feminine nominative singular
+    . āequālĭs masculine nominative singular
+    . āequālīs feminine accusative plural
+    . āequālīs masculine accusative plural
+    . āequālĭs neuter genitive singular
+    . āequālĭs feminine genitive singular
+    . āequālĭs masculine genitive singular
+    . āequālĭs feminine vocative singular
+    . āequālĭs masculine vocative singular
+* Patri
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trī dative singular
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trī masculine nominative plural
+    . pā̆trī neuter genitive singular
+    . pā̆trī masculine genitive singular
+    . pā̆trī masculine vocative plural
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+    . sĕcūndŭm neuter nominative singular
+    . sĕcūndŭm neuter accusative singular
+    . sĕcūndŭm masculine accusative singular
+    . sĕcūndŭm neuter vocative singular
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* divinitatem
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+    . dīvīnĭtātĕm accusative singular
+* minor
+  - pārvus, a, um (1267) : small, little, cheap; unimportant; (SUPER) smallest, least;
+    . mĭnŏr feminine nominative singular comparative
+    . mĭnŏr masculine nominative singular comparative
+    . mĭnŏr feminine vocative singular comparative
+    . mĭnŏr masculine vocative singular comparative
+  - mĭnŏr, aris, ari, atus sum : to threaten, menace one with any thing
+    . mĭnŏr present indicative active 1st singular
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĕ ablative singular
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+    . sĕcūndŭm neuter nominative singular
+    . sĕcūndŭm neuter accusative singular
+    . sĕcūndŭm masculine accusative singular
+    . sĕcūndŭm neuter vocative singular
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* humanitatem
+  - hūmānĭtās, atis, f. (160) : human nature/character/feeling; kindness/courtesy; culture/civilization;
+    . hūmānĭtātĕm accusative singular
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* licet
+  - lĭcĕo, v. impers. (1326) : to bid on/for, bid, bid at auction; to make a bid;
+    . lĭcĕt present indicative active 3rd singular
+  - lĭcĕt, adv. conj. (183) : non traduit / Translation not available.
+  - lĭcĕt, licere, licuit, impers. : although, granted that; (with subjunctive);
+    . lĭcĕt present indicative active 3rd singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* sit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sĭt present subjunctive active 3rd singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* duo
+  - dŭŏ, ae, o, pl. (1290) : two (pl.);
+    . dŭŏ neuter accusative plural
+    . dŭŏ neuter nominative plural
+    . dŭŏ masculine nominative plural
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstŭs nominative singular
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* autem
+  - āutĕm, conj. coord. (2095) : but (postpositive), on the other hand/contrary; while, however; moreover, also;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* conversione
+  - cōnvērsĭo, ōnis, f. (8) : a turning round, revolving, revolution
+    . cōnvērsĭōnĕ ablative singular
+* divinitatis
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+    . dīvīnĭtātĭs genitive singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* carnem
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+    . cārnĕm accusative singular
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* humanitatis
+  - hūmānĭtās, atis, f. (160) : human nature/character/feeling; kindness/courtesy; culture/civilization;
+    . hūmānĭtātĭs genitive singular
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭm accusative singular
+    . dĕŭm genitive plural
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* omnino
+  - ōmnīnō, adv. (375) : entirely, altogether; [after negatives/with numerals => at all/in all];
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* confusione
+  - cōnfūsĭō̆, ionis, f. (19) : mingling/mixture/union; confusion/confounding/disorder; trouble; blushing/
+    . cōnfūsĭōnĕ ablative singular
+* substantiae
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+    . sūbstāntĭāe genitive singular
+    . sūbstāntĭāe nominative plural
+    . sūbstāntĭāe dative singular
+    . sūbstāntĭāe vocative plural
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+    . ūnĭtātĕ ablative singular
+* personae
+  - pērsōna, ae, f. (126) : mask; character; personality;
+    . pērsōnāe genitive singular
+    . pērsōnāe nominative plural
+    . pērsōnāe dative singular
+    . pērsōnāe vocative plural
+  - pērsŏnus, a, um (2) : resounding, ringing
+    . pērsŏnāe feminine nominative plural
+    . pērsŏnāe feminine genitive singular
+    . pērsŏnāe feminine dative singular
+    . pērsŏnāe feminine vocative plural
+* Nam
+  - năm, conj. (2998) : for, on the other hand; for instance;
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* anima
+  - ănĭma, ae, f. (351) : soul, spirit, vital principle; life; breathing; wind, breeze; air (element);
+    . ănĭmā ablative singular
+    . ănĭmă nominative singular
+    . ănĭmă vocative singular
+  - ănĭmo, as, are (3) : to animate, give/bring life; to revive, refresh; to rouse, animate; to inspire; to blow;
+    . ănĭmā present imperative active 2nd singular
+* rationalis
+  - rătiōnālĭs, e (36) : raisonnable, doué de raison
+    . rătī̆ōnālĭs feminine nominative singular
+    . rătī̆ōnālĭs masculine nominative singular
+    . rătī̆ōnālīs feminine accusative plural
+    . rătī̆ōnālīs masculine accusative plural
+    . rătī̆ōnālĭs neuter genitive singular
+    . rătī̆ōnālĭs feminine genitive singular
+    . rătī̆ōnālĭs masculine genitive singular
+    . rătī̆ōnālĭs feminine vocative singular
+    . rătī̆ōnālĭs masculine vocative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* caro
+  - căvĕo, es, ere, caui, cautum (326) : to beware, avoid, take precautions/defensive action; to give/get surety; to stipulate;
+    . cārō̆ future perfect indicative active 1st singular
+  - cārus, chārus, a, um (406) : dear, beloved; costly, precious, valued; high-priced, expensive;
+    . cārō neuter ablative singular
+    . cārō masculine ablative singular
+    . cārō neuter dative singular
+    . cārō masculine dative singular
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+    . cărō̆ nominative singular
+    . cărō̆ vocative singular
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+    . ĭtā present imperative active 2nd singular
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕŭs nominative singular
+    . dĕŭs vocative singular
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmō̆ nominative singular
+    . hŏmō̆ vocative singular
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+    . ūnŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+    . Chrīstŭs nominative singular
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+    . pāssŭs participle perfect active masculine nominative singular
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+    . pāssŭs nominative singular
+    . pāssūs accusative plural
+    . pāssūs genitive singular
+    . pāssūs nominative plural
+    . pāssŭs vocative singular
+    . pāssūs vocative plural
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+    . pāssŭs participle perfect passive masculine nominative singular
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+    . pāssŭs masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* pro
+  - prō, prép. + abl. (2110) : on behalf of; before; in front/instead of; for; about; according to; as, like;
+* nostra
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+    . nōstră feminine nominative singular
+    . nōstră neuter accusative plural
+    . nōstrā feminine ablative singular
+    . nōstră neuter nominative plural
+    . nōstră feminine vocative singular
+    . nōstră neuter vocative plural
+* salute
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+    . sălūtĕ ablative singular
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+    . dēscēndĭt present indicative active 3rd singular
+    . dēscēndĭt perfect indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* inferos
+  - īnfĕri, orum, m. (55) : Comp.
+    . īnfĕrōs accusative plural
+  - īnfĕr, era, erum (8) : qui est au-dessous, inférieur
+    . īnfĕrōs masculine accusative plural
+  - īnfĕrus, a, um : below, beneath, underneath; of hell; vile; lower, further down; lowest, last;
+    . īnfĕrōs masculine accusative plural
+* tertia
+  - tērtĭus, a, um (447) : the third
+    . tērtĭă feminine nominative singular
+    . tērtĭă neuter accusative plural
+    . tērtĭā feminine ablative singular
+    . tērtĭă neuter nominative plural
+    . tērtĭă feminine vocative singular
+    . tērtĭă neuter vocative plural
+  - tērtĭō, as, are : thirdly;
+    . tērtĭā present imperative active 2nd singular
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+    . dĭē ablative singular
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+    . dīĕ masculine vocative singular
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+    . rĕsūrrēxĭt perfect indicative active 3rd singular
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* mortuis
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭīs participle perfect active neuter ablative plural
+    . mōrtŭīs participle perfect active feminine ablative plural
+    . mōrtŭīs participle perfect active masculine ablative plural
+    . mōrtŭīs participle perfect active neuter dative plural
+    . mōrtŭīs participle perfect active feminine dative plural
+    . mōrtŭīs participle perfect active masculine dative plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭīs ablative plural
+    . mōrtŭīs dative plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭīs neuter ablative plural
+    . mōrtŭīs feminine ablative plural
+    . mōrtŭīs masculine ablative plural
+    . mōrtŭīs neuter dative plural
+    . mōrtŭīs feminine dative plural
+    . mōrtŭīs masculine dative plural
+* Ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+    . āscēndĭt present indicative active 3rd singular
+    . āscēndĭt perfect indicative active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+    . cāelōs accusative plural
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+    . cāelōs accusative plural
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+    . sĕdĕt present indicative active 3rd singular
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+    . sēdĕt present subjunctive active 3rd singular
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+    . dēxtĕrăm accusative singular
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+    . dĕī genitive singular
+    . dĕī nominative plural
+    . dĕī vocative plural
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+    . pā̆trĭs genitive singular
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+    . pā̆trīs ablative plural
+    . pā̆trīs dative plural
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+    . pā̆trīs neuter ablative plural
+    . pā̆trīs feminine ablative plural
+    . pā̆trīs masculine ablative plural
+    . pā̆trīs neuter dative plural
+    . pā̆trīs feminine dative plural
+    . pā̆trīs masculine dative plural
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+    . Pā̆trīs ablative plural
+    . Pā̆trīs dative plural
+* omnipotentis
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+    . ōmnĭpŏtēntīs feminine accusative plural
+    . ōmnĭpŏtēntīs masculine accusative plural
+    . ōmnĭpŏtēntĭs neuter genitive singular
+    . ōmnĭpŏtēntĭs feminine genitive singular
+    . ōmnĭpŏtēntĭs masculine genitive singular
+* Inde
+  - īndĕ, adv. (728) : thence, thenceforth; from that place/time/cause; thereupon;
+  - īndo, is, ere, indidi, inditum (100) : to put in or on; to introduce;
+    . īndĕ present imperative active 2nd singular
+  - Īndus, i, m. (11) : the name of two rivers.
+    . Īndĕ vocative singular
+  - Īndus, a, um (19) : Indian, from/of/belonging to India; of Indian ivory; [dens ~ => Indian ivory];
+    . Īndĕ masculine vocative singular
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+    . vēntūrŭs participle future active masculine nominative singular
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+    . jūdĭcārĕ present indicative passive 2nd singular
+    . jūdĭcārĕ present infinitive active
+    . jūdĭcārĕ present imperative passive 2nd singular
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+    . vīvōs masculine accusative plural
+  - vīvus, i, m. (34) : a living man
+    . vīvōs accusative plural
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+    . mōrtŭōs participle perfect active masculine accusative plural
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+    . mōrtŭōs accusative plural
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+    . mōrtŭōs masculine accusative plural
+* Ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* cuius
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . cūjŭs neuter genitive singular
+    . cūjŭs feminine genitive singular
+    . cūjŭs masculine genitive singular
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . cūjŭs neuter genitive singular
+    . cūjŭs feminine genitive singular
+    . cūjŭs masculine genitive singular
+* adventum
+  - ādvēntus, us, m. (301) : arrival, approach; visit, appearance, advent; ripening; invasion, incursion;
+    . ādvēntŭm accusative singular
+  - ādvĕnĭo, is, ire, ueni, uentum (178) : to come to, to arrive; to arrive at, to reach, be brought; to develop, set in, to arise;
+    . ādvēntŭm participle perfect passive neuter nominative singular
+    . ādvēntŭm participle perfect passive neuter accusative singular
+    . ādvēntŭm participle perfect passive masculine accusative singular
+    . ādvēntŭm participle perfect passive neuter vocative singular
+    . ādvēntŭm supine in -um
+* omnes
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+    . ōmnēs feminine accusative plural
+    . ōmnēs masculine accusative plural
+    . ōmnēs feminine nominative plural
+    . ōmnēs masculine nominative plural
+    . ōmnēs feminine vocative plural
+    . ōmnēs masculine vocative plural
+* homines
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+    . hŏmĭnēs accusative plural
+    . hŏmĭnēs nominative plural
+    . hŏmĭnēs vocative plural
+* resurgere
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+    . rĕsūrgĕrĕ present indicative passive 2nd singular
+    . rĕsūrgĕrĕ present infinitive active
+    . rĕsūrgērĕ future indicative passive 2nd singular
+    . rĕsūrgĕrĕ present imperative passive 2nd singular
+* habent
+  - hăbĕo, es, ere, bui, bitum (5460) : to have, hold, consider, think, reason; to manage, keep; to spend/pass (time);
+    . hăbēnt present indicative active 3rd plural
+* cum
+  - cŭm, conj. (8916) : when, as, while; since, because, as
+  - cŭm, quŏm, quŭm, prép. + abl. et adv. (5910) : with, together/jointly/along/simultaneous with, amid; supporting; attached;
+* corporibus
+  - cōrpŭs, oris, n. (2313) : - body; person, self; virility; flesh; corpse; trunk; frame(work); collection/ - substantial/material/concrete object/body; particle/atom; corporation, guild;
+    . cōrpŏrĭbŭs ablative plural
+    . cōrpŏrĭbŭs dative plural
+* suis
+  - sŭus, a, um, adj. et pron. (7170) : his/one's (own), her (own), hers, its (own); (pl.) their (own), theirs;
+    . sŭīs neuter ablative plural
+    . sŭīs feminine ablative plural
+    . sŭīs masculine ablative plural
+    . sŭīs neuter dative plural
+    . sŭīs feminine dative plural
+    . sŭīs masculine dative plural
+  - sŭum, i, n. (154) : (et surtout pl. sua) son bien, ses biens, leurs biens
+    . sŭīs ablative plural
+    . sŭīs dative plural
+  - sūs, suis, m. f. (47) : swine; hog, pig, sow;
+    . sŭĭs genitive singular
+  - sŭo, is, ere, sŭi, sūtum (2) : to sew, stitch, to sew, join, tack together
+    . sŭĭs present indicative active 2nd singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* reddituri
+  - rēddo, is, ere, ddidi, dditum (1102) : to return; to restore; to deliver; to hand over, pay back, render, give back; to translate;
+    . rēddĭtūrī participle future active masculine nominative plural
+    . rēddĭtūrī participle future active neuter genitive singular
+    . rēddĭtūrī participle future active masculine genitive singular
+    . rēddĭtūrī participle future active masculine vocative plural
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . sūnt present indicative active 3rd plural
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* factis
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctīs participle perfect passive neuter ablative plural
+    . fāctīs participle perfect passive feminine ablative plural
+    . fāctīs participle perfect passive masculine ablative plural
+    . fāctīs participle perfect passive neuter dative plural
+    . fāctīs participle perfect passive feminine dative plural
+    . fāctīs participle perfect passive masculine dative plural
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+    . fāctīs ablative plural
+    . fāctīs dative plural
+* propriis
+  - prō̆prĭus, a, um (298) : own, very own; individual; special, particular, characteristic;
+    . prō̆prĭīs neuter ablative plural
+    . prō̆prĭīs feminine ablative plural
+    . prō̆prĭīs masculine ablative plural
+    . prō̆prĭīs neuter dative plural
+    . prō̆prĭīs feminine dative plural
+    . prō̆prĭīs masculine dative plural
+  - prō̆prĭum, ii, n. (10) : a possession, property
+    . prō̆prĭīs ablative plural
+    . prō̆prĭīs dative plural
+* rationem
+  - rătĭō̆, ōnis, f. (1528) : account, reckoning, invoice; plan; prudence; method; reasoning; rule; regard;
+    . rătĭōnĕm accusative singular
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* bona
+  - bŏnus, a, um (2865) : good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
+    . bŏnă feminine nominative singular
+    . bŏnă neuter accusative plural
+    . bŏnā feminine ablative singular
+    . bŏnă neuter nominative plural
+    . bŏnă feminine vocative singular
+    . bŏnă neuter vocative plural
+  - bŏnum, i, n. (1349) : [en gén.] bien
+    . bŏnă accusative plural
+    . bŏnă nominative plural
+    . bŏnă vocative plural
+* egerunt
+  - ăgo, is, ere, egi, actum (2556) : to drive/urge/conduct/act; to spend (time w/cum); to thank (w/gratias); deliver
+    . ēgērūnt perfect indicative active 3rd plural
+  - ēgĕro, is, ere, gessi, gestum (32) : to carry or bear out, discharge, utter;
+    . ēgĕrūnt present indicative active 3rd plural
+* ibunt
+  - ĕo, is, ire, iui, itum (1447) : to go (of every kind of motion of animate or inanimate things), to walk, ride, sail, fly, move, pass;
+    . ībūnt future indicative active 3rd plural
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+    . vītăm accusative singular
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnăm feminine accusative singular
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular
+* vero
+  - vērō, adv. (557) : yes; in truth; certainly; truly, to be sure; however;
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+    . vērō neuter ablative singular
+    . vērō masculine ablative singular
+    . vērō neuter dative singular
+    . vērō masculine dative singular
+* mala
+  - mălus, a, um (844) : bad, evil, wicked; ugly; unlucky;
+    . mălă feminine nominative singular
+    . mălă neuter accusative plural
+    . mălā feminine ablative singular
+    . mălă neuter nominative plural
+    . mălă feminine vocative singular
+    . mălă neuter vocative plural
+  - māla, ae, f. (33) : cheeks, jaws;
+    . mālā ablative singular
+    . mālă nominative singular
+    . mālă vocative singular
+  - mălŭm, i, n. : evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt
+    . mălă accusative plural
+    . mălă nominative plural
+    . mălă vocative plural
+  - mālŭm, i, n. : apple; fruit; lemon; quince; hurt;
+    . mālă accusative plural
+    . mālă nominative plural
+    . mālă vocative plural
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* ignem
+  - īgnĭs, is, m. (840) : fire, brightness; passion, glow of passion;
+    . īgnĕm accusative singular
+* aeternum
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+    . āetērnŭm neuter nominative singular
+    . āetērnŭm neuter accusative singular
+    . āetērnŭm masculine accusative singular
+    . āetērnŭm neuter vocative singular
+  - āetērnŭm, adv. (14) : forever
+* Haec
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+    . hāec feminine nominative singular
+    . hāec neuter accusative plural
+    . hāec neuter nominative plural
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēst present indicative active 3rd singular
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēst present indicative active 3rd singular
+* fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+    . fĭdēs nominative singular
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative singular
+    . fĭdēs vocative plural
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+    . fīdēs future indicative active 2nd singular
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+    . fĭdēs accusative plural
+    . fĭdēs nominative plural
+    . fĭdēs vocative plural
+* quam
+  - quăm, quāmdĕ, quāndĕ, adv. (5587) : how, than;
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quăm feminine accusative singular
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quăm feminine accusative singular
+* nisi
+  - nĭsĭ, conj. sub. (2334) : if not; except, unless;
+* quisque
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+    . quīsquĕ masculine nominative singular
+* fideliter
+  - fĭdēlĭtĕr, adv. (24) : with reliance on God;
+    . fĭdēlĭtĕr positive 
+* firmiterque
+  - fīrmĭtĕr, adv. (4) : really, strongly, firmly; steadfastly;
+    . fīrmĭtĕr + quĕ positive 
+* crediderit
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+    . crēdĭdĕrĭt future perfect indicative active 3rd singular
+    . crēdĭdĕrĭt perfect subjunctive active 3rd singular
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+    . sālvŭs masculine nominative singular
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+    . ēssĕ present infinitive active
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+    . ēssĕ present infinitive active
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* poterit
+  - pōssŭm, potes, posse, potui (9115) : to be able, can; [multum posse => have much/more/most influence/power];
+    . pŏtĕrĭt future indicative active 3rd singular
+
+--- 29/737 (4 %) FORMES NON RECONNUES ---
+catholica
+oecumenica
+Apostolicum
+crucifixus
+catholicam
+resurrectionem
+amen
+Nicaenum
+visibilium
+invisibilium
+consubstantialem
+incarnatus
+vivificantem
+glorificatur
+prophetas
+apostolicam
+Baptisma
+Athanasii
+Arianos
+Trinitate
+Trinitatem
+coaeterna
+Increatus
+increatus
+increati
+coaeternae
+Trinitas
+incarnationem
+assumptione

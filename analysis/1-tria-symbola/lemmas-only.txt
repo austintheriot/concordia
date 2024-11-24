@@ -1,0 +1,1755 @@
+* TRIA
+  - trēs, ium (496) : three;
+* SYMBOLA
+  - sȳmbŏla, ae, f. (3) : contribution for common meal/feast; contributing of that sum;
+> catholica ÉCHEC
+* seu
+  - sēu, conj. sub. (151) : or if; or; [sive ... sive => whether ... or, either ... or];
+> oecumenica ÉCHEC
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+> Apostolicum ÉCHEC
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* Patrem
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pātro, as, are (30) : to accomplish, bring to completion;
+* omnipotentem
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Creatorem
+  - crĕātŏr, oris, m. (3) : creator (of world); maker, author; founder (city); father; one who appoints;
+* caeli
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* terrae
+  - tērra, ae, f. (1737) : earth, land, ground; country, region;
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Iesum
+  - Jēsūs, npr. m. : Jésus
+* Christum
+  - Chrīstus, i, m. (5) : Christ;
+* Filium
+  - fīlĭus, ii, m. (1091) : son;
+* eius
+  - ĭs, ea, id, adj. et pron. (18209) : he/she/it/they (by GENDER/NUMBER); DEMONST that, he/she/it, they/them;
+* unicum
+  - ūnĭcus, a, um (94) : only, sole, single, singular, unique; uncommon, unparalleled; one of a kind;
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* nostrum
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* conceptus
+  - cōncĭpĭo, is, ere, cepi, ceptum (169) : - to take in/up, receive, catch; to derive/draw (from); to contain/hold; to grasp; to adopt; - to form, devise; to understand, imagine; to conceive, be mother of; to utter (oath)
+  - cōncēptus, us, m. (4) : conceived, imagined; understood, adopted; [verba ~ => solemn/formal utterance];
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Spiritu
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sancto
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* natus
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+  - nātŭs, us, m. (53) : birth;
+  - nātus, a, um (76) : born;
+  - nō, as, are (43) : to swim, float;
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Maria
+  - mărĕ, is, n. (1083) : sea; sea water;
+* virgine
+  - vīrgō, ginis, f. (317) : maiden, young woman, girl of marriageable age; virgin, woman sexually intact;
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+* sub
+  - sŭb, prép. + acc. / abl. (1055) : under; up to, up under, close to (of motion); until, before, up to, about;
+* Pontio
+  - Pōntĭus, i, m. (9) : Pontius; Roman gens; a Sammite leader; (P~ Pilatus, prefect of Judea 26-36 AD);
+* Pilato
+  - Pīlātus, i, m. (2) : Pilatus; (Roman cognomen); [Pontius ~ (Pilate) => prefect Judea, 26-36 AD];
+> crucifixus ÉCHEC
+* mortuus
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* sepultus
+  - sĕpĕlĭo, is, ire, iui (ii), ultum (64) : to bury/inter; (Romans cremate + inter ashes); to submerge, overcome; to suppress; to ruin;
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* inferna
+  - īnfērnus, a, um (64) : lower, under; underground, of the lower regions, infernal; of hell;
+  - īnfērna, orum, n. (4) : les enfers, parties inférieures, bas ventre
+* tertia
+  - tērtĭus, a, um (447) : the third
+  - tērtĭō, as, are : thirdly;
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* mortuis
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* omnipotentis
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* inde
+  - īndĕ, adv. (728) : thence, thenceforth; from that place/time/cause; thereupon;
+  - īndo, is, ere, indidi, inditum (100) : to put in or on; to introduce;
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+  - vīvus, i, m. (34) : a living man
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Spiritum
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* sanctam
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+* ecclesiam
+  - ēcclē̆sĭa, ae, f. (2) : an assembly of the (Greek) people.
+> catholicam ÉCHEC
+* sanctorum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - sānctum, i, n. (3) : a holy place
+  - sānctŏr, ōris, m. (2) : an establisher, ordainer
+* communionem
+  - cōmmūnĭo, ōnis, f. (6) : a communion, mutual participation
+* remissionem
+  - rĕmīssĭo, ōnis, f. (30) : a sending back, away, releasing
+* peccatorum
+  - pēccātum, i, n. (98) : a fault, error, mistake, transgression, sin
+  - pēcco, as, are (248) : to sin; to do wrong, commit moral offense; to blunder, stumble; to be wrong;
+* carnis
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+> resurrectionem ÉCHEC
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+> amen ÉCHEC
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+> Nicaenum ÉCHEC
+* Credo
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* Patrem
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pātro, as, are (30) : to accomplish, bring to completion;
+* omnipotentem
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Factorem
+  - fāctŏr, ōris, m. (8) : a maker, doer, performer, perpetrator
+* caeli
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* terrae
+  - tērra, ae, f. (1737) : earth, land, ground; country, region;
+> visibilium ÉCHEC
+* omnium
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+  - ōmne, is, n. : every thing
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> invisibilium ÉCHEC
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* Iesum
+  - Jēsūs, npr. m. : Jésus
+* Christum
+  - Chrīstus, i, m. (5) : Christ;
+* Filium
+  - fīlĭus, ii, m. (1091) : son;
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+* unigenitum
+  - ūnĭgĕnĭtus, a, um : only begotten; only;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* natum
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+  - nātŭs, us, m. (53) : birth;
+  - nātus, a, um (76) : born;
+  - nō, as, are (43) : to swim, float;
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+  - ōmne, is, n. : every thing
+* saecula
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Deo
+  - dĕus, i, m. (2679) : a god, a deity
+* lumen
+  - lūmĕn, inis, n. (459) : light; lamp, torch; eye (of a person); life; day, daylight;
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* lumine
+  - lūmĕn, inis, n. (459) : light; lamp, torch; eye (of a person); life; day, daylight;
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* verum
+  - vērŭm, conj. (672) : yes; in truth; certainly; truly, to be sure; however; (rare form, usu. vero);
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+  - vēr, ēris, n. (100) : spring; spring-time of life, youth; [ver sacrum => sacrifice of spring-born];
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Deo
+  - dĕus, i, m. (2679) : a god, a deity
+* vero
+  - vērō, adv. (557) : yes; in truth; certainly; truly, to be sure; however;
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+* genitum
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factum
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+  - făcĭo, is, ere, feci, factum (5766) : to make/build/construct/create/cause/do; to have built/made; to fashion; to work (metal);
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+> consubstantialem ÉCHEC
+* Patri
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+* quem
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+  - ōmne, is, n. : every thing
+* facta
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* propter
+  - prōptĕr, prép. + acc. (802) : near; on account of; by means of; because of;
+* nos
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+* homines
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* propter
+  - prōptĕr, prép. + acc. (802) : near; on account of; by means of; because of;
+* nostram
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+* salutem
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+  - sălūto, as, are (105) : to greet; to wish well; to visit; to hail, salute;
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* caelis
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> incarnatus ÉCHEC
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* Spiritu
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sancto
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Maria
+  - mărĕ, is, n. (1083) : sea; sea water;
+* virgine
+  - vīrgō, ginis, f. (317) : maiden, young woman, girl of marriageable age; virgin, woman sexually intact;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+> crucifixus ÉCHEC
+* etiam
+  - ĕtĭăm, adv. : - and also, besides/furthermore, in addition/as well; even, actually; yes/ - now too, as yet, still, even now; yet again; likewise; (particle); (et-iam);
+* pro
+  - prō, prép. + abl. (2110) : on behalf of; before; in front/instead of; for; about; according to; as, like;
+* nobis
+  - nōs, nostrum pron. pl. (3244) : we (pl.), us;
+* sub
+  - sŭb, prép. + acc. / abl. (1055) : under; up to, up under, close to (of motion); until, before, up to, about;
+* Pontio
+  - Pōntĭus, i, m. (9) : Pontius; Roman gens; a Sammite leader; (P~ Pilatus, prefect of Judea 26-36 AD);
+* Pilato
+  - Pīlātus, i, m. (2) : Pilatus; (Roman cognomen); [Pontius ~ (Pilate) => prefect Judea, 26-36 AD];
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* sepultus
+  - sĕpĕlĭo, is, ire, iui (ii), ultum (64) : to bury/inter; (Romans cremate + inter ashes); to submerge, overcome; to suppress; to ruin;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+* tertia
+  - tērtĭus, a, um (447) : the third
+  - tērtĭō, as, are : thirdly;
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* Scripturas
+  - scrībo, is, ere, scripsi, scriptum (711) : to write; to compose;
+  - scrīptūra, ae, f. (9) : writing; composition; scripture;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* iterum
+  - ĭtĕrŭm, adv. (253) : again; a second time; for the second time;
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* gloria
+  - glōrĭa, ae, f. (798) : glory, fame; ambition; renown; vainglory, boasting;
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+  - vīvus, i, m. (34) : a living man
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* cuius
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+* regni
+  - rēgnŭm, i, n. (907) : royal power; power; control; kingdom;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* erit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* finis
+  - fīnĭs, is, m. f. (840) : boundary, end, limit, goal; (pl.) country, territory, land;
+  - fīnĭo, is, ire, iui, itum (168) : to limit, end; to finish; to determine, define; to mark out the boundaries;
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Spiritum
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctum
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> vivificantem ÉCHEC
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* Filioque
+  - fīlĭus, ii, m. (1091) : son;
+* procedit
+  - prōcēdo, is, ere, cessi, cessum (315) : to proceed; to advance; to appear;
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* cum
+  - cŭm, conj. (8916) : when, as, while; since, because, as
+  - cŭm, quŏm, quŭm, prép. + abl. et adv. (5910) : with, together/jointly/along/simultaneous with, amid; supporting; attached;
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filio
+  - fīlĭus, ii, m. (1091) : son;
+* simul
+  - sĭmŭl, sĕmŭl, adv. (906) : en même temps, [conj.] dès que
+* adoratur
+  - ădōro, as, are (43) : to honor, adore, worship, pay homage, reverence; to beg, plead with, appeal to;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> glorificatur ÉCHEC
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* locutus
+  - lŏquŏr, eris, i, locutus sum (764) : to speak, tell; to talk; to mention; to say, utter; to phrase
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+> prophetas ÉCHEC
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unam
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* sanctam
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+> catholicam ÉCHEC
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> apostolicam ÉCHEC
+* ecclesiam
+  - ēcclē̆sĭa, ae, f. (2) : an assembly of the (Greek) people.
+* Confiteor
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+> Baptisma ÉCHEC
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* remissionem
+  - rĕmīssĭo, ōnis, f. (30) : a sending back, away, releasing
+* peccatorum
+  - pēccātum, i, n. (98) : a fault, error, mistake, transgression, sin
+  - pēcco, as, are (248) : to sin; to do wrong, commit moral offense; to blunder, stumble; to be wrong;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* exspecto
+  - ēxspēcto, as, are, aui, atum (404) : to lookout for, await; to expect, anticipate, hope for;
+  - ēxpēcto, is, ĕre (182) : peigner avec soin d'après
+> resurrectionem ÉCHEC
+* mortuorum
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+* venturi
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+* saeculi
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+> amen ÉCHEC
+* Symbolum
+  - sȳmbŏlus, i, m. (5) : pièce justificative d'identité, signe de reconnaissance
+> Athanasii ÉCHEC
+* contra
+  - cōntrā, prép. + acc. (891) : contre
+  - cōntrā, adv. (458) : against, facing, opposite; weighed against; as against; in resistance/reply - contrary to, not in conformance with; the reverse of; otherwise than;
+> Arianos ÉCHEC
+* scriptum
+  - scrībo, is, ere, scripsi, scriptum (711) : to write; to compose;
+  - scrīptum, i, n. (71) : A line;, a game played with colored stones, on a draught-board marked into spaces by twelve oblique lines
+* Quicunque
+  - quīcūmquĕ, quae-, quod- (-cun-) (551) : Whoever, whatever, whosoever, whatsoever, every one who, every thing that, all that
+* vult
+  - vŏlo, uis, uelle, uolui (3862) : to wish, want, prefer; to be willing, will
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+  - ōmne, is, n. : every thing
+* opus
+  - ŏpus, indecl. n. (423) : chose nécessaire
+  - ŏpŭs, operis, n. (908) : need; work; fortifications (pl.), works; [opus est => is useful, beneficial];
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* teneat
+  - tĕnĕo, es, ere, ui, tentum (1594) : to represent; to support;
+> catholicam ÉCHEC
+* fidem
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+* Quam
+  - quăm, quāmdĕ, quāndĕ, adv. (5587) : how, than;
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+* nisi
+  - nĭsĭ, conj. sub. (2334) : if not; except, unless;
+* quisque
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+* integram
+  - īntĕgĕr, gra, grum (385) : untouched, entire, whole, complete; uninjured, sound, fresh (troops), vigorous;
+* inviolatamque
+  - īnvĭŏlātus, a, um (28) : Unhurt, inviolate
+* servaverit
+  - sērvo, as, are (708) : to watch over; to protect, store, keep, guard, preserve, save;
+* absque
+  - ābsquĕ, prép. + abl. : without, apart from, away from; but for; except for; were it not for; (early);
+* dubio
+  - dŭbĭŭm, ii, n. (94) : doubt; question;
+  - dŭbĭus, a, um (325) : doubtful, dubious, uncertain; variable, dangerous; critical;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* aeternum
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+  - āetērnŭm, adv. (14) : forever
+* peribit
+  - pĕrĕo, is, ire, ii, itum (655) : to die, pass away; to be ruined, be destroyed; to go to waste;
+* Fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+* autem
+  - āutĕm, conj. coord. (2095) : but (postpositive), on the other hand/contrary; while, however; moreover, also;
+> catholica ÉCHEC
+* haec
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* unum
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+> Trinitate ÉCHEC
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> Trinitatem ÉCHEC
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+* veneremur
+  - vĕnĕrŏr, ātus, 1 (85) : to reverence with religious awe, to worship, adore, revere, venerate.
+  - vĕnĕro, as, are (3) : to adore, revere, do homage to, honor, venerate; to worship; to beg, pray, entreat;
+* Neque
+  - nĕquĕ, conj. coord. (3923) : nor [neque..neque=>neither..nor; neque solum..sed etiam=>not only..but also];
+* confundentes
+  - cōnfūndo, is, ere, fudi, fusum (61) : - to pour/mix/mass/bring together; to combine/unite/blend/merge; to spread over, - to upset/confuse; to blur/jumble; to bring disorder/ruin; to disfigure; to bewilder, dismay;
+* personas
+  - pērsōna, ae, f. (126) : mask; character; personality;
+  - pērsŏno, as, are (20) : to make loud/continuous/pervasive noise/loud music; to ring/resound; to chant/shout out;
+  - pērsŏnus, a, um (2) : resounding, ringing
+* neque
+  - nĕquĕ, conj. coord. (3923) : nor [neque..neque=>neither..nor; neque solum..sed etiam=>not only..but also];
+* substantiam
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+* separantes
+  - sēpăro, as, are (62) : to divide, distinguish; separate;
+* Alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* enim
+  - ĕnĭm, conj. (4848) : namely (postpos.); indeed; in fact; for; I mean, for instance, that is to say;
+* persona
+  - pērsōna, ae, f. (126) : mask; character; personality;
+  - pērsŏno, as, are (20) : to make loud/continuous/pervasive noise/loud music; to ring/resound; to chant/shout out;
+  - pērsŏnus, a, um (2) : resounding, ringing
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+* alia
+  - ălĭus, a, ud, pron. (4524) : the_one ... the_other (alius ... alius);
+  - ălĭā, adv. (8) : in another way, in a different manner
+  - ālĭum, ii, n. (7) : garlic
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* una
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+  - ūnā, adv. (281) : together, together with; at the same time; along with;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* divinitas
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+* aequalis
+  - āequālĭs, e (60) : comrade; person of one's age/rank/ability, contemporary; equivalent;
+* gloria
+  - glōrĭa, ae, f. (798) : glory, fame; ambition; renown; vainglory, boasting;
+> coaeterna ÉCHEC
+* maiestas
+  - mājēstās, atis, f. (150) : - majesty, dignity (of god/rank/position); majesty of people/state; - grandeur, greatness; dignity/majesty (of language);
+* Qualis
+  - quālĭs, e (150) : what kind/sort/condition (of); what is (he/it) like; what/how excellent a ...;
+  - quālus, i, m. (10) : a wicker basket, hamper, a fruit-hamper, wool-basket, winestrainer
+  - quālum, i, n. (5) : corbeille, panier
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* talis
+  - tālĭs, e (441) : such; so great; so excellent; of such kind;
+  - tālus, i, m. (39) : ankle; ankle/pastern bone; sheep knucklebone (marked for dice); dice game
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* talis
+  - tālĭs, e (441) : such; so great; so excellent; of such kind;
+  - tālus, i, m. (39) : ankle; ankle/pastern bone; sheep knucklebone (marked for dice); dice game
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+> Increatus ÉCHEC
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+> increatus ÉCHEC
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+> increatus ÉCHEC
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* aeterni
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* aeternus
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* Sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+> increati ÉCHEC
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* tres
+  - trēs, ium (496) : three;
+* immensi
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+  - īmmēnsum, i, n. (18) : a boundless extent, immense size, boundlessness, immensity
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+> increatus ÉCHEC
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* immensus
+  - īmmēnsus, a, um (165) : immeasurable, immense/vast/boundless/unending; infinitely great; innumerable;
+* Similiter
+  - sĭmĭlĭtĕr, adv. (20) : similarly;
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* omnipotentes
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* omnipotens
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* Dii
+  - dĕus, i, m. (2679) : a god, a deity
+  - Dĭŏn, ii, n. (9) : Dium (ville de Crète)
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+  - Dĭos, i, m. (2) : marron
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* Domini
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - dŏmĭnĭŭm, ii, n. (13) : rule, dominion; ownership; banquet, feast;
+  - Dŏmĭnus, i, m. : Seigneur
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* Quia
+  - quĭă, conj. sub. (1850) : because;
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* singulatim
+  - sīngīllātĭm, sīngŭlātĭm, adv. (21) : one by one, singly, separately;
+* unamquamque
+  - ūnūsquīsque, unaquaeque, unumquodque : each, every, every body, every one, every thing
+* personam
+  - pērsōna, ae, f. (126) : mask; character; personality;
+  - pērsŏnus, a, um (2) : resounding, ringing
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* ac
+  - āc, conj. coord. (5185) : and, and also, and besides;
+* Dominum
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* confiteri
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+* christiana
+  - Chrīstĭānus, a, um : Christian;
+* veritate
+  - vērĭtās, atis, f. (167) : - truth, fact, accuracy; honesty, truthfulness, frankness; sincerity, - reality, that which is real; real life, actuality; true nature; correctness;
+* compellimur
+  - cōmpēllo, is, ere, puli, pulsum (80) : to drive together (cattle), round up; to force, compel, impel, drive; to squeeze; to gnash;
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* tres
+  - trēs, ium (496) : three;
+* Deos
+  - dĕus, i, m. (2679) : a god, a deity
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* tres
+  - trēs, ium (496) : three;
+* Dominos
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* dicere
+  - dīco, is, ere, dixi, dictum (7210) : to say, declare, state; to allege, declare positively; to assert; to plead (case); to mean;
+  - dĭco, as, are (42) : to dedicate, consecrate, devote any thing to a deity; to deify
+> catholica ÉCHEC
+* religione
+  - rĕlĭgĭō̆, rēllĭgĭo, onis, f. (444) : - supernatural constraint/taboo; obligation; sanction; worship; rite; sanctity; (Bee);
+* prohibemur
+  - prŏhĭbĕo, es, ere, bui, bitum (416) : to hinder, restrain; to forbid, prevent;
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* nullo
+  - nēmō̆, nullius, nt. nihil, nil (rart. neminis), pron. (4731) : nobody
+  - nūllŭs, a, um (2757) : no; none, not any; (PRONominal ADJ)
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* solo
+  - sŏlŭm, i, n. (264) : only/just/merely/barely/alone;
+  - sōlus, a, um (91) : only, single; lonely; alone, having no companion/friend/protector; unique;
+  - sōlo, as, are (2) : to make lonely, desolate; to lay waste, desolate
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* Filio
+  - fīlĭus, ii, m. (1091) : son;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* factus
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭs, us, m. (2) : construction, quantité d'huile fournie par un tour de pressoir
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* creatus
+  - crĕo, as, are (161) : - to create/bring into being/make; to procreate; to beget/sire; to give birth to; - to institute; conjure up; (PASS) to be born/spring from; to be home/native of;
+* nec
+  - nĕc, adv. (6689) : nor, and..not; not..either, not even;
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* procedens
+  - prōcēdo, is, ere, cessi, cessum (315) : to proceed; to advance; to appear;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* Pater
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* Patres
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pātro, as, are (30) : to accomplish, bring to completion;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* Filii
+  - fīlĭus, ii, m. (1091) : son;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sanctus
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* tres
+  - trēs, ium (496) : three;
+* Spiritus
+  - spīrĭtus, us, m. (257) : breath, breathing, air, soul, life;
+* Sancti
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+  - sānctum, i, n. (3) : a holy place
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* hac
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+  - hāc, adv. (94) : in this place
+> Trinitate ÉCHEC
+* nihil
+  - nĭhĭl, pron. (2000) : rien
+* prius
+  - prĭŭs, adv. : earlier times/events/actions; a logically prior proposition
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* posterius
+  - pōstĕrus, a, um (295) : coming after, following, next; COMP next in order, latter; SUPER last/hindmost
+  - pōstĕrĭŭs, adv. (20) : later, at a later day; by and by;
+* nihil
+  - nĭhĭl, pron. (2000) : rien
+* maius
+  - māgnus, a, um (6056) : - large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/ - great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+* aut
+  - āut, conj. coord. (6784) : or, or rather/else; either...or (aut...aut) (emphasizing one);
+* minus
+  - mĭnŭs, adv. (888) : less; not so well; not quite;
+  - pārvus, a, um (1267) : small, little, cheap; unimportant; (SUPER) smallest, least;
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* totae
+  - tōtus, a, um : whole, all, entire, total, complete; every part; all together/at once;
+* tres
+  - trēs, ium (496) : three;
+* personae
+  - pērsōna, ae, f. (126) : mask; character; personality;
+  - pērsŏnus, a, um (2) : resounding, ringing
+> coaeternae ÉCHEC
+* sibi
+  - sē, sui, pron. réfl. (9722) : himself, herself, itself, themselves
+  - sĭbus, a, um (2) : fin, avisé
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* coaequales
+  - cŏāequālĭs, e (2) : one of same age, contemporary; comrade/companion of same age (L+S);
+* Ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* per
+  - pĕr, prép. + acc. (4691) : through (space); during (time); by, by means of;
+* omnia
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+  - ōmne, is, n. : every thing
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* iam
+  - jăm, jāmjăm, adv. (4207) : now, already, by/even now; besides; [non ~ => no longer; ~ pridem => long ago];
+* supra
+  - sū̆prā, adv. (161) : above, beyond; over; more than; in charge of, in authority over;
+* dictum
+  - dīco, is, ere, dixi, dictum (7210) : to say, declare, state; to allege, declare positively; to assert; to plead (case); to mean;
+  - dīctŭm, i, n. (352) : words/utterance/remark; one's word/promise; saying/maxim; bon mot, witticism;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+> Trinitas ÉCHEC
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* unitas
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+> Trinitate ÉCHEC
+* veneranda
+  - vĕnĕrāndus, a, um (19) : vénérable, respectable
+  - vĕnĕro, as, are (3) : to adore, revere, do homage to, honor, venerate; to worship; to beg, pray, entreat;
+* sit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* vult
+  - vŏlo, uis, uelle, uolui (3862) : to wish, want, prefer; to be willing, will
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+> Trinitate ÉCHEC
+* sentiat
+  - sēntĭo, is, ire, sensi, sensum (883) : to perceive, feel, experience; to think, realize, see, understand;
+* Sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* necessarium
+  - nĕcēssārĭus, a, um (279) : necessary/needed/essential/indispensable; vital/private (body part); close - inevitable, fateful; urgent/critical; unavoidable/compulsory; natural
+  - nĕcēssārĭus, i, m. (78) : relative; connection, one closely connected by friendship/family/obligation
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* salutum
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+> incarnationem ÉCHEC
+* quoque
+  - quŏquĕ, adv. (2291) : likewise/besides/also/too; not only; even/actually; (after word emphasized);
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+* Domini
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - dŏmĭnĭŭm, ii, n. (13) : rule, dominion; ownership; banquet, feast;
+  - Dŏmĭnus, i, m. : Seigneur
+* nostri
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+* Iesu
+  - Jēsūs, npr. m. : Jésus
+* Christi
+  - Chrīstus, i, m. (5) : Christ;
+* fideliter
+  - fĭdēlĭtĕr, adv. (24) : with reliance on God;
+* credat
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* Est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* ergo
+  - ērgō, conj. (1450) : therefore; well, then, now;
+* fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+* recta
+  - rĕgo, is, ere, rexi, rectum (296) : to rule, guide; to manage, direct;
+  - rēctus, a, um (252) : right, proper; straight; honest;
+  - rēctā, adv. (16) : directly, straight;
+  - rēctum, i, n. (63) : that which is right, good, virtuous; uprightness, rectitude, virtue, subjective-clause
+* ut
+  - ŭt, ŭtŭt, conj. sub. + ind. ou subj. (10753) : to (+ subjunctive), in order that/to; how, as, when, while; even if;
+* credamus
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* confiteamur
+  - cōnfĭtĕŏr, eris, eri, fessus sum (190) : to acknowledge, confess, own, avow (an error, mistake, or a fact previously denied or doubted)
+* quod
+  - quŏd, conj. sub. (3725) : That, in that, because; Wherefore, why, that
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+* Dominus
+  - dŏmĭnus, i, m. (675) : owner, lord, master; the Lord; title for ecclesiastics/gentlemen;
+  - Dŏmĭnus, i, m. : Seigneur
+* noster
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+* Iesus
+  - Jēsūs, npr. m. : Jésus
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+* Filius
+  - fīlĭus, ii, m. (1091) : son;
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* substantia
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* ante
+  - āntĕ, prép. +acc. (942) : in front/presence of, in view; before (space/time/degree); over against,
+  - āntēs, ium, m. (3) : rows, ranks
+* saecula
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+* genitus
+  - gīgno, gĕno, is, ere, genui, genitum (253) : to give birth to, bring forth, bear; to beget; to be born (PASSIVE);
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* substantia
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+* matris
+  - mātĕr, tris, f. (992) : mother, foster mother; lady, matron; origin, source, motherland, mother city;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* saeculo
+  - sāecŭlŭm, i, n. (190) : time; past/present/future (Plater); [in ~ => forever];
+* natus
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+  - nātŭs, us, m. (53) : birth;
+  - nātus, a, um (76) : born;
+  - nō, as, are (43) : to swim, float;
+* Perfectus
+  - pērfĭcĭo, is, ere, feci, fectum (182) : to complete, finish; execute; to bring about, accomplish; to do thoroughly;
+  - pērfēctus, a, um (113) : perfect, complete; excellent;
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* perfectus
+  - pērfĭcĭo, is, ere, feci, fectum (182) : to complete, finish; execute; to bring about, accomplish; to do thoroughly;
+  - pērfēctus, a, um (113) : perfect, complete; excellent;
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* ex
+  - ēx, prép. + abl. (6934) : out of, from; by reason of; according to; because of, as a result of;
+* anima
+  - ănĭma, ae, f. (351) : soul, spirit, vital principle; life; breathing; wind, breeze; air (element);
+  - ănĭmo, as, are (3) : to animate, give/bring life; to revive, refresh; to rouse, animate; to inspire; to blow;
+* rationali
+  - rătiōnālĭs, e (36) : raisonnable, doué de raison
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* humana
+  - hūmānus, a, um (567) : human; kind; humane, civilized, refined; [~ hostiae => human sacrifice];
+  - hūmāna, orum, n. (50) : human affairs, the concerns of men, events of life.
+  - hūmānum, i, n. (5) : that which is human, mortal, Dae.
+* carne
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+* subsistens
+  - sūbsīsto, is, ere, stiti, - (77) : to halt, stand; to cause to stop;
+* Aequalis
+  - āequālĭs, e (60) : comrade; person of one's age/rank/ability, contemporary; equivalent;
+* Patri
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* divinitatem
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+* minor
+  - pārvus, a, um (1267) : small, little, cheap; unimportant; (SUPER) smallest, least;
+  - mĭnŏr, aris, ari, atus sum : to threaten, menace one with any thing
+* Patre
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+* secundum
+  - sĕcūndus, a, um (440) : next, following; second; substituted; secondary/inferior; subordinate;
+  - sĕcūndŭm, + acc (5) : after; according to; along/next to, following/immediately after, close behind;
+* humanitatem
+  - hūmānĭtās, atis, f. (160) : human nature/character/feeling; kindness/courtesy; culture/civilization;
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* licet
+  - lĭcĕo, v. impers. (1326) : to bid on/for, bid, bid at auction; to make a bid;
+  - lĭcĕt, adv. conj. (183) : non traduit / Translation not available.
+  - lĭcĕt, licere, licuit, impers. : although, granted that; (with subjunctive);
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* sit
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* duo
+  - dŭŏ, ae, o, pl. (1290) : two (pl.);
+* tamen
+  - tămĕn, āttămĕn, adv. (3773) : yet, nevertheless, still;
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* autem
+  - āutĕm, conj. coord. (2095) : but (postpositive), on the other hand/contrary; while, however; moreover, also;
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* conversione
+  - cōnvērsĭo, ōnis, f. (8) : a turning round, revolving, revolution
+* divinitatis
+  - dīvīnĭtās, atis, f. (14) : divinity, quality/nature of God; divine excellence/power/being; divining;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* carnem
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+> assumptione ÉCHEC
+* humanitatis
+  - hūmānĭtās, atis, f. (160) : human nature/character/feeling; kindness/courtesy; culture/civilization;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* Deum
+  - dĕus, i, m. (2679) : a god, a deity
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* omnino
+  - ōmnīnō, adv. (375) : entirely, altogether; [after negatives/with numerals => at all/in all];
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* confusione
+  - cōnfūsĭō̆, ionis, f. (19) : mingling/mixture/union; confusion/confounding/disorder; trouble; blushing/
+* substantiae
+  - sūbstāntĭa, ae, f. (6) : that of which a thing consists, the being, essence, contents, material, substance, every thing that exists
+* sed
+  - sĕd, conj. (9689) : but, but also; yet; however, but in fact/truth; not to mention; yes but;
+* unitate
+  - ūnĭtās, ātis, f. (6) : the state of being one, oneness, unity.
+* personae
+  - pērsōna, ae, f. (126) : mask; character; personality;
+  - pērsŏnus, a, um (2) : resounding, ringing
+* Nam
+  - năm, conj. (2998) : for, on the other hand; for instance;
+* sicut
+  - sīcŭt, adv. (326) : as, just as; like; in same way; as if; as it certainly is; as it were;
+* anima
+  - ănĭma, ae, f. (351) : soul, spirit, vital principle; life; breathing; wind, breeze; air (element);
+  - ănĭmo, as, are (3) : to animate, give/bring life; to revive, refresh; to rouse, animate; to inspire; to blow;
+* rationalis
+  - rătiōnālĭs, e (36) : raisonnable, doué de raison
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* caro
+  - căvĕo, es, ere, caui, cautum (326) : to beware, avoid, take precautions/defensive action; to give/get surety; to stipulate;
+  - cārus, chārus, a, um (406) : dear, beloved; costly, precious, valued; high-priced, expensive;
+  - cărō̆, carnis, f. (47) : meat, flesh; the_body; pulpy/fleshy/soft parts (plant), sapwood; low passions;
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* ita
+  - ĭtā, adv. (2861) : thus, so; therefore;
+  - ĭto, āvi, 1, intr. (2) : to go
+* Deus
+  - dĕus, i, m. (2679) : a god, a deity
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* homo
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* unus
+  - ūnus, a, um, sing. (3148) : alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* Christus
+  - Chrīstus, i, m. (5) : Christ;
+* Qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* passus
+  - pătĭŏr, eris, i, passus sum (907) : to suffer; to allow; to undergo, endure; to permit
+  - pāssus, us, m. (168) : spread out; outstretched; dried;
+  - pāndo, is, ere, pandi, passum (99) : to spread out [passis manibus => with hands outstretched];
+  - pāssus, a, um (8) : outspread, outstretched, extended, open.
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* pro
+  - prō, prép. + abl. (2110) : on behalf of; before; in front/instead of; for; about; according to; as, like;
+* nostra
+  - nōstĕr, tra, trum, adj. pron. (2823) : our;
+* salute
+  - sălūs, utis, f. (851) : health; prosperity; good wish; greeting; salvation, safety;
+* descendit
+  - dēscēndo, is, ere, di, sum (227) : to descend, climb/march/come/go/flow/run/hang down; to dismount; to penetrate/sink;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* inferos
+  - īnfĕri, orum, m. (55) : Comp.
+  - īnfĕr, era, erum (8) : qui est au-dessous, inférieur
+  - īnfĕrus, a, um : below, beneath, underneath; of hell; vile; lower, further down; lowest, last;
+* tertia
+  - tērtĭus, a, um (447) : the third
+  - tērtĭō, as, are : thirdly;
+* die
+  - dĭes, ei, m. et f. (2928) : day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+  - dīus, a, um (9) : of or belonging to a deity, divine.
+* resurrexit
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+* a
+  - ā, ăb, ābs, prép. + abl. (5874) : by (agent), from (departure, cause, remote origin/time); after (reference);
+  - ā, interj. (91) : ah! alas! ha! ah me!
+* mortuis
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* Ascendit
+  - āscēndo, is, ere, ascendi, ascensum (101) : to climb; to go/climb up; to mount, scale; to mount up, embark; to rise, ascend, move upward;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* caelos
+  - cāelŭm, cōelum, i, n. (940) : - chisel; engraving tool; burin; - heaven, sky, heavens; space; air, climate, weather; universe, world; Jehovah;
+  - cāelus, i, m. (4) : ciel, Ciel (fils d'Éther et de Dies, père de Saturne)
+* sedet
+  - sĕdĕo, es, ere, sedi, sessum (373) : to sit, remain; to settle; to encamp;
+  - sēdo, as, are (51) : to settle, allay; to restrain; to calm down;
+* ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* dexteram
+  - dēxtră, dēxtĕra, ou dextera, ae, f. (283) : on the right of; on the right-hand side of;
+* Dei
+  - dĕus, i, m. (2679) : a god, a deity
+* Patris
+  - pătĕr, tris, m. (2272) : father; [pater familias, patris familias => head of family/household];
+  - pā̆trĭa, ae, f. sing. (708) : native land; home, native city; one's country;
+  - pā̆trĭus, a, um (332) : father's, paternal; ancestral;
+  - Pā̆trāe, arum, f. (2) : a very ancient city in Achaia, on the promontory of Rhium, Patras
+* omnipotentis
+  - ōmnĭpŏtēns, entis (26) : all-powerful, omnipotent;
+* Inde
+  - īndĕ, adv. (728) : thence, thenceforth; from that place/time/cause; thereupon;
+  - īndo, is, ere, indidi, inditum (100) : to put in or on; to introduce;
+  - Īndus, i, m. (11) : the name of two rivers.
+  - Īndus, a, um (19) : Indian, from/of/belonging to India; of Indian ivory; [dens ~ => Indian ivory];
+* venturus
+  - vĕnĭo, is, ire, ueni, uentum (2796) : to come;
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* iudicare
+  - jūdĭco, as, are (905) : to judge, give judgment; to sentence; to conclude, decide; to declare, appraise;
+* vivos
+  - vīvus, a, um (257) : alive, fresh; living;
+  - vīvus, i, m. (34) : a living man
+* et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* mortuos
+  - mŏrĭŏr, eris, i, mortuus sum (593) : to die
+  - mōrtŭus, i, m. (50) : a dead person, dead man
+  - mōrtŭus, a, um (40) : dead, deceased; limp;
+* Ad
+  - ăd, prép. + acc. (11922) : to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;
+* cuius
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+* adventum
+  - ādvēntus, us, m. (301) : arrival, approach; visit, appearance, advent; ripening; invasion, incursion;
+  - ādvĕnĭo, is, ire, ueni, uentum (178) : to come to, to arrive; to arrive at, to reach, be brought; to develop, set in, to arise;
+* omnes
+  - ōmnĭs, e (2203) : all men (pl.), all persons;
+* homines
+  - hŏmō̆, minis, m. (4510) : man, human being, person, fellow; [novus homo => nouveau riche];
+* resurgere
+  - rĕsūrgo, is, ere, rexi, rectum (33) : to rise/appear again; to rare up again, lift oneself, be restored/rebuilt, revive;
+* habent
+  - hăbĕo, es, ere, bui, bitum (5460) : to have, hold, consider, think, reason; to manage, keep; to spend/pass (time);
+* cum
+  - cŭm, conj. (8916) : when, as, while; since, because, as
+  - cŭm, quŏm, quŭm, prép. + abl. et adv. (5910) : with, together/jointly/along/simultaneous with, amid; supporting; attached;
+* corporibus
+  - cōrpŭs, oris, n. (2313) : - body; person, self; virility; flesh; corpse; trunk; frame(work); collection/ - substantial/material/concrete object/body; particle/atom; corporation, guild;
+* suis
+  - sŭus, a, um, adj. et pron. (7170) : his/one's (own), her (own), hers, its (own); (pl.) their (own), theirs;
+  - sŭum, i, n. (154) : (et surtout pl. sua) son bien, ses biens, leurs biens
+  - sūs, suis, m. f. (47) : swine; hog, pig, sow;
+  - sŭo, is, ere, sŭi, sūtum (2) : to sew, stitch, to sew, join, tack together
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* reddituri
+  - rēddo, is, ere, ddidi, dditum (1102) : to return; to restore; to deliver; to hand over, pay back, render, give back; to translate;
+* sunt
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+* de
+  - dē, prép. + abl. (6164) : down/away from, from, off; about, of, concerning; according to; with regard to;
+* factis
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+* propriis
+  - prō̆prĭus, a, um (298) : own, very own; individual; special, particular, characteristic;
+  - prō̆prĭum, ii, n. (10) : a possession, property
+* rationem
+  - rătĭō̆, ōnis, f. (1528) : account, reckoning, invoice; plan; prudence; method; reasoning; rule; regard;
+* Et
+  - ĕt, conj. adv. (42726) : and, and even; also, even; (et ... et = both ... and);
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* bona
+  - bŏnus, a, um (2865) : good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
+  - bŏnum, i, n. (1349) : [en gén.] bien
+* egerunt
+  - ăgo, is, ere, egi, actum (2556) : to drive/urge/conduct/act; to spend (time w/cum); to thank (w/gratias); deliver
+  - ēgĕro, is, ere, gessi, gestum (32) : to carry or bear out, discharge, utter;
+* ibunt
+  - ĕo, is, ire, iui, itum (1447) : to go (of every kind of motion of animate or inanimate things), to walk, ride, sail, fly, move, pass;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* vitam
+  - vīta, ae, f. (2080) : life, career, livelihood; mode of life;
+* aeternam
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+* qui
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+* vero
+  - vērō, adv. (557) : yes; in truth; certainly; truly, to be sure; however;
+  - vērus, a, um (605) : true, real, genuine, actual; properly named; well founded; right, fair, proper;
+* mala
+  - mălus, a, um (844) : bad, evil, wicked; ugly; unlucky;
+  - māla, ae, f. (33) : cheeks, jaws;
+  - mălŭm, i, n. : evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt
+  - mālŭm, i, n. : apple; fruit; lemon; quince; hurt;
+* in
+  - ĭn, īndŭ, prép. + acc. ou + abl. (30083) : in, into, on
+* ignem
+  - īgnĭs, is, m. (840) : fire, brightness; passion, glow of passion;
+* aeternum
+  - āetērnus, a, um (232) : eternal/everlasting/imperishable; perpetual, w/out start/end; [in ~=>forever];
+  - āetērnŭm, adv. (14) : forever
+* Haec
+  - hīc, haec, hoc, adj. pron. (20391) : this; these
+* est
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* fides
+  - fĭdēs, ei, f. (1305) : faith, loyalty; honesty; credit; confidence, trust, belief; good faith
+  - fīdo, is ere, fisus sum (53) : to trust (in), have confidence (in) (w/DAT or ABL);
+  - fĭdĕs, ium, f. pl. : chord, instrument string; constellation Lyra; stringed instrument (pl.); lyre;
+> catholica ÉCHEC
+* quam
+  - quăm, quāmdĕ, quāndĕ, adv. (5587) : how, than;
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+* nisi
+  - nĭsĭ, conj. sub. (2334) : if not; except, unless;
+* quisque
+  - quīsquĕ, quaeque, quidque, pron. (1478) : whoever, whatever it be, each, every, every body, every one, every thing
+* fideliter
+  - fĭdēlĭtĕr, adv. (24) : with reliance on God;
+* firmiterque
+  - fīrmĭtĕr, adv. (4) : really, strongly, firmly; steadfastly;
+* crediderit
+  - crēdo, is, ere, didi, ditum (1822) : - to trust, entrust; to commit/consign; to believe, trust in, rely on, confide; to suppose; sure;
+* salvus
+  - sālvos, a, um (277) : en bonne santé
+* esse
+  - sŭm, es, esse, fui (40916) : to be; to exist; (also used to form verb perfect passive tenses) with NOM PERF PPL
+  - ĕdo, edis, esse, edi, esum (99) : to eat/consume/devour; to eat away (fire/water/disease); to destroy; to spend money on
+* non
+  - nōn, adv. neg. (21761) : not, by no means, no; [non modo ... sed etiam => not only ... but also];
+* poterit
+  - pōssŭm, potes, posse, potui (9115) : to be able, can; [multum posse => have much/more/most influence/power];
