@@ -1,5 +1,6 @@
 ---
 title: I. Tria Symbola - Catholica seu Oecūmenica
+macrons: true
 ---
 
 # TRIA SYMBOLA

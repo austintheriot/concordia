@@ -1,5 +1,6 @@
 export interface Frontmatter {
   title: string;
+  macrons: boolean;
 }
 
 export async function getAllMarkdownFiles() {

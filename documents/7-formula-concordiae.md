@@ -1,5 +1,6 @@
 ---
 title: VII. Formula Concordiae
+macrons: false
 ---
 
 # FORMULA CONCORDIAE

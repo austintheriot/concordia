@@ -3,10 +3,10 @@ import type { PageLoad } from './$types';
 
 // get post data for each page
 export const load: PageLoad = async () => {
-  const posts = await getAllMarkdownFiles();
-  const slugs = posts.map((post) => post.slug);
+  const documents = await getAllMarkdownFiles();
+  const documentsWithMacrons = documents.filter((document) => document.attributes.macrons);
 
   return {
-    slugs
+    posts: documentsWithMacrons
   };
 };

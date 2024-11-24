@@ -1,5 +1,6 @@
 ---
 title: V. Enchīridion - Catēchismus Minor
+macrons: true
 ---
 
 # Enchīridion.
