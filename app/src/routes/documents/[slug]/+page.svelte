@@ -4,7 +4,9 @@
   const { data }: { data: PageData } = $props();
 </script>
 
-<article>
-  <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-  {@html data.post.html}
-</article>
+<div class="container">
+  <article>
+    <!-- eslint-disable-next-line svelte/no-at-html-tags -->
+    {@html data.post.html}
+  </article>
+</div>

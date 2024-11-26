@@ -16,10 +16,29 @@
 
   :root {
     font-family: 'EBGaramond', sans-serif;
-    padding: 0;
-    margin: 0;
     line-height: 1.5;
     font-size: 20px;
+    background-color: #fffafa;
+    color: #1e1f24;
+  }
+
+  * {
+    padding: 0;
+    margin: 0;
+  }
+
+  .container {
+    max-width: min(calc(100% - 2rem), 800px);
+    margin: 2rem auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0.75rem 0 0.25rem;
   }
 
   h1,
@@ -30,5 +49,22 @@
   h6,
   strong {
     font-weight: 500;
+  }
+
+  p,
+  li {
+    margin: 0.75rem 0 0.75rem;
+  }
+
+  a {
+    color: #cc1d1d;
+  }
+
+  a:visited {
+    color: #641a16;
+  }
+
+  h1 {
+    font-size: 2rem;
   }
 }
