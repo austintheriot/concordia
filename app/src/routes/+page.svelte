@@ -20,6 +20,15 @@
 </div>
 
 <style>
+  h1,
+  h1 + p {
+    text-align: center;
+  }
+
+  .container {
+    --max-width: 400px;
+  }
+
   ol {
     list-style: none;
     padding-inline-start: 0;
