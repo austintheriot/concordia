@@ -2,9 +2,8 @@
 
 :root,
 .light,
-.light-theme,
-.radix-themes {
-  --color-background: #fffafa;
+.light-theme {
+  --color-background: #fffcfc;
 }
 
 /* primary color */
