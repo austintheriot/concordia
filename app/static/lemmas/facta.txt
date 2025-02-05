@@ -1,0 +1,11 @@
+  - fīo, is, fieri, factus sum (2067) : to happen, come about; to result (from); to take place, be held, occur, arise (event); to develop;
+    . fāctă participle perfect passive feminine nominative singular
+    . fāctā participle perfect passive feminine ablative singular
+    . fāctă participle perfect passive neuter accusative plural
+    . fāctă participle perfect passive neuter nominative plural
+    . fāctă participle perfect passive neuter vocative plural
+    . fāctă participle perfect passive feminine vocative singular
+  - fāctŭm, i, n. (592) : fact, deed, act; achievement;
+    . fāctă accusative plural
+    . fāctă nominative plural
+    . fāctă vocative plural

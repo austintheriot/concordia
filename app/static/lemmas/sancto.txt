@@ -1,0 +1,16 @@
+  - sānctus, a, um (320) : consecrated, sacred, inviolable; venerable, august, divine, holy, pious, just;
+    . sānctō neuter ablative singular
+    . sānctō masculine ablative singular
+    . sānctō neuter dative singular
+    . sānctō masculine dative singular
+  - sāncĭo, is, ire, sanxi, sanctum (66) : to confirm, ratify; to sanction; to fulfill (prophesy); to enact (law); to ordain; to dedicate;
+    . sānctō participle perfect passive neuter ablative singular
+    . sānctō participle perfect passive masculine ablative singular
+    . sānctō participle perfect passive neuter dative singular
+    . sānctō participle perfect passive masculine dative singular
+  - Sānctus, i, m. (3) : Severus Sanctus (poète bucolique chrétien)
+    . Sānctō ablative singular
+    . Sānctō dative singular
+  - sānctum, i, n. (3) : a holy place
+    . sānctō ablative singular
+    . sānctō dative singular

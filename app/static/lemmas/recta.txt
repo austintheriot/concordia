@@ -1,0 +1,19 @@
+  - rĕgo, is, ere, rexi, rectum (296) : to rule, guide; to manage, direct;
+    . rēctă participle perfect passive feminine nominative singular
+    . rēctā participle perfect passive feminine ablative singular
+    . rēctă participle perfect passive neuter accusative plural
+    . rēctă participle perfect passive neuter nominative plural
+    . rēctă participle perfect passive neuter vocative plural
+    . rēctă participle perfect passive feminine vocative singular
+  - rēctus, a, um (252) : right, proper; straight; honest;
+    . rēctă feminine nominative singular
+    . rēctă neuter accusative plural
+    . rēctā feminine ablative singular
+    . rēctă neuter nominative plural
+    . rēctă feminine vocative singular
+    . rēctă neuter vocative plural
+  - rēctā, adv. (16) : directly, straight;
+  - rēctum, i, n. (63) : that which is right, good, virtuous; uprightness, rectitude, virtue, subjective-clause
+    . rēctă accusative plural
+    . rēctă nominative plural
+    . rēctă vocative plural

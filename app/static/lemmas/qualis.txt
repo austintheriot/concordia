@@ -1,0 +1,16 @@
+  - quālĭs, e (150) : what kind/sort/condition (of); what is (he/it) like; what/how excellent a ...;
+    . quālĭs feminine nominative singular
+    . quālĭs masculine nominative singular
+    . quālīs feminine accusative plural
+    . quālīs masculine accusative plural
+    . quālĭs neuter genitive singular
+    . quālĭs feminine genitive singular
+    . quālĭs masculine genitive singular
+    . quālĭs feminine vocative singular
+    . quālĭs masculine vocative singular
+  - quālus, i, m. (10) : a wicker basket, hamper, a fruit-hamper, wool-basket, winestrainer
+    . quālīs ablative plural
+    . quālīs dative plural
+  - quālum, i, n. (5) : corbeille, panier
+    . quālīs ablative plural
+    . quālīs dative plural

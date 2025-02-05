@@ -1,0 +1,9 @@
+  - quī, quae, quod, pron. rel. (41601) : who; that; which, what; of which kind/degree; person/thing/time/point that
+    . quī masculine nominative singular
+    . quī masculine nominative plural
+  - quĭs, quae, quid, pron. interr. (13642) : who? which? what? what man?
+    . quī masculine nominative plural
+  - quī, adv. (193) : how?; how so; in what way; by what/which means; whereby; at whatever price;
+  - quĕo, is, ire, ii ou iui, itum (191) : to be able;
+    . quī perfect indicative active 1st singular
+    . quī present imperative active 2nd singular

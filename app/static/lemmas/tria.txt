@@ -1,0 +1,4 @@
+  - trēs, ium (496) : three;
+    . trĭă neuter accusative plural
+    . trĭă neuter nominative plural
+    . trĭă neuter vocative plural

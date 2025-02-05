@@ -10,10 +10,9 @@
     "lint": "yarn workspace app lint",
     "check": "yarn workspace app check",
     "test": "yarn workspace app test",
-    "build": "yarn workspace app build"
+    "gen:lemmas": "yarn node --experimental-strip-types ./scripts/generateLemmas.ts"
   },
   "devDependencies": {
-    "husky": "^9.1.7",
-    "pinst": "^3.0.0"
+    "husky": "^9.1.7"
   }
 }

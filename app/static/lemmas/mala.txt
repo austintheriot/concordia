@@ -1,0 +1,19 @@
+  - mălus, a, um (844) : bad, evil, wicked; ugly; unlucky;
+    . mălă feminine nominative singular
+    . mălă neuter accusative plural
+    . mălā feminine ablative singular
+    . mălă neuter nominative plural
+    . mălă feminine vocative singular
+    . mălă neuter vocative plural
+  - māla, ae, f. (33) : cheeks, jaws;
+    . mālā ablative singular
+    . mālă nominative singular
+    . mālă vocative singular
+  - mălŭm, i, n. : evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt
+    . mălă accusative plural
+    . mălă nominative plural
+    . mălă vocative plural
+  - mālŭm, i, n. : apple; fruit; lemon; quince; hurt;
+    . mālă accusative plural
+    . mālă nominative plural
+    . mālă vocative plural

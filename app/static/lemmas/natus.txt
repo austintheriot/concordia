@@ -1,0 +1,15 @@
+  - nātus, i, m. (318) : born, arisen; made; destined; designed, intended, produced by nature; aged,
+    . nātŭs nominative singular
+  - nāscŏr, eris, i, natus sum (502) : to be born, to be begotten
+    . nātŭs participle perfect active masculine nominative singular
+  - nātŭs, us, m. (53) : birth;
+    . nātŭs nominative singular
+    . nātūs accusative plural
+    . nātūs genitive singular
+    . nātūs nominative plural
+    . nātŭs vocative singular
+    . nātūs vocative plural
+  - nātus, a, um (76) : born;
+    . nātŭs masculine nominative singular
+  - nō, as, are (43) : to swim, float;
+    . nātŭs participle perfect passive masculine nominative singular

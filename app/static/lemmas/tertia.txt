@@ -1,0 +1,9 @@
+  - tērtĭus, a, um (447) : the third
+    . tērtĭă feminine nominative singular
+    . tērtĭă neuter accusative plural
+    . tērtĭā feminine ablative singular
+    . tērtĭă neuter nominative plural
+    . tērtĭă feminine vocative singular
+    . tērtĭă neuter vocative plural
+  - tērtĭō, as, are : thirdly;
+    . tērtĭā present imperative active 2nd singular

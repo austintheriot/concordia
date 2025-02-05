@@ -1,0 +1,11 @@
+  - trēs, ium (496) : three;
+    . trēs feminine nominative singular
+    . trēs masculine nominative singular
+    . trēs feminine accusative plural
+    . trēs masculine accusative plural
+    . trēs feminine nominative plural
+    . trēs masculine nominative plural
+    . trēs feminine vocative singular
+    . trēs masculine vocative singular
+    . trēs feminine vocative plural
+    . trēs masculine vocative plural
