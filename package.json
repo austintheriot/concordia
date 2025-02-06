@@ -8,6 +8,7 @@
     "postinstall": "husky",
     "dev": "yarn workspace app dev",
     "lint": "yarn workspace app lint",
+    "build": "yarn workspace app build",
     "check": "yarn workspace app check",
     "test": "yarn workspace app test",
     "gen:lemmas": "yarn node --experimental-strip-types ./scripts/generateLemmas.ts"
