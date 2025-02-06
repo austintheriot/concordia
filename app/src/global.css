@@ -236,3 +236,16 @@
     font-size: 2rem;
   }
 }
+
+[data-popover-content] {
+  position: sticky !important;
+  bottom: 16px !important;
+  left: 50% !important;
+  top: unset !important;
+  width: calc(100% - 32px);
+  height: min(20%, 400px);
+  background-color: white;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid var(--primary-8);
+}
